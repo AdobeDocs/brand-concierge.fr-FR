@@ -1,9 +1,9 @@
 ---
 title: Adobe Brand Concierge
 description: En savoir plus sur Adobe Brand Concierge.
-source-git-commit: 9be88150aeae1f553f5ca2172353a72fdc0b4a7c
+source-git-commit: a5182a0b0a74026925202a9183418cde16afe97a
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,7 @@ Adobe Brand Concierge est un compagnon numérique optimisé par l’IA qui trans
 
 Brand Concierge utilise l’IA avancée et se connecte aux outils Adobe pour offrir des conversations utiles en temps réel personnalisées à chaque visiteur. Il s’appuie sur le contenu de marque approuvé, les catalogues de produits et d’autres sources fiables, tout en s’assurant que toutes les informations sont sûres et à jour.
 
-* Parcours de conversation : les visiteurs interagissent par le biais de texte naturel ou de la voix, posent des questions, reçoivent des comparaisons visuelles de produits et explorent des recommandations personnalisées.
-* Personalization : la plateforme adapte ses réponses en utilisant les signaux des clients, les interactions précédentes et les données comportementales (dans le plein respect de la confidentialité et de la conformité).
+* Parcours de conversation : les visiteurs interagissent par le biais de texte naturel, posent des questions, reçoivent des comparaisons visuelles de produits et explorent des recommandations personnalisées.
 * Intégration omnicanale : Brand Concierge peut être intégré aux canaux numériques d’une marque : sites web, applications mobiles et même SDK intégrés pour des déploiements personnalisés.
 * Contrôle et gouvernance de la marque : les marketeurs disposent d’outils simples et à code faible pour configurer le comportement, la messagerie et la logique de workflow des agents, tout en maintenant le ton et la sécurité de la marque au premier plan.
 * Analytics et optimisation : les tableaux de bord intégrés offrent une visibilité sur les mesures d’engagement, de commentaires et de conversion, permettant ainsi un affinement continu de l’expérience.
@@ -29,9 +28,8 @@ Brand Concierge utilise l’IA avancée et se connecte aux outils Adobe pour off
 
 Adobe Brand Concierge se distingue des chatbots traditionnels et des assistants tiers de plusieurs façons :
 
-* IA fiable et sécurisée par la marque : contrairement à l’IA conversationnelle générique, Brand Concierge n’affiche que les réponses et recommandations basées sur votre contenu vérifié. Les marketeurs ont un contrôle total sur le ton, la messagerie et les mécanismes de sécurisation de conformité.
 * Conversion et fidélité accrues : en rencontrant les visiteurs et les visiteuses avec des réponses instantanées, pertinentes et personnalisées (au lieu de pages de recherche statiques ou de FAQ), Brand Concierge accélère la prise de décision, stimule les conversions et maintient l’engagement des utilisateurs et utilisatrices sur vos propres propriétés.
-* Fonctionnalité à venir - Transfert humain transparent : lorsqu’une question nécessite une intervention directe, Brand Concierge peut transmettre la conversation (avec contexte) à un agent commercial ou de support, assurant ainsi la continuité et une expérience client fluide.
+* Prochainement - Transfert humain transparent : lorsqu’une question nécessite une intervention directe, Brand Concierge peut transmettre la conversation (avec contexte) à un agent commercial ou de support, assurant ainsi la continuité et une expérience client fluide.
 * Apprentissage et amélioration continus : chaque interaction enrichit les profils client et fournit des informations exploitables. Les marketeurs et les propriétaires de site peuvent voir ce que les clients demandent, recueillir des commentaires et optimiser les flux, le tout sans avoir besoin de développeurs.
 * Déploiement flexible, rentabilité rapide : ajoutez facilement Brand Concierge en tant que widget ou incorporez-le via SDK sur votre site ou application. Les intégrations profondes d’Adobe permettent une configuration rapide pour les marques qui travaillent avec AEM, AEP ou Commerce, mais elles fonctionnent également sans elles.
 
