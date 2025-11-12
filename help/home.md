@@ -1,9 +1,9 @@
 ---
 title: Adobe Brand Concierge
 description: En savoir plus sur Adobe Brand Concierge.
-source-git-commit: e0d40aa0cc85e87416c58729851f1c9d12c9e933
+source-git-commit: 9be88150aeae1f553f5ca2172353a72fdc0b4a7c
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Adobe Brand Concierge est un compagnon numérique optimisé par l’IA qui trans
 
 ## Fonctionnement
 
-À la base, Brand Concierge exploite de grands modèles de langage (LLM) et s’intègre à la pile d’expérience digitale d’Adobe (comme Adobe Experience Manager et Adobe Experience Platform) pour proposer des conversations en temps réel adaptées au contexte. Il s’appuie sur le contenu de marque approuvé, les catalogues de produits et d’autres sources fiables, tout en s’assurant que toutes les informations sont sûres et à jour.
+Brand Concierge utilise l’IA avancée et se connecte aux outils Adobe pour offrir des conversations utiles en temps réel personnalisées à chaque visiteur. Il s’appuie sur le contenu de marque approuvé, les catalogues de produits et d’autres sources fiables, tout en s’assurant que toutes les informations sont sûres et à jour.
 
 * Parcours de conversation : les visiteurs interagissent par le biais de texte naturel ou de la voix, posent des questions, reçoivent des comparaisons visuelles de produits et explorent des recommandations personnalisées.
 * Personalization : la plateforme adapte ses réponses en utilisant les signaux des clients, les interactions précédentes et les données comportementales (dans le plein respect de la confidentialité et de la conformité).
@@ -29,9 +29,9 @@ Adobe Brand Concierge est un compagnon numérique optimisé par l’IA qui trans
 
 Adobe Brand Concierge se distingue des chatbots traditionnels et des assistants tiers de plusieurs façons :
 
-* IA fiable et sécurisée par la marque : contrairement à l’IA conversationnelle générique, Brand Concierge n’affiche que les réponses et les recommandations basées sur votre contenu vérifié, sans jamais « halluciner » ni s’appuyer sur des sources non approuvées. Les marketeurs ont un contrôle total sur le ton, la messagerie et les mécanismes de sécurisation de conformité.
+* IA fiable et sécurisée par la marque : contrairement à l’IA conversationnelle générique, Brand Concierge n’affiche que les réponses et recommandations basées sur votre contenu vérifié. Les marketeurs ont un contrôle total sur le ton, la messagerie et les mécanismes de sécurisation de conformité.
 * Conversion et fidélité accrues : en rencontrant les visiteurs et les visiteuses avec des réponses instantanées, pertinentes et personnalisées (au lieu de pages de recherche statiques ou de FAQ), Brand Concierge accélère la prise de décision, stimule les conversions et maintient l’engagement des utilisateurs et utilisatrices sur vos propres propriétés.
-* Transfert humain transparent : lorsqu’une question nécessite un contact direct, Brand Concierge peut transmettre la conversation (avec contexte) à un agent commercial ou de support, assurant ainsi la continuité et une expérience client fluide.
+* Fonctionnalité à venir - Transfert humain transparent : lorsqu’une question nécessite une intervention directe, Brand Concierge peut transmettre la conversation (avec contexte) à un agent commercial ou de support, assurant ainsi la continuité et une expérience client fluide.
 * Apprentissage et amélioration continus : chaque interaction enrichit les profils client et fournit des informations exploitables. Les marketeurs et les propriétaires de site peuvent voir ce que les clients demandent, recueillir des commentaires et optimiser les flux, le tout sans avoir besoin de développeurs.
 * Déploiement flexible, rentabilité rapide : ajoutez facilement Brand Concierge en tant que widget ou incorporez-le via SDK sur votre site ou application. Les intégrations profondes d’Adobe permettent une configuration rapide pour les marques qui travaillent avec AEM, AEP ou Commerce, mais elles fonctionnent également sans elles.
 
