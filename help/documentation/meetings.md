@@ -48,7 +48,7 @@ Connectez-vous à votre compte Outlook ou Google et définissez différents para
 
 >[!NOTE]
 >
->Pour ajouter d’autres options de temps, cliquez simplement sur l’icône + (![icône + ](assets/icon-plus-sign.png)).
+>Pour ajouter d’autres options de temps, cliquez simplement sur l’icône + (![icône + &#x200B;](assets/icon-plus-sign.png)).
 
 ![Page de disponibilité du calendrier avec tous les champs renseignés](assets/meetings-availability-2.png)
 
