@@ -1,9 +1,7 @@
 ---
 title: Réunions dans Adobe Brand Concierge
 description: Découvrez comment configurer des réunions dans Adobe Brand Concierge.
-hide: true
-hidefromtoc: true
-source-git-commit: 08e05eb4f50a7b4451e6e2f0ce3399c82a4beaa0
+source-git-commit: 3994c9557bfed43aef9584324fe6be0f70b974dc
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 3%
@@ -48,7 +46,7 @@ Connectez-vous à votre compte Outlook ou Google et définissez différents para
 
 >[!NOTE]
 >
->Pour ajouter d’autres options de temps, cliquez simplement sur l’icône + (![icône + &#x200B;](assets/icon-plus-sign.png)).
+>Pour ajouter d’autres options de temps, cliquez simplement sur l’icône + (![icône + ](assets/icon-plus-sign.png)).
 
 ![Page de disponibilité du calendrier avec tous les champs renseignés](assets/meetings-availability-2.png)
 
