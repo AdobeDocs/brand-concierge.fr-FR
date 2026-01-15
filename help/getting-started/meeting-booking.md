@@ -32,6 +32,6 @@ Découvrez la fonctionnalité de réservation de réunion disponible dans Adobe 
 * Découvrez la rapidité et la facilité d’un transfert vers un agent en direct
 * Découvrez comment ces outils sont gérés et configurés
 
->[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478536?captions=fre_fr&learn=on&enablevpops)
 
 Pour plus de documentation, voir [Réunions](../documentation/meetings.md).

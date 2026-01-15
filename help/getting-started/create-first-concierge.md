@@ -32,6 +32,6 @@ Découvrez comment configurer votre premier Brand Concierge Adobe pour aider les
 * Comment connecter des sources de contenu pour obtenir des réponses précises
 * Comment personnaliser la voix de la marque et tester l’expérience
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476523/?captions=fre_fr&learn=on&enablevpops)
 
 Pour consulter la documentation, voir l’aide de [Brand Concierge](../documentation/overview.md).
