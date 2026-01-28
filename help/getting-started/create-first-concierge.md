@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 181
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19504
-source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
+source-git-commit: 0da8fba88277c80a8413484e39167b9aa01170e5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Créer votre premier concierge
 
-Découvrez comment configurer votre premier Brand Concierge Adobe pour aider les clients à trouver les produits, services ou expériences Adobe adaptés. Vous apprendrez à nommer votre concierge, à ajouter du contenu utile, à choisir comment il répond et à faire correspondre sa voix à votre marque. Une fois prêt, vous pouvez le tester et voir comment il fonctionne sur les ordinateurs de bureau et les appareils mobiles.
+Découvrez comment configurer votre première Brand Concierge Adobe pour aider les clients à bénéficier d’une expérience de conversation personnalisée sur votre site web. Vous apprendrez à nommer votre concierge, à ajouter du contenu utile, à choisir comment il répond et à faire correspondre sa voix à votre marque. Une fois prêt, vous pouvez le tester et voir comment il fonctionne sur les ordinateurs de bureau et les appareils mobiles.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -32,6 +32,6 @@ Découvrez comment configurer votre premier Brand Concierge Adobe pour aider les
 * Comment connecter des sources de contenu pour obtenir des réponses précises
 * Comment personnaliser la voix de la marque et tester l’expérience
 
->[!VIDEO](https://video.tv.adobe.com/v/3476523/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
 
 Pour consulter la documentation, voir l’aide de [Brand Concierge](../documentation/overview.md).
