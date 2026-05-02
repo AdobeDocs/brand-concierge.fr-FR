@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVÉ
 
-Ce référentiel a été migré vers <https://github.com/Adobe-Enterprise-Docs/brand-concierge.en>.
+Ce référentiel a été migré vers <https://github.com/Adobe-Enterprise-Docs/brand-concierge.fr-FR>.
