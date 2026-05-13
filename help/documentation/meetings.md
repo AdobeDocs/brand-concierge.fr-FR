@@ -4,9 +4,13 @@ description: Découvrez comment configurer des réunions dans Adobe Brand Concie
 level: Beginner
 role: User,Admin
 TQID: https://experienceleague.adobe.com/vfX6M2-ts7d2-AxKGjaP1Ygkk3FGSGRl4CHslcKYSXU
-product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
 source-wordcount: 347
@@ -26,11 +30,11 @@ Connectez-vous à votre compte Outlook ou Google et définissez différents para
 
 ### Connecter votre calendrier {#connect}
 
-1. Connectez-vous à [](https://experience.adobe.com/){target="_blank"}.
+1. Connectez-vous à [&#128279;](https://experience.adobe.com/){target="_blank"}.
 
 1. Sélectionnez **[!UICONTROL Qualificateur de vente]**.
 
-   ![Page d’accueil de ](assets/meetings-connect-1.png){width="800" zoomable="yes"}
+   ![Page d’accueil de &#x200B;](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
 1. Sous _Configuration_, cliquez sur **[!UICONTROL Paramètres représentatifs]**.
 
@@ -40,7 +44,7 @@ Connectez-vous à votre compte Outlook ou Google et définissez différents para
 
 1. Choisissez un compte déjà connecté ou ajoutez-en un nouveau.
 
-   ![Boîte de dialogue modale Choisir un compte de ](assets/meetings-connect-3.png)
+   ![Boîte de dialogue modale Choisir un compte de &#x200B;](assets/meetings-connect-3.png)
 
 1. Une fois la connexion établie, spécifiez le contenu de l’e-mail souhaité.
 
