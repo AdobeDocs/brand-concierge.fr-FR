@@ -1,15 +1,26 @@
 ---
 title: Documentation et tutoriels
 description: Découvrez comment configurer et optimiser votre assistant d’IA avec des guides de configuration, des sources de connaissances, la personnalisation de la marque, des réunions et des analyses.
-source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
+TQID: https://experienceleague.adobe.com/kZrU0Q9jKGs0szcjl3uP7z9Dfsqyxmec8ClZiMS8z08
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: 479
 ht-degree: 0%
 
 ---
 
-
-# Adobe Brand Concierge
+# Adobe Brand Concierge
 
 Brand Concierge est un compagnon numérique optimisé par l’IA qui transforme la façon dont les marques interagissent avec les visiteurs de leur site web. Contrairement aux chatbots génériques, Brand Concierge offre des expériences de conversation personnalisées et adaptées aux intentions de chaque visiteur. Il permet aux visiteurs de découvrir des produits, de comparer des options, d’obtenir des réponses instantanées et de recevoir des recommandations guidées en temps réel. La plateforme sert à la fois le B2C et le B2B. Il agit comme une extension intelligente de votre marque sur n’importe quel canal numérique, tout en préservant la voix de votre marque, l’intégrité de votre contenu et la conformité.
 
@@ -19,7 +30,7 @@ Brand Concierge est un compagnon numérique optimisé par l’IA qui transforme 
 
 Brand Concierge utilise l’IA avancée et se connecte aux outils Adobe pour offrir des conversations utiles en temps réel personnalisées à chaque visiteur. Il s’appuie sur le contenu de marque approuvé, les catalogues de produits et d’autres sources fiables, tout en s’assurant que toutes les informations sont sûres et à jour.
 
-* **parcours de conversation :** les visiteurs interagissent par le biais de texte naturel ou de la voix, posent des questions, reçoivent des comparaisons visuelles de produits et explorent des recommandations personnalisées.
+* parcours de conversation :**les visiteurs interagissent par le biais de texte naturel ou de la voix, posent des questions, reçoivent des comparaisons visuelles de produits et explorent des recommandations personnalisées.**
 * **Personalization :** la plateforme adapte ses réponses en utilisant les signaux des clients, les interactions précédentes et les données comportementales (dans le plein respect de la confidentialité et de la conformité).
 * **Intégration omnicanale :** Brand Concierge peut être incorporé aux canaux numériques d’une marque : sites web, applications mobiles et même SDK intégrés pour des déploiements personnalisés.
 * **Contrôle et gouvernance de la marque :** les spécialistes marketing disposent d’outils simples et à faible code pour configurer le comportement, la messagerie et la logique de workflow des agents, en mettant l’accent sur le ton de la marque et la sécurité.
