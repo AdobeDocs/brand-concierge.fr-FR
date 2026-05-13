@@ -3,9 +3,14 @@ title: Documentation du produit
 description: Découvrez comment configurer et utiliser les principales fonctionnalités de Brand Concierge.
 role: User,Admin
 level: Beginner
-source-git-commit: 2c3f3d009d8fef3eaf5bf32d73672eeda7ba05c8
+TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
+product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
-source-wordcount: '1768'
+source-wordcount: 1793
 ht-degree: 1%
 
 ---
@@ -24,7 +29,7 @@ Brand Concierge dispose de plusieurs fonctionnalités essentielles, notamment :
 * **Contrôler l’image de marque :** ajustez la voix, le ton et la longueur de réponse pour répondre aux normes et à l’approche de votre marque.
 * **Prévisualisation et itération :** utilisez une interface de prévisualisation complète pour simuler des conversations et effectuer des réglages en direct.
 * **Système de retour d’informations :** utilisez un système de retour d’informations qui permet aux utilisateurs de fournir des notes favorables ou défavorables, ainsi que des formulaires de retour d’informations détaillés couvrant la couverture de la réponse, le ton, la qualité et les fonctionnalités.
-* **Tableau de bord Analytics :** tirez parti d’un tableau de bord Analytics optimisé par Customer Journey Analytics pour les mesures telles que les conversations, les sentiments et l’engagement.
+* **Tableau de bord Analytics :** tirez parti d’un tableau de bord Analytics optimisé par Customer Journey Analytics pour les mesures telles que les conversations, le sentiment et l’engagement.
 
 ## Commencer {#getting-started}
 
@@ -71,7 +76,7 @@ Une fois la configuration terminée, un résumé de la configuration fournit une
 [!UICONTROL Sources de connaissances] vous aide à gérer les sources de données qui alimentent les réponses de votre concierge. Vous pouvez accéder aux [!UICONTROL sources de connaissances] après avoir chargé vos fichiers initiaux. [!UICONTROL Sources de connaissances] comporte un certain nombre d’éléments clés à prendre en compte, notamment :
 
 * **Liste Source :** affiche tous les éléments chargés, tels que les fichiers CSV contenant des liens vers des sites Web, et indique s&#39;ils sont traités ou en attente.
-* **Interface de chargement :** vous permet de faire un glisser-déposer ou de rechercher des fichiers CSV contenant des URL que le système analysera pour extraire des connaissances.
+* **Interface de chargement :** vous permet de faire un glisser-déposer ou de rechercher des fichiers CSV contenant des URL que le système explorera d’extraire des connaissances.
 * **Options de connexion :** permet de lier des sources de connaissances spécifiques à des compétences pertinentes pour une utilisation plus ciblée.
 
 **Pour ajouter une source de connaissances**
@@ -109,7 +114,7 @@ Utilisez l’interface [!UICONTROL Configuration des compétences] pour définir
 1. Sélectionnez une compétence (par exemple, Conseils sur les produits).
 1. Répondez aux questions de configuration qui suivent.
 
-   Voici quelques exemples de questions : _Que doit savoir le concierge au sujet des produits ?_, _quelles règles d’entreprise faut-il suivre ?_, _quels mots-clés doivent être évités ?_
+   Voici quelques exemples de questions : _Que doit savoir le concierge au sujet des produits ?_, _Quelles règles d’entreprise doivent être suivies ?_, _Quels mots-clés doivent être évités ?_
 
 1. Connecter les [sources de connaissances](#knowledge-sources) pertinentes.
 1. Activer les fonctionnalités supplémentaires (réservation de réunion).
@@ -127,7 +132,7 @@ Avec Brand Expression, vous pouvez utiliser des curseurs pour personnaliser les 
 2. Ensuite, configurez la voix, le ton et la longueur de réponse préférée de votre marque.
 3. Sélectionnez **[!UICONTROL Enregistrer]** pour vous assurer que les modifications sont répercutées dans les réponses futures.
 
-### Prévisualisation et test {#preview-and-test}
+### Prévisualiser et tester {#preview-and-test}
 
 Testez votre concierge avant de vous lancer pour les clients qui utilisent les modes Aperçu et Tester la vue .
 
@@ -166,7 +171,7 @@ Une fois le test terminé, vous pouvez utiliser l’onglet Commentaires sur la p
 
 La section des commentaires propose plusieurs fonctionnalités importantes pour vous aider à surveiller et à évaluer les performances de Brand Concierge. Les éléments disponibles sont les suivants :
 
-* **Capture instantanée des performances :** affiche des cartes résumant les mesures clés, y compris le nombre total de conversations, les utilisateurs uniques, les tendances de sentiment et le taux d’engagement.
+* **Capture instantanée des performances :** affiche des cartes résumant les mesures clés, y compris le nombre total de conversations, les utilisateurs uniques, les évolutions du sentiment et le taux d’engagement.
 * **Bouton Afficher le rapport :** permet d’ouvrir un tableau de bord optimisé par Customer Journey Analytics pour un accès en profondeur aux analyses avancées et aux mesures de performances.
 * **Liste de commentaires :** présente un tableau des sessions de commentaires. Vous pouvez cliquer sur des lignes individuelles pour afficher le relevé de notes complet de la conversation pour chaque session.
 * **Panneau Commentaires :** affiche les cartes de performance sur le côté droit de l’interface. Pointez ou cliquez sur ces cartes pour mettre en surbrillance les parties pertinentes du relevé de notes de conversation afin d’en faciliter la consultation.
