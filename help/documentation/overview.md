@@ -4,23 +4,13 @@ description: Découvrez comment configurer et utiliser les principales fonctionn
 role: User,Admin
 level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
-product_v2:
-  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 950a34b078c453274cc8ea9b7d236b0871e4a0ad
+product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 320bf9530164830eae88075663bdbd6216556b5a
 workflow-type: tm+mt
-source-wordcount: 1995
+source-wordcount: 1999
 ht-degree: 1%
 
 ---
@@ -234,32 +224,32 @@ Brand Concierge prend en charge les cas d’utilisation B2C et B2B dans plusieur
 | Voyage et hébergement | Les clients reçoivent des recommandations de destination personnalisées, une assistance pour la planification des itinéraires, une assistance tout au long du processus de réservation et des réponses aux questions de politique de voyage. |
 | Services financiers | Brand Concierge propose des comparaisons de produits pour aider les clients à choisir les bonnes solutions financières, fournit des informations sur les comptes, fournit des conseils en matière de conformité et permet de planifier les réunions avec des conseillers financiers. |
 
-## Divulgation du bot conversationnel {#disclosure}
+## Divulgation de l’IA dédiée aux conversations {#disclosure}
 
-Pour offrir une expérience transparente et digne de confiance, les utilisateurs d’Adobe Brand Concierge sont chargés d’ajouter une brève divulgation dans leur expérience de chat. Cette divulgation aide les utilisateurs finaux à comprendre comment fonctionne le chat et comment leurs informations peuvent être utilisées.
+Pour offrir une expérience transparente et digne de confiance, les utilisateurs d’Adobe Brand Concierge sont chargés d’ajouter une brève divulgation dans leur expérience de conversation. Cette divulgation aide les utilisateurs finaux à comprendre comment la conversation fonctionne et comment leurs informations peuvent être utilisées.
 
 **Ce que la divulgation doit couvrir**
 
-Votre divulgation dans le chat devrait communiquer clairement trois choses aux utilisateurs finaux.
+Votre divulgation au cours de la conversation doit communiquer clairement trois choses aux utilisateurs finaux.
 
-1. _Le chat utilise l’IA générative_
+1. _La conversion utilise l’IA générative_
 
    Informez les utilisateurs que les réponses sont générées par l’IA, afin qu’ils comprennent qu’ils interagissent avec un système automatisé.
 
 1. _Les conversations peuvent être examinées pour améliorer l’expérience_
 
-   Les utilisateurs doivent être informés que les conversations de chat peuvent être consultées par vous (le client) et vos fournisseurs de services pour aider à personnaliser les réponses et améliorer la qualité et la performance du chat.
+   Les utilisateurs doivent être informés que vous (le client) et vos fournisseurs de services pouvez accéder aux conversations pour personnaliser les réponses et améliorer la qualité et la performance de la conversation.
 
-1. _Utiliser le chat signifie accepter cette utilisation_
+1. _Utiliser l’IA dédiée à la conversation signifie accepter cette utilisation_
 
-Indiquez clairement qu&#39;en continuant à utiliser le chat, les utilisateurs acceptent ce traitement de leurs données de chat.
+Indiquez clairement qu’en continuant à utiliser l’IA dédiée à la conversation, les utilisateurs et utilisatrices acceptent ce traitement des données de leur conversation.
 
 **Exemple (à titre de référence uniquement)**
 
-`"This chat uses generative AI to help respond to you. Chats may be recorded by [customer] and/or our service provider and used to help operate and improve services, make your interactions with us better, and provide a more personalized experience. By continuing to chat you agree to this processing of data."`
+`"This conversational AI uses generative AI to help respond to you. Conversations may be recorded by [customer] and/or our service provider and used to help operate and improve services, make your interactions with us better, and provide a more personalized experience. By continuing to conversational AI you agree to this processing of data."`
 
 Vous êtes libre d&#39;adapter le libellé à la voix de votre marque et à l&#39;expérience de vos utilisateurs, à condition que les points clés ci-dessus soient clairement communiqués.
 
 **Pourquoi Est-Ce Important**
 
-Être franc sur le fonctionnement du chat permet de définir les attentes appropriées pour les utilisateurs et de renforcer la confiance dans les expériences basées sur l’IA.
+Être franc sur le fonctionnement de l’IA dédiée à la conversation permet de définir les attentes appropriées pour les utilisateurs et les utilisatrices, et de renforcer la confiance dans les expériences basées sur l’IA.
