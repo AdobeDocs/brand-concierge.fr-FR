@@ -36,4 +36,4 @@ Découvrez comment l’identifiant du flux de données connecte les événements
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491535?learn=on)
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
