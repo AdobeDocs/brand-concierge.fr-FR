@@ -34,6 +34,6 @@ Découvrez comment l’identifiant du flux de données connecte les événements
 
 <!-- Replace the video ID in the URL below with your Adobe Media Player asset ID when published. -->
 
->[!VIDEO](https://video.tv.adobe.com/v/3491535?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491537?captions=fre_fr&learn=on)
 
 Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
