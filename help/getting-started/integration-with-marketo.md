@@ -31,4 +31,4 @@ Découvrez comment Brand Concierge ferme la boucle entre votre site web et Marke
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
