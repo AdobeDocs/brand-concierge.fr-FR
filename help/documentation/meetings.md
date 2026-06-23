@@ -11,10 +11,10 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: 1b1598dc2c6308ae38a2aeaf14576c9c55be5ba5
 workflow-type: tm+mt
-source-wordcount: 347
-ht-degree: 2%
+source-wordcount: 329
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,9 @@ ht-degree: 2%
 
 Découvrez tous vos paramètres _Réunion_ dans Adobe Brand Concierge. Connectez votre calendrier, définissez la disponibilité, affichez les analyses, etc.
 
-Connexe : [Réserver une réunion](../getting-started/meeting-booking.md) vidéo
+>[!NOTE]
+>
+>Tu peux également regarder une vidéo [Réserver une réunion](../getting-started/meeting-booking.md).
 
 ## Configuration {#configuration}
 
@@ -36,11 +38,9 @@ Connectez-vous à votre compte Outlook ou Google et définissez différents para
 
    ![Page d’accueil de &#x200B;](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
-1. Sous _Configuration_, cliquez sur **[!UICONTROL Paramètres représentatifs]**.
+1. Sous _Configuration_, cliquez sur **Paramètres de profil**. Dans l’onglet **[!UICONTROL Configuration du calendrier]**, choisissez le calendrier de votre choix.
 
    ![Page de configuration du calendrier](assets/meetings-connect-2.png)
-
-   Dans l’onglet _[!UICONTROL Configuration du calendrier]_, choisissez le calendrier de votre choix. Dans cet exemple, vous sélectionnez **[!UICONTROL Outlook]**.
 
 1. Choisissez un compte déjà connecté ou ajoutez-en un nouveau.
 
@@ -54,15 +54,13 @@ Connectez-vous à votre compte Outlook ou Google et définissez différents para
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
-### Définir la disponibilité du calendrier {#availability}
+### Définir la disponibilité du calendrier {#calendar-availability}
 
 1. Cliquez sur l&#39;onglet **[!UICONTROL Disponibilité du calendrier]**.
 
    ![Page de disponibilité du calendrier vierge](assets/meetings-availability-1.png)
 
 1. Choisissez les paramètres souhaités.
-
-   Dans cet exemple, vous choisissez **[!UICONTROL Durée de la réunion]** de 30 minutes avec une **[!UICONTROL Durée de la mémoire tampon]** de 15 minutes et un **[!UICONTROL Préavis minimum]** de 2 heures. La disponibilité est établie du lundi au vendredi, de 8 h à 17 h (heure du Pacifique), avec une pause d&#39;une heure à midi.
 
    >[!NOTE]
    >
@@ -72,11 +70,18 @@ Connectez-vous à votre compte Outlook ou Google et définissez différents para
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
-### Gestion représentative {#representative}
+### Définir la disponibilité du chat en direct {#chat-availability}
+
+1. Cliquez sur l’onglet **[!UICONTROL Disponibilité du chat en direct]** et choisissez les paramètres souhaités. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+
+   ![Page de disponibilité du chat en direct avec tous les champs renseignés](assets/meetings-availability-3.png)
+
+
+### Gérer les membres {#manage}
 
 **Administrateurs uniquement**. Vérifiez quels représentants ont réussi à connecter leur calendrier.
 
-![Page de gestion des représentants](assets/meetings-representative-1.png){width="800" zoomable="yes"}
+![Page de gestion des représentants](assets/manage-members-1.png)
 
 ## Activités {#activities}
 
