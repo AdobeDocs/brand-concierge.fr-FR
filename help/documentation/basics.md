@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # Principes de base de Brand Concierge
 
-![Brand Concierge](/help/assets/overview/hero.png){align="center"}
+![](/help/assets/overview/hero.png){align="center"}
 
 ## Types de documentation
 
