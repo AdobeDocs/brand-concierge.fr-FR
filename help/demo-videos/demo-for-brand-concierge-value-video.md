@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Cette vidéo explique comment créer et gérer un Brand Concierge (BC) directement à partir d’un collègue à l’aide d’invites en langage naturel. Il présente le flux de bout en bout : il invite le collaborateur à créer un Brand Concierge pour un site web, affiche la boîte de dialogue modale de création en temps réel en cours, affiche l’aperçu de BC, puis demande à l’analytics de conversation d’ouvrir le tableau de bord des rapports Brand Concierge pour une organisation IMS et un sandbox donnés.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494747)
+>[!VIDEO](https://video.tv.adobe.com/v/3494749?captions=fre_fr)
 
