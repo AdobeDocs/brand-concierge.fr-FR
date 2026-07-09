@@ -24,4 +24,4 @@ ht-degree: 41%
    + [Forum aux questions](../documentation/brand-concierge-faq.md)
 + Notes de mise à jour {#release-notes}
    + [Informations sur la version actuelle](../release-notes/current.md)
-+ [Démonstration pour le concierge de la marque - Vidéo de valeur](../demo-videos/demo-for-brand-concierge-value-video.md){.hide-from-toc}
++ [Démonstration pour le concierge de la marque - Vidéo de valeur.hide-from-toc](../demo-videos/demo-for-brand-concierge-value-video.md)
