@@ -4,35 +4,19 @@ description: En savoir plus sur la vidéo de démonstration pour Brand Concierge
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 111
+duration: 130
 last-substantial-update: 2026-07-09T00:00:00Z
 jira: KT-21955
 hide: true
-source-git-commit: 2f42997f9c4510d3a5e4cf321795dcedcbebdd5d
+source-git-commit: 82c76581434ed1e1a4ae2e8846c4cab9ad369f24
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 16%
+source-wordcount: '91'
+ht-degree: 0%
 
 ---
 
-# Démonstration pour le concierge de la marque - Vidéo de valeur
+# Création et gestion d’un Brand Concierge à partir d’un collègue
 
-## Vue d’ensemble
+Cette vidéo explique comment créer et gérer un Brand Concierge (BC) directement à partir d’un collègue à l’aide d’invites en langage naturel. Il présente le flux de bout en bout : il invite le collaborateur à créer un Brand Concierge pour un site web, affiche la boîte de dialogue modale de création en temps réel en cours, affiche l’aperçu de BC, puis demande à l’analytics de conversation d’ouvrir le tableau de bord des rapports Brand Concierge pour une organisation IMS et un sandbox donnés.
 
-<!-- Briefly describe what this page covers and why it matters to the reader. -->
-
-## Conditions préalables
-
-<!-- List anything the reader needs before starting (permissions, tools, prior knowledge). -->
-
-## Étapes
-
-<!-- Replace this section heading with a task-specific verb phrase, e.g. 'Configure the data stream'. -->
-
-1. Première étape.
-1. Étape 2.
-1. Troisième étape.
-
-## Ressources supplémentaires
-
-<!-- Link to related documentation, tutorials, or community posts. -->
+>[!VIDEO](https://video.tv.adobe.com/v/3494747)
