@@ -34,4 +34,4 @@ Préparez-vous à publier Adobe Brand Concierge, un assistant optimisé par l’
 
 >[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
