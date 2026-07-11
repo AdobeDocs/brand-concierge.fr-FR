@@ -32,6 +32,6 @@ Préparez-vous à publier Adobe Brand Concierge, un assistant optimisé par l’
 * Ce que vous fournissez par rapport à ce que votre équipe Adobe configure
 * Le délai type de six à neuf semaines et ce qui l’affecte
 
->[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495871/?captions=fre_fr&learn=on)
 
 Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
