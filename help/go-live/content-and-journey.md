@@ -40,4 +40,4 @@ Adobe Brand Concierge ne peut répondre qu’aux questions, ainsi qu’au conten
 
 ## Documentation
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
