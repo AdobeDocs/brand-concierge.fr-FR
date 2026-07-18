@@ -32,7 +32,7 @@ Adobe Brand Concierge ne peut répondre qu’aux questions, ainsi qu’au conten
 * Comment préparer votre contenu avant de le partager
 * Comment écrire une définition de parcours visiteur d’une page
 
->[!VIDEO](https://video.tv.adobe.com/v/3496007/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496009/?captions=fre_fr&learn=on)
 
 ## Vidéos connexes dans cette série
 
