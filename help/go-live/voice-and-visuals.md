@@ -34,4 +34,4 @@ Votre concierge ne devrait pas ressembler à un bot conversationnel générique,
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
