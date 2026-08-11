@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 150
 last-substantial-update: 2026-07-10T00:00:00Z
 jira: KT-21745
-source-git-commit: 14c0dae30087e8245964d6bd80eb462f8450f168
+source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -32,6 +32,6 @@ Préparez-vous à publier Adobe Brand Concierge, un assistant optimisé par l’
 * Ce que vous fournissez par rapport à ce que votre équipe Adobe configure
 * Le délai type de six à neuf semaines et ce qui l’affecte
 
->[!VIDEO](https://video.tv.adobe.com/v/3495871/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
 
-Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
