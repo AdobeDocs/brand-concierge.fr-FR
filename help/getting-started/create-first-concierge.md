@@ -5,8 +5,8 @@ topic: Personalization,Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 213
-last-substantial-update: 2025-10-31
+duration: 372
+last-substantial-update: 2026-08-20
 jira: KT-19504
 TQID: https://experienceleague.adobe.com/RDjW-BGiusLzV4wcUQpJ7kB6VxE01H-a6iaDlwbGofc
 product_v2:
@@ -19,16 +19,16 @@ topic_v2:
   - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
+source-git-commit: 5e6249cc834071ae1f330278a4150fe6140da758
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: 160
 ht-degree: 0%
 
 ---
 
 # Créer votre premier concierge
 
-Découvrez comment configurer votre première Brand Concierge Adobe pour aider les clients à bénéficier d’une expérience de conversation personnalisée sur votre site web. Vous apprendrez à nommer votre concierge, à ajouter du contenu utile, à choisir comment il répond et à faire correspondre sa voix à votre marque. Une fois prêt, vous pouvez le tester et voir comment il fonctionne sur les ordinateurs de bureau et les appareils mobiles.
+Découvrez comment configurer votre premier Brand Concierge Adobe en quelques minutes. Indiquez l’URL de votre site web et Brand Concierge crée automatiquement un profil de marque de démarrage et des instructions à partir du contenu de votre site, que vous pouvez examiner et ajuster avant d’enregistrer. Une fois votre concierge créé, testez-le avec des exemples de questions sur les ordinateurs de bureau et les appareils mobiles pour voir comment il répond à l’aide du contenu de votre propre site.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -38,11 +38,11 @@ Découvrez comment configurer votre première Brand Concierge Adobe pour aider l
 
 ## Contenu vidéo
 
-* Configuration d’un Brand Concierge Adobe
-* Comment connecter des sources de contenu pour obtenir des réponses précises
-* Comment personnaliser la voix de la marque et tester l’expérience
+* Comment la saisie de l’URL de votre site web remplit automatiquement votre profil de marque et les instructions suggérées
+* Comment examiner et ajuster le profil de marque, les instructions et les invites de démarrage avant d&#39;enregistrer
+* Comment tester votre concierge avec des exemples de questions sur les ordinateurs de bureau et les appareils mobiles
 
->[!VIDEO](https://video.tv.adobe.com/v/3476523/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476523?captions=fre_fr&learn=on)
 
 Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
 
