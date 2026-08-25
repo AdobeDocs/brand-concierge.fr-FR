@@ -29,7 +29,7 @@ ht-degree: 20%
   + {hide-from-toc}[Cadre de compétences et d’intégration](../documentation/skills-and-integrations.md)
   + [Forum aux questions](../documentation/brand-concierge-faq.md)
   + Vue d’ensemble {#overview}
-    + Présentation de {hide-from-toc}[](../documentation/overview/overview.md)
+    + {hide-from-toc}[Présentation de &#x200B;](../documentation/overview/overview.md)
     + {hide-from-toc}[Votre premier Brand Concierge](../documentation/overview/first-brand-concierge.md)
   + Gestion des utilisateurs et accès {#user-and-access-management}
     + {hide-from-toc}[Ajouter un utilisateur à l’organisation](../documentation/user-and-access-management/add-a-user-to-the-org.md)

@@ -31,7 +31,7 @@ Créez un rôle dans Autorisations Adobe Experience Platform pour accorder aux u
 4. Saisissez un nom pour le rôle, tel que `Brand Concierge Access Users`, ajoutez une description et confirmez la création.
 5. Ouvrez le nouveau rôle et attribuez les autorisations :
 
-   1. Recherchez **** dans la liste des autorisations.
+   1. Recherchez **&#x200B;**&#x200B;dans la liste des autorisations.
    2. Sélectionnez **Gérer Brand Concierge**.
 
    Actuellement, **Gérer Brand Concierge** est la seule autorisation Brand Concierge disponible. Les niveaux d’autorisation granulaires ne sont actuellement pas disponibles.
