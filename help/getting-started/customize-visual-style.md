@@ -32,6 +32,6 @@ Votre Brand Concierge Adobe commence par les choix visuels qu’Adobe a déjà e
 * Comment modifier le titre et le sous-titre du message de bienvenue, y compris la couleur, l’épaisseur et la taille du texte
 * Comment ajouter, supprimer et modifier des cartes d’invite de démarrage, y compris le texte, les images et la couleur d’arrière-plan de la carte
 
->[!VIDEO](https://video.tv.adobe.com/v/3502259)
+>[!VIDEO](https://video.tv.adobe.com/v/3502261?captions=fre_fr)
 
 Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
