@@ -34,4 +34,4 @@ Les évaluations vous indiquent si votre Brand Concierge Adobe répond correctem
 
 >[!VIDEO](https://video.tv.adobe.com/v/3502662)
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
