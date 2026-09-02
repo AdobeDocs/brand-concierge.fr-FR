@@ -41,7 +41,7 @@ Une fois l’invitation à l’organisation et l’affectation de rôle terminé
 
 - Connectez-vous à `experienceplatform.adobe.com`.
 - Afficher les organisations auxquelles elles peuvent accéder.
-- Ouvrez ****.
+- Ouvrez **&#x200B;**.
 - Affichez le ou les sandbox accordés par le biais du rôle.
 
 Dans un sandbox, l’utilisateur peut créer plusieurs concierges.

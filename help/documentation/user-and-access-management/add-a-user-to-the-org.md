@@ -20,7 +20,7 @@ Avant qu’un utilisateur puisse accéder à Brand Concierge, ajoutez-le à l’
 
 ## Ajouter un utilisateur
 
-1. Accédez à ****.
+1. Accédez à **&#x200B;**.
 1. Sélectionnez **Gérer** ou accédez à **Utilisateurs**.
 1. Ajoutez des utilisateurs individuellement ou ajoutez plusieurs utilisateurs par le biais d’un chargement en bloc.
 1. Si l’utilisateur n’existe pas déjà dans l’organisation, sélectionnez l’option permettant d’ajouter cet utilisateur en tant que nouvel utilisateur lorsque vous y êtes invité.

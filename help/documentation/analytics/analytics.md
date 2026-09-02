@@ -59,7 +59,7 @@ Si un visiteur pose une question utile pour des tests ultérieurs, ajoutez-la di
 
 1. Sélectionnez **Ajouter à l’évaluation**.
 
-L’ajout de questions réelles aux visiteurs aide à maintenir les jeux d’évaluation basés sur les questions réelles des visiteurs. Pour plus d’informations sur les jeux d’évaluation, voir [ Évaluer un concierge ](../evaluation/evaluation.md).
+L’ajout de questions réelles aux visiteurs aide à maintenir les jeux d’évaluation basés sur les questions réelles des visiteurs. Pour plus d’informations sur les jeux d’évaluation, voir [&#x200B; Évaluer un concierge &#x200B;](../evaluation/evaluation.md).
 
 >[!TIP]
 >
