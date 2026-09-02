@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Explorer Adobe Brand Concierge
-source-git-commit: 2255c486351718718d7f729ae7f870446c955793
+source-git-commit: 498bbea05a689b36dd4b8f88e0867e7440fa1d38
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 21%
+source-wordcount: '130'
+ht-degree: 20%
 
 ---
 
@@ -20,6 +20,7 @@ ht-degree: 21%
   + [Intégration à Marketo](../getting-started/integration-with-marketo.md)
   + [Personnaliser le style visuel de votre concierge](../getting-started/customize-visual-style.md)
   + [En savoir plus sur les jeux d’évaluation](../getting-started/learn-about-evaluation-sets.md)
+  + [Déployer le concierge](../getting-started/deploy-the-concierge.md)
 + Guide de mise en production {#go-live-guide}
   + [Bienvenue dans votre parcours de mise en production](../go-live/welcome.md)
   + [Préparation de votre contenu et de l’expérience des visiteurs](../go-live/content-and-journey.md)
@@ -30,7 +31,7 @@ ht-degree: 21%
   + {hide-from-toc}[Cadre de compétences et d’intégration](../documentation/skills-and-integrations.md)
   + [Forum aux questions](../documentation/brand-concierge-faq.md)
   + Vue d’ensemble {#overview}
-    + {hide-from-toc}[Présentation de &#x200B;](../documentation/overview/overview.md)
+    + Présentation de {hide-from-toc}[](../documentation/overview/overview.md)
     + {hide-from-toc}[Votre premier Brand Concierge](../documentation/overview/first-brand-concierge.md)
   + Gestion des utilisateurs et accès {#user-and-access-management}
     + {hide-from-toc}[Ajouter un utilisateur à l’organisation](../documentation/user-and-access-management/add-a-user-to-the-org.md)
