@@ -1,5 +1,5 @@
 ---
-title: Questions fréquentes
+title: Forum aux questions
 description: Obtenez des réponses aux questions fréquentes sur Adobe Brand Concierge.
 role: User,Admin
 level: Beginner
@@ -17,9 +17,9 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: d23569d059a42297a92b339ecf92852fb3234033
 workflow-type: tm+mt
-source-wordcount: 1537
+source-wordcount: 1958
 ht-degree: 1%
 
 ---
@@ -49,6 +49,10 @@ Oui. Les cas d’utilisation incluent :
 
 Brand Concierge peut être utilisé dans un large éventail de secteurs, notamment la vente au détail et le commerce électronique, les voyages et l’hôtellerie, les services financiers, les soins de santé (avec contrôles de conformité), les médias et le divertissement, ainsi que la technologie et les logiciels. Pour résumer, tout secteur qui aide les clients à trouver des informations et à prendre des décisions peut tirer parti de la mise en œuvre de Brand Concierge.
 
+### Brand Concierge doit-il être sur le même domaine que mon site web ?
+
+Non. Brand Concierge est indépendant du domaine : l’instance n’a pas besoin de correspondre au domaine du site sur lequel elle est déployée.
+
 ## Données et confidentialité
 
 ### Les données clients sont-elles protégées ?
@@ -56,6 +60,10 @@ Brand Concierge peut être utilisé dans un large éventail de secteurs, notamme
 Oui. Brand Concierge garantit la sécurité des données client en se conformant au RGPD et au CCPA, en traitant les données sur l’infrastructure sécurisée d’Adobe, en vous permettant de contrôler l’utilisation des données et en protégeant les conversations par le biais du chiffrement et de la journalisation d’audit.
 
 Toutes les conversations ont lieu sur vos propriétés, et non sur des serveurs tiers.
+
+### Les données client restent-elles dans ma région ?
+
+Oui. Brand Concierge intègre la résidence des données. Ainsi, les données personnelles collectées au cours d’une conversation (par exemple, un nom, une adresse e-mail ou une adresse postale) restent locales, conformément aux réglementations régionales applicables.
 
 ### Quelles sources de données puis-je connecter ?
 
@@ -95,6 +103,10 @@ Grâce à un travail parallèle et à une collaboration active, de nombreuses im
 
 Vous pouvez contrôler la voix de votre marque directement dans l’interface utilisateur en configurant des éléments tels que le ton (du formel au décontracté), la langue (du simple au technique) et la personnalité (par exemple, serviable, enthousiaste ou professionnel). En outre, vous pouvez définir des modèles de réponse à l’aide de modèles et d’exemples, et établir des mécanismes de sécurisation pour appliquer les règles de conformité et les limites. Commencez par les invites de référence d&#39;Adobe et adaptez ces paramètres pour refléter l&#39;identité unique de votre marque.
 
+### Existe-t-il des mécanismes de sécurisation intégrés en plus de ceux que je configure ?
+
+Oui. Les mécanismes de sécurisation, ainsi que les filtres de contenu et de blasphème, sont appliqués au niveau du système, quelle que soit votre propre configuration. Tout ce qui est spécifique à votre marque ou à votre secteur peut être superposé grâce aux instructions que vous configurez.
+
 ### Que se passe-t-il lorsque Brand Concierge ne peut pas répondre à une question ?
 
 Vous pouvez configurer des comportements de secours afin de déterminer comment Brand Concierge répond lorsqu’il ne peut pas répondre à une question. Les options comprennent l&#39;affichage d&#39;un message « Je ne peux pas m&#39;en empêcher », la suggestion d&#39;autres questions, l&#39;établissement d&#39;un lien vers des ressources en libre-service ou l&#39;escalade automatique de la demande à un agent humain. Choisissez ce qui convient le mieux à votre marque.
@@ -131,6 +143,14 @@ Tous les tests sont effectués avant le déploiement sur les clients.
 
 Oui, les clients peuvent planifier des réunions avec votre équipe à l&#39;aide de la compétence Réservation de réunion. Pour activer cette fonctionnalité, activez la compétence dans la configuration des compétences, définissez les intentions d’activation (telles que « parler avec les ventes »), connectez votre calendrier ou votre système de planification, et définissez vos types de disponibilité et de réunion. Une fois la configuration effectuée, les clients peuvent demander des réunions pendant les conversations et Brand Concierge facilite le processus de planification sans qu&#39;ils aient à quitter la conversation.
 
+### Comment sont générées les paires questions/réponses initiales dans ma base de connaissances ?
+
+En mode de génération automatique, Brand Concierge s’appuie sur le contenu extrait de votre propre site pour générer un ensemble initial de paires questions/réponses. Ensuite, vous pouvez examiner et modifier les questions/réponses générées en fonction de votre propre expertise avant qu’elles ne soient mises en ligne.
+
+### Ma base de connaissances reste-t-elle à jour au fur et à mesure que mon site change ?
+
+Oui. Le contenu peut être actualisé régulièrement ou manuellement à tout moment, de sorte que le contenu supprimé ou obsolète (liens rompus, pages retirées, modifications de prix ou produits abandonnés) puisse être effacé de la base de connaissances.
+
 ### Qui gère l’ingénierie rapide ?
 
 Les consultants Adobe gèrent l’ingénierie rapide en arrière-plan :
@@ -166,11 +186,19 @@ Vous pouvez mesurer le succès à l’aide du tableau de bord Brand Concierge. U
 
 Vous pouvez également intégrer à Adobe Analytics pour une analyse plus approfondie.
 
+### À quelle vitesse Brand Concierge répond-il à un visiteur ?
+
+Le temps de réponse standard est d’environ 2 à 3 secondes.
+
 ### Que dois-je faire si le sentiment tombe ?
 
 Si vous constatez une baisse du sentiment, recherchez les causes sous-jacentes en examinant les requêtes récentes qui ont échoué, en recherchant les lacunes dans le contenu, en analysant les commentaires négatifs, en testant le ton approprié et en vérifiant les problèmes techniques. Une fois les causes profondes identifiées, il convient de les traiter rapidement et de continuer à surveiller les améliorations possibles.
 
 ## Intégration et aspects techniques
+
+### Brand Concierge peut-il fonctionner en tant que système de génération augmentée par récupération (RAG) sur mon contenu et mes données ?
+
+Oui. Brand Concierge crée une couche RAG à partir des connaissances qu’il ingère. Lorsqu’une source de connaissances est créée à partir d’URL ou d’un plan de site, Brand Concierge gratte le contenu et crée une base de données vectorielle en arrière-plan.
 
 ### Ai-je besoin d’autres produits Adobe ?
 
@@ -183,6 +211,14 @@ Non, mais ils améliorent les performances :
 | **Avec Adobe Commerce** | Inventaire en temps réel<br>historique des commandes<br>intégration au panier |
 | **Avec Adobe Experience Manager** | Gestion de contenu<br>Mises à jour dynamiques<br>Prise en charge multi-site |
 
+### Comment fonctionne l’intégration d’Adobe Commerce et prend-elle en charge Commerce en tant que PaaS ?
+
+Brand Concierge se connecte à Adobe Commerce via le protocole MCP (Model Context Protocol) d’Adobe Commerce. Cela inclut une prise en charge native pour les clients qui exécutent Commerce en tant que PaaS, couvrant un large éventail de cas d’utilisation de base en libre-service ; des variations plus complexes ou personnalisées peuvent nécessiter un travail supplémentaire en arrière-plan.
+
+### Brand Concierge prend-il en charge les achats autres que la navigation dans les catalogues et les recommandations ?
+
+Aujourd’hui, Brand Concierge prend en charge la découverte de produits. Les actions commerciales plus profondes telles que l’ajout d’articles à un panier ou le passage en caisse sont des améliorations futures planifiées.
+
 ### Que se passe-t-il si mon site n’est pas sur Adobe ?
 
 Brand Concierge fonctionne avec n’importe quelle plateforme. JavaScript SDK s’intègre à n’importe quel site web et les SDK mobiles fonctionnent avec n’importe quel serveur principal d’application.
@@ -194,3 +230,7 @@ Lorsque la remise de l’agent est déclenchée, Brand Concierge transmet à l�
 ### Puis-je prendre en charge plusieurs langues ?
 
 Oui. Configurez la prise en charge linguistique par assistant en fonction de votre base de clients. Brand Concierge détecte la langue du client et répond en conséquence.
+
+### Puis-je effectuer le suivi des événements personnalisés de Brand Concierge dans mes propres analyses ?
+
+Oui. Le concierge expose les fonctions de rappel côté client qui se déclenchent lorsqu’un visiteur ou une visiteuse y participe. C’est donc à vous de choisir les événements que vous choisissez de déclencher ou de suivre.
