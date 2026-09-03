@@ -37,7 +37,7 @@ Un concierge répond aux questions en utilisant uniquement ses sources de connai
 Utilisez une source de connaissances AEM Sites lorsque le client utilise déjà AEM Sites as a Cloud Service avec l’IA dédiée au contenu activée.
 
 1. Sélectionnez **Créer une Source de connaissances**.
-1. Choisissez **** puis sélectionnez **Continuer**.
+1. Choisissez **&#x200B;**&#x200B;puis sélectionnez **Continuer**.
 1. Saisissez un nom et une description pour la source de connaissances. Par exemple, utilisez `My main website` comme nom.
 1. Sélectionnez un index IA dédiée au contenu existant dans la liste. La liste est renseignée à partir de l’instance AEM Sites as a Cloud Service.
 1. Sélectionnez **Enregistrer**.
