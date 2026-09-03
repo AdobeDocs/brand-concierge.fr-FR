@@ -2,9 +2,9 @@
 title: Analyse des performances du concierge
 description: Découvrez comment vérifier les analyses du concierge, examiner les transcriptions de conversation, ajouter des questions aux visiteurs des ensembles d’évaluation et ouvrir les rapports Customer Journey Analytics.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -80,10 +80,6 @@ Le tableau de bord CJA comprend les éléments suivants :
 - Recommandations du concierge lors des conversations.
 
 Utilisez le tableau de bord pour examiner les tendances au fil du temps et identifier les changements dans l’engagement des visiteurs, les commentaires, l’intention et le sentiment.
-
-## Exporter les conversations
-
-Le document source identifie l’ID de conversation comme un moyen de faire correspondre des relevés de notes à des enregistrements dans d’autres systèmes, mais il ne documente pas de mécanisme d’exportation.
 
 >[!IMPORTANT]
 >
