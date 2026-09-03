@@ -2,9 +2,9 @@
 title: Création et gestion des sources de connaissances pour Brand Concierge
 description: Découvrez comment créer AEM Sites, des liens de site web et des sources de connaissances de catalogue de produits pour Brand Concierge, surveiller l’état du traitement et résoudre les problèmes d’explore.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -22,8 +22,6 @@ Un concierge répond aux questions en utilisant uniquement ses sources de connai
 
 ## Choisir une source de connaissances
 
-Le matériel de base décrit les types de sources de connaissances suivants :
-
 | Source de connaissances | Utilisez-le lorsque | Fonctionnalité principale |
 | --- | --- | --- |
 | AEM Sites (index IA dédiée au contenu) | Le client utilise AEM Sites as a Cloud Service avec l’IA dédiée au contenu activée. | Utilise un index IA dédiée au contenu existant et rend le contenu AEM Sites mis à jour disponible sans explore distincte ni étape d’actualisation. |
@@ -39,7 +37,7 @@ Le matériel de base décrit les types de sources de connaissances suivants :
 Utilisez une source de connaissances AEM Sites lorsque le client utilise déjà AEM Sites as a Cloud Service avec l’IA dédiée au contenu activée.
 
 1. Sélectionnez **Créer une Source de connaissances**.
-1. Choisissez **&#x200B;**&#x200B;puis sélectionnez **Continuer**.
+1. Choisissez **** puis sélectionnez **Continuer**.
 1. Saisissez un nom et une description pour la source de connaissances. Par exemple, utilisez `My main website` comme nom.
 1. Sélectionnez un index IA dédiée au contenu existant dans la liste. La liste est renseignée à partir de l’instance AEM Sites as a Cloud Service.
 1. Sélectionnez **Enregistrer**.

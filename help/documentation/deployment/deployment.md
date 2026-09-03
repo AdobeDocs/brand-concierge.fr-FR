@@ -2,9 +2,9 @@
 title: Déployer un concierge
 description: Découvrez comment déployer un Brand Concierge en configurant un flux de données, en installant le script de déploiement, en définissant des règles de surface et en vérifiant le déploiement.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -80,17 +80,3 @@ Une fois que l’équipe du site web a installé le script et que les règles de
 >[!TIP]
 >
 >Testez une page incluse et une page exclue. Cela confirme que les règles de surface fonctionnent comme prévu avant que le concierge ne soit largement disponible.
-
-## Questions ouvertes et notes de portée
-
-Le matériau source ne définit pas les détails suivants :
-
-- Liste complète et canonique des types d’événements envoyés au flux de données. Les exemples fournis incluent les clics, les envois de formulaire, les réunions réservées et les conversations en direct, mais la liste complète doit être confirmée par l’ingénierie.
-- Si la configuration du flux de données diffère entre les clients d’évaluation et payants.
-- Le produit d’analyse spécifique dans lequel l’activité de flux de données est affichée. Le document source fait uniquement référence à ce produit en tant qu’« Analytics ».
-
-Ces questions peuvent faire double emploi avec des exigences de télémétrie distinctes et doivent être résolues avec l’équipe d’ingénierie ou l’équipe produit appropriée avant de publier les directives de déploiement comme référence définitive.
-
-## Contenu source incomplet
-
-La source fournie se termine brutalement à l&#39;étape 8, qui n&#39;a pas de contenu.
