@@ -2,9 +2,9 @@
 title: Gérer un concierge
 description: Découvrez comment créer un Brand Concierge à partir d’un site web, configurer ses intégrations, ses compétences, ses instructions, son ton et son style visuel, et le tester avant le déploiement.
 toc: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '1967'
+source-wordcount: '1804'
 ht-degree: 1%
 
 ---
@@ -74,10 +74,10 @@ Sélectionnez **Parcourir les intégrations** pour afficher le catalogue d’int
 |---|---|---|
 | Recherche dans la base de connaissances | Recherche le contenu d’un site web | Configuré automatiquement lors de la création du concierge |
 | Recherche optimisée par l&#39;IA de contenu | Recherche du contenu AEM Sites | Pertinent pour les clients d’AEM Sites as a Cloud Service |
-| Catalogue de produits | Affiche des cartes de produits ou des liens depuis une liste de produits chargée. | Conçu pour des catalogues non commerciaux plus petits |
+| Liaison d&#39;entité | Résout les produits ou les mentions de marque dans le message d’un visiteur sur des entités de catalogue spécifiques | Prise en charge de l’intégration, généralement utilisée avec une intégration de recherche plutôt que seule |
 | COMMERCE MCP | Se connecte à un catalogue Adobe Commerce actif pour rechercher des produits, obtenir des détails sur les produits et des comparaisons | Non activé par défaut ; nécessite des codes ou des clés de l’équipe commerciale ou informatique |
-| Réservation de réunion | Permet aux visiteurs de réserver une réunion avec un représentant commercial | Fonctionnalité B2B |
-| Conversation en direct | Connecte les visiteurs à un représentant commercial en direct | Fonctionnalité B2B |
+| Réservation de réunion | Permet aux visiteurs de réserver une réunion avec un représentant commercial | Nécessite une configuration avec le calendrier d&#39;un commercial |
+| Conversation en direct | Connecte les visiteurs à un représentant commercial en direct | Nécessite une configuration avec la disponibilité d&#39;un représentant commercial |
 
 ### Activer et configurer une intégration
 
@@ -96,14 +96,6 @@ Sélectionnez **Parcourir les intégrations** pour afficher le catalogue d’int
 
 Vous pouvez ajouter plusieurs instances d’une même intégration, telles que des instances pointant vers différentes sources de connaissances. Une compétence peut être configurée pour utiliser une instance d’intégration spécifique.
 
-### Informations d’intégration qui nécessitent une confirmation
-
-Les détails suivants n’ont pas été établis dans la matière première et doivent être confirmés avant la publication en tant que documentation du produit :
-
-- URL de production complète pour la connexion à `experienceplatform.adobe.com`.
-- Indique si un concierge a une limite de nombre d’instances d’intégration.
-- La feuille de route et le processus pour les intégrations personnalisées ou personnalisées, qui ont été mentionnés comme prévus, mais non détaillés.
-
 ## Configurer les compétences
 
 Les compétences déterminent ce qu&#39;un concierge peut faire pour les visiteurs. Sélectionnez **Parcourir les compétences** pour afficher le catalogue de compétences disponible.
@@ -111,6 +103,7 @@ Les compétences déterminent ce qu&#39;un concierge peut faire pour les visiteu
 | Compétence | Rôle | Intégration ou configuration requise |
 |---|---|---|
 | Conseil sur le site | Répond aux questions générales sur la marque, y compris les FAQ, les politiques, les prix, les conseils pratiques et les rubriques d’assistance | Contenu de site web ; actif par défaut |
+| Conseil sur le produit | Aide les visiteurs à découvrir et à rechercher des produits au moyen de fiches produits basées sur des noms et de questions sur les produits en prose | Recherche dans la base de connaissances, liaison d&#39;entités |
 | Découverte des catalogues Adobe Commerce | Recherche, parcourt, filtre et récupère des détails sur les produits d’un catalogue dynamique | Intégration de Commerce MCP |
 | Comparaison des produits Adobe Commerce | Fournit une comparaison côte à côte des produits nommés | Intégration de Commerce MCP |
 | Réserver une réunion avec les ventes | Suggère et facilite la réservation d’une réunion | Intégration de la réservation de réunion |
@@ -131,10 +124,6 @@ Les compétences déterminent ce qu&#39;un concierge peut faire pour les visiteu
 >[!TIP]
 >
 >Si deux compétences peuvent répondre à la même question, le routage peut devenir incohérent. Gardez les déclencheurs de compétence distincts et spécifiques au lieu d’utiliser des intentions qui se chevauchent.
-
-### Informations sur les compétences personnalisées qui nécessitent une confirmation
-
-Le document source mentionne une fonctionnalité prévue pour la création de compétences entièrement personnalisées, mais ne fournit pas de feuille de route ni de processus. Confirmez les étapes de disponibilité et de création avant de documenter cette fonctionnalité comme prise en charge.
 
 ## Ajout d’instructions au concierge
 
@@ -191,7 +180,7 @@ Les composants de conversation contrôlent les éléments individuels que les vi
 | Commentaires | Contrôle d’évaluation pouces vers le haut ou vers le bas affiché après chaque réponse |
 | Fiche produit | La disposition et le style des cartes de produits, y compris les couleurs et les boutons |
 
-## Configuration des fonctionnalités B2B
+## Configuration de la réservation de réunions et du chat en direct
 
 Réservation de réunion et discussion en direct permettent aux visiteurs de réserver des réunions avec des représentants commerciaux ou de commencer une discussion en direct avec un représentant. Ces fonctionnalités sont optimisées par un produit associé appelé Sales Qualifier.
 
@@ -233,14 +222,6 @@ Lorsque les fonctionnalités sont actives :
 - Un rapport sur les performances des réunions est disponible dans Analytics.
 - Les réunions et conversations sont envoyées à Marketo sous forme d’activités, avec les données d’activité existantes.
 
-### Informations B2B qui nécessitent une confirmation
-
-Les matières premières identifient les éléments suivants comme non résolus :
-
-- Le chat en direct ne dispose pas de son propre tableau de bord d’analyse ; cela a été décrit comme une lacune de produit en cours plutôt que comme une lacune de documentation.
-- Chemin de connexion `experienceplatform.adobe.com` exact pour Sales Qualifier.
-- Si Meeting Booking et Live Chat nécessitent des licences ou des droits distincts.
-
 ## Partage d’un lien d’aperçu
 
 Un lien d’aperçu partageable permet aux parties prenantes de consulter un concierge et d’interagir avec lui sans accès du compositeur et sans déployer le concierge sur un site web actif.
@@ -250,14 +231,6 @@ Un lien d’aperçu partageable permet aux parties prenantes de consulter un con
 1. Partager le lien avec les réviseurs.
 
 1. Les réviseurs peuvent interagir avec le concierge via le lien sans se connecter au compositeur.
-
-### Informations sur le lien de prévisualisation qui nécessitent une confirmation.
-
-Confirmez les détails suivants avant de publier cette procédure en tant que workflow de produit complet :
-
-- Emplacement et libellé exacts de l’action de partage dans l’interface utilisateur.
-- Indique si les liens d’aperçu expirent ou peuvent être révoqués.
-- Indique si l’utilisation du lien de prévisualisation est suivie séparément des analyses en direct.
 
 ## Test avant déploiement
 

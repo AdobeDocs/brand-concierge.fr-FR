@@ -3,9 +3,9 @@ title: Cadre de compétences et d’intégration
 description: Découvrez comment les compétences et les intégrations fonctionnent ensemble dans le cadre de la conciergerie. Les compétences définissent le comportement, tandis que les intégrations se connectent aux données et fournissent les fonctionnalités.
 role: User, Admin
 level: Beginner
-source-git-commit: 16136f0d5470a39cbf260f4b1eadc6918d0212b4
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '1619'
+source-wordcount: '1698'
 ht-degree: 0%
 
 ---
@@ -64,27 +64,31 @@ Une intégration fournit une capacité, mais n&#39;exerce aucun jugement. Il att
 
 ## Intégrations prêtes à l’emploi
 
-Vous trouverez ci-dessous les quatre intégrations présentées dans le panneau **Parcourir les intégrations** de Composer.
+Vous trouverez ci-dessous les intégrations affichées dans le panneau **Parcourir les intégrations** du compositeur.
 
 | Intégration | Ce qu&#39;il fait | Remarques |
 | --- | --- | --- |
 | Recherche dans la base de connaissances | Source pour les informations sur les produits, le prix, les fonctionnalités et la documentation d’une marque, renseigné via l’explore du site | Celui-ci est créé automatiquement lors de la création du concierge, renseigné par l’explore du site |
 | Recherche optimisée par l&#39;IA de contenu | Recherche le contenu de la marque via l’IA dédiée au contenu | Autre source de contenu. En règle générale, une seule source parmi la recherche dans la base de connaissances ou la Recherche optimisée par l&#39;IA de contenu est nécessaire à la fois |
-| Mappage Liaison d’entité/Catalogue de produits | Résout les produits ou les mentions de marque dans le message d’un utilisateur sur des entités de catalogue spécifiques | Prise en charge de l’intégration, utilisée avec une intégration de recherche plutôt que seule |
+| Liaison d&#39;entité | Résout les produits ou les mentions de marque dans le message d’un utilisateur sur des entités de catalogue spécifiques | Prise en charge de l’intégration, utilisée avec une intégration de recherche plutôt que seule |
 | COMMERCE MCP | Serveur MCP Commerce géré par Adobe : recherche de produits, détails, variantes et découverte de facettes/attributs, soutenue par la recherche Adobe Live | Pas dans la ligne de base ; ajouté manuellement pour les cas d’utilisation de Commerce |
+| Réservation de réunion | Permet aux visiteurs de réserver une réunion avec un représentant commercial | Nécessite une configuration avec le calendrier d’un commercial, via le produit Sales Qualifier associé |
+| Conversation en direct | Connecte les visiteurs à un représentant commercial en direct | Nécessite une configuration avec la disponibilité d&#39;un représentant commercial via le produit Sales Qualifier associé |
 
 ![Parcourir le panneau des intégrations présentant quatre cartes d’intégration : Recherche optimisée par l&#39;IA de contenu, liaison d’entité, recherche dans la base de connaissances et MCP Commerce](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
 ## Compétences prêtes à l’emploi
 
-Quatre compétences sont proposées dans le catalogue. Chacune d’elles répertorie ses intégrations recommandées.
+Vous trouverez ci-dessous les compétences affichées dans le panneau **Parcourir les compétences** du compositeur. Chacune d’elles répertorie ses intégrations recommandées.
 
 | Compétence | À quoi cela sert-il ? | Intégrations recommandées |
 | --- | --- | --- |
 | Conseil sur le site | Questions générales sur la marque : politiques, FAQ, programmes, procédures et assistance | Recherche dans la base de connaissances, Recherche optimisée par l&#39;IA de contenu et liaison d’entités |
-| Conseil sur le produit | Découvrir et rechercher des produits : fiches produits nommées et questions sur les produits en prose | Recherche dans la base de connaissances, mappage liaison d’entités/catalogue |
+| Conseil sur le produit | Découvrir et rechercher des produits : fiches produits nommées et questions sur les produits en prose | Recherche dans la base de connaissances, liaison d&#39;entités |
 | Découverte des catalogues Adobe Commerce | Rechercher, parcourir, filtrer et obtenir des détails complets sur les produits d’un catalogue dynamique | Outils de MCP Commerce : recherche dans les produits Commerce, détails du produit, variantes de produit, facettes de produit et attributs consultables |
 | Comparaison des produits Adobe Commerce | Comparaison côte à côte de plusieurs produits nommés dans un tableau pour Commerce | Outils de MCP Commerce : recherche dans les produits Commerce, détails du produit |
+| Réserver une réunion avec les ventes | Suggère et facilite la réservation d&#39;une réunion avec un représentant commercial | Intégration de la réservation de réunion |
+| Conversation en direct avec les ventes | Suggère et facilite une remise en direct par chat à un commercial | Intégration de la discussion en direct |
 
 Les deux compétences commerciales sont des fonctionnalités de catalogue uniquement et dépendent de l’intégration de Commerce MCP, qui ne fait pas partie de la base. Dans un service de conciergerie hors commerce, les services de conseil sur le site et de conseil sur les produits s’exécutent sur la recherche dans la base de connaissances créée automatiquement à la place.
 
