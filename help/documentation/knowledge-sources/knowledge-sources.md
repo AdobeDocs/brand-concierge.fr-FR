@@ -2,9 +2,9 @@
 title: Création et gestion des sources de connaissances pour Brand Concierge
 description: Découvrez comment créer AEM Sites, des liens de site web et des sources de connaissances de catalogue de produits pour Brand Concierge, surveiller l’état du traitement et résoudre les problèmes d’explore.
 hide: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '856'
 ht-degree: 1%
 
 ---
@@ -32,14 +32,14 @@ Brand Concierge prend en charge les types de sources de connaissances suivants :
 
 >[!IMPORTANT]
 >
->Les clients qui vendent via Adobe Commerce avec un catalogue volumineux doivent utiliser l’intégration MCP de Commerce à la place. Les détails relatifs à cette intégration ne font pas partie de cet article.
+>Les clients qui vendent via Adobe Commerce avec un catalogue volumineux doivent utiliser l’intégration MCP de Commerce à la place.
 
 ## Création d’une source de connaissances AEM Sites
 
 Utilisez une source de connaissances AEM Sites lorsque le client utilise déjà AEM Sites as a Cloud Service avec l’IA dédiée au contenu activée.
 
 1. Sélectionnez **Créer une Source de connaissances**.
-1. Choisissez **&#x200B;**&#x200B;puis sélectionnez **Continuer**.
+1. Choisissez **** puis sélectionnez **Continuer**.
 1. Saisissez un nom et une description pour la source de connaissances. Par exemple, utilisez `My main website` comme nom.
 1. Sélectionnez un index IA dédiée au contenu existant dans la liste. La liste est renseignée à partir de l’instance AEM Sites as a Cloud Service.
 1. Sélectionnez **Enregistrer**.

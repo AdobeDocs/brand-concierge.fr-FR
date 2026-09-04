@@ -2,9 +2,9 @@
 title: Gérer un concierge
 description: Découvrez comment créer un Brand Concierge à partir d’un site web, configurer ses intégrations, ses compétences, ses instructions, son ton et son style visuel, et le tester avant le déploiement.
 toc: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '1761'
 ht-degree: 1%
 
 ---
@@ -161,10 +161,6 @@ Les paramètres de style visuel contrôlent l&#39;apparence du concierge, y comp
 - Couleurs de carte
 
 Modifiez les paramètres dans l’interface utilisateur et utilisez l’aperçu en direct pour passer en revue les modifications. Sélectionnez **Enregistrer** pour rendre les modifications permanentes.
-
->[!NOTE]
->
->Le matériau source indique qu’une apparence entièrement personnalisée est possible au-delà des options disponibles dans l’interface utilisateur, via un script de déploiement distinct. La procédure de script de déploiement n’a pas été incluse et doit être documentée séparément après confirmation.
 
 ## Configuration des composants de conversation
 
