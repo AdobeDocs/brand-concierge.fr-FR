@@ -32,6 +32,6 @@ Le déploiement d’Adobe Brand Concierge le rend disponible pour les visiteurs 
 * Installation du composant par rapport aux options d’installation de page entière pour le script
 * Comment configurer des règles de surface en faisant correspondre des domaines et des chemins (tous, commence par, se termine par, est égal à)
 
->[!VIDEO](https://video.tv.adobe.com/v/3502969?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502983?captions=fre_fr&learn=on)
 
 Pour consulter la documentation, voir [Déployer un concierge](../documentation/deployment/deployment.md).
