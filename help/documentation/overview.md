@@ -18,9 +18,9 @@ topic_v2:
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 320bf9530164830eae88075663bdbd6216556b5a
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: 1999
+source-wordcount: 2047
 ht-degree: 1%
 
 ---
@@ -43,12 +43,12 @@ Brand Concierge dispose de plusieurs fonctionnalités essentielles, notamment :
 
 ## Commencer {#getting-started}
 
-Vous pouvez accéder à Brand Concierge à partir du tableau de bord Adobe Experience Cloud. À un niveau élevé, vous effectuez les tâches suivantes dans la présentation de la page d’accueil :
+Vous pouvez accéder à Brand Concierge à partir du tableau de bord d’Adobe Experience Cloud. À un niveau élevé, vous effectuez les tâches suivantes :
 
-1. [Créer un concierge](#homepage)
-1. [Ajouter des sources de connaissances](#knowledge-sources)
-1. [Configurer les compétences](#skills-configuration)
-1. [Spécifiez votre expression de marque](#brand-expression).
+1. [Créez un concierge](#homepage) à partir d’une URL de site web. Une source de connaissances de départ, l’expression de la marque et les compétences de base sont générées automatiquement.
+1. [Examinez et affinez les sources de connaissances](#knowledge-sources) au besoin.
+1. [Configurez des compétences supplémentaires](#skills-configuration) au-delà de la compétence de base.
+1. [Ajustez l’expression de votre marque](#brand-expression) si les valeurs par défaut générées doivent être modifiées.
 
 Pour un tutoriel vidéo, voir [Créer votre premier concierge](../getting-started/create-first-concierge.md)
 
@@ -56,26 +56,27 @@ Les sections suivantes décrivent en détail chaque tâche et les options de l�
 
 ## Créer un concierge {#homepage}
 
-La page d’accueil de Brand Concierge est conçue pour être facile à utiliser et efficace. Elle vous guide tout au long des étapes de configuration essentielles, avec une présentation dédiée aux nouveaux utilisateurs et utilisatrices. Une bannière supérieure bien en vue décrit les principales actions, comme préciser le nom et l&#39;objectif de votre concierge, ajouter des sources de connaissances, configurer des compétences pertinentes et définir l&#39;expression de votre marque.
+La création d’un service de conciergerie à partir d’une seule URL de site web est le point de départ recommandé pour un nouvel utilisateur. La page d’accueil de Brand Concierge lit le site et crée automatiquement une ligne de base fonctionnelle : aucune configuration manuelle n’est nécessaire pour commencer.
 
-Au fur et à mesure que vous avancez, un suivi visuel affiche clairement les composants de configuration terminés et met en évidence les tâches restantes. Pour soutenir davantage vos efforts, la page d’accueil comporte une section inspirante avec des vidéos et des démonstrations des fonctionnalités de conciergerie, telles que des recommandations de produits. Vous pouvez également accéder rapidement à la documentation d’Experience League pour obtenir des informations techniques plus détaillées.
-
-Une fois la configuration terminée, un résumé de la configuration fournit une vue complète de vos détails, organisés avec des onglets pour faciliter les ajustements et les ajustements continus.
+Une fois la configuration terminée, un résumé de la configuration fournit une vue complète de vos détails, organisés avec des onglets pour faciliter les ajustements et les ajustements en cours. La page d’accueil dispose également d’une section inspirante avec des vidéos et des démonstrations des fonctionnalités de conciergerie, telles que des recommandations de produits, ainsi qu’un accès rapide à la documentation d’Experience League pour des informations techniques plus détaillées.
 
 **Éléments clés**
 
-* **Première présentation à l’utilisateur** : bannière supérieure contenant les étapes de configuration de votre concierge (nom/objectif, sources de connaissances, compétences, expression de la marque).
-* **Suivi de progression** : indicateurs visuels des composants d’installation terminés ou en attente.
+* **Création en un clic** : saisissez une URL de site web pour générer automatiquement une expression de marque de départ, un profil de marque, des instructions, des mécanismes de sécurisation, une source de connaissances et des compétences de base.
+* **Révision guidée** : chaque élément généré est présenté pour révision avant d’être enregistré, de sorte que rien ne se met en ligne sans qu’il soit possible de l’ajuster au préalable.
 * **Section inspirante** : vidéos et démonstrations présentant les fonctionnalités du concierge (par exemple, les recommandations de produits).
 * **Liens de documentation** : accès rapide aux ressources Experience League pour obtenir des informations plus détaillées sur les technologies.
 * **Résumé de la configuration** : vue de tous les détails après la configuration, avec des onglets pour l’affinement.
 
 **Pour créer un concierge**
 
-1. Accédez à la bannière de présentation , puis cliquez sur **[!UICONTROL Commencer]**.
-1. Attribuez un nom à votre concierge et définissez son objectif (par exemple, _Recommander des produits personnalisés_).
-1. Suivez les étapes guidées pour continuer.
-1. Une fois la configuration terminée, revenez à la page d’accueil pour surveiller ou modifier votre concierge.
+1. Saisissez l’URL du site web de la marque et sélectionnez **[!UICONTROL Créer]**.
+1. Examinez l’expression de marque générée (comme la formalité, la chaleur, le jeu et l’énergie) et ajustez-la si nécessaire.
+1. Examinez le profil de marque généré, y compris les objectifs, les produits et services, le public cible et les facteurs de différenciation, et ajustez-le si nécessaire.
+1. Passez en revue les instructions, mécanismes de sécurisation et suggestions générés, puis apportez les modifications nécessaires.
+1. Sélectionnez **[!UICONTROL Enregistrer]**. Le concierge est prêt à tester en aperçu.
+
+Pour obtenir des détails complets sur ce flux, y compris sur ce qui est configuré automatiquement, consultez [Gérer un concierge](./concierge-management/concierge-management.md).
 
 >[!TIP]
 >
@@ -83,7 +84,7 @@ Une fois la configuration terminée, un résumé de la configuration fournit une
 
 ### Sources de connaissances {#knowledge-sources}
 
-[!UICONTROL Sources de connaissances] vous aide à gérer les sources de données qui alimentent les réponses de votre concierge. Vous pouvez accéder aux [!UICONTROL sources de connaissances] après avoir chargé vos fichiers initiaux. [!UICONTROL Sources de connaissances] comporte un certain nombre d’éléments clés à prendre en compte, notamment :
+[!UICONTROL Sources de connaissances] vous aide à gérer les sources de données qui alimentent les réponses de votre concierge. Une source de connaissances de départ est créée automatiquement lorsque vous créez un concierge à partir d’une URL de site web ; utilisez cette zone pour la consulter ou en ajouter d’autres. [!UICONTROL Sources de connaissances] comporte un certain nombre d’éléments clés à prendre en compte, notamment :
 
 * **Liste Source :** affiche tous les éléments chargés, tels que les fichiers CSV contenant des liens vers des sites Web, et indique s&#39;ils sont traités ou en attente.
 * **Interface de chargement :** vous permet de faire un glisser-déposer ou de rechercher des fichiers CSV contenant des URL que le système explorera d’extraire des connaissances.
@@ -109,37 +110,37 @@ Une fois la configuration terminée, un résumé de la configuration fournit une
 
    Utilisez la page d’accueil pour modifier ou supprimer vos sources de connaissances selon vos besoins. Vous pouvez également reconnecter une source de connaissances si des modifications se produisent.
 
+Pour l’ensemble complet des types de sources de connaissances et des étapes de dépannage, consultez [Création et gestion des sources de connaissances pour Brand Concierge](./knowledge-sources/knowledge-sources.md).
+
 ### Configurer les compétences {#skills-configuration}
 
-Utilisez l’interface [!UICONTROL Configuration des compétences] pour définir l’expertise de votre concierge en configurant des compétences telles que **Product Advisory**. Répondez au questionnaire pour fournir des informations que les consultants Adobe utiliseront ultérieurement pour une ingénierie rapide. La configuration des compétences comporte un certain nombre d’éléments clés à prendre en compte, tels que :
+Les compétences déterminent ce qu’un concierge peut faire pour les visiteurs, comme **Product Advisory** pour les recommandations de produits ou **Site Advisory** pour les questions générales sur la marque. Sélectionnez **[!UICONTROL Parcourir les compétences]** pour afficher le catalogue de compétences disponible et activer les compétences dont votre concierge a besoin.
 
-* **Sélecteur de compétences :** vous pouvez choisir parmi les compétences disponibles, telles que les Conseils sur le produit pour formuler des recommandations de produit.
-* **Questionnaire :** vous devez remplir une série d’invites pour fournir des connaissances sur le produit, les règles métier, les mots-clés à éviter et les connexions source.
-* **Aperçu :** vous avez la possibilité d’effectuer des ajustements en direct et de voir comment vos ajustements affectent les réponses, avec des liens vers la page d’aperçu.
-* **Activer la réservation de réunion :** vous pouvez permettre aux visiteurs de planifier des réunions directement avec des représentants d’entreprise.
+* **Catalogue de compétences :** faites votre choix parmi les compétences disponibles, telles que les conseils sur le site et sur les produits, ainsi que les compétences qui prennent en charge la réservation de réunions ou le chat en direct avec un représentant commercial.
+* **Configuration :** pour chaque compétence, définissez son nom, sa description et les intentions (expressions ou sujets de déclenchement) qui doivent l’appeler.
+* **Intégrations :** associez l’intégration dont une compétence a besoin pour faire son travail, ou sélectionnez **[!UICONTROL Utiliser recommandé]** pour que le compositeur en sélectionne une automatiquement.
+* **Aperçu :** tester les modifications immédiatement dans l’aperçu en direct.
 
 **Pour configurer des compétences**
 
-1. Accédez au suivi de la progression dans la page d’accueil, puis cliquez sur **[!UICONTROL Configurer les compétences]**.
-1. Sélectionnez une compétence (par exemple, Conseils sur les produits).
-1. Répondez aux questions de configuration qui suivent.
+1. Dans la conciergerie, sélectionnez **[!UICONTROL Parcourir les compétences]**.
+1. Sélectionnez une compétence à activer (par exemple, les Conseils sur les produits).
+1. Définissez le nom, la description et les intentions de la compétence.
+1. Joignez l’intégration requise ou sélectionnez **[!UICONTROL Utiliser recommandé]**.
+1. Sélectionnez **[!UICONTROL Enregistrer]** et testez la modification dans l’aperçu dynamique.
 
-   Voici quelques exemples de questions : _Que doit savoir le concierge au sujet des produits ?_, _Quelles règles d’entreprise doivent être suivies ?_, _Quels mots-clés doivent être évités ?_
-
-1. Connecter les [sources de connaissances](#knowledge-sources) pertinentes.
-1. Activer les fonctionnalités supplémentaires (réservation de réunion).
-1. Envoyer pour traitement.
+Pour consulter le catalogue complet des compétences et de l’intégration, voir [Structure des compétences et de l’intégration](./skills-and-integrations.md).
 
 ### Expression de la marque {#brand-expression}
 
-Vous pouvez utiliser l’interface _[!UICONTROL Expression de marque]_ pour personnaliser la personnalité et le style des réponses de votre concierge. Vous pouvez accéder à Brand Expression à partir des étapes de configuration ou via la barre latérale de prévisualisation pour les modifications en cours.
+L&#39;expression de la marque contrôle la personnalité et le style des réponses de votre concierge. Il est rédigé automatiquement lorsque vous créez un concierge, et vous pouvez y accéder par la suite à partir des paramètres Tone &amp; Voice du concierge pour les changements en cours.
 
-Avec Brand Expression, vous pouvez utiliser des curseurs pour personnaliser les paramètres de voix et de tonalité de votre concierge. Vous pouvez choisir parmi des options telles que « Amical », « Professionnel » et « Énergétique ». De plus, vous pouvez configurer les longueurs de réponse selon vos besoins. Vous pouvez configurer votre concierge pour qu&#39;il renvoie des sorties courtes, moyennes ou longues, selon la vision de votre marque.
+L’expression de la marque est définie à l’aide d’attributs tels que la formalité, la chaleur, le jeu et l’énergie, plutôt qu’un style unique nommé. Vous pouvez également configurer la longueur de réponse (courte, moyenne ou longue) pour qu’elle corresponde aux préférences de votre marque.
 
 **Pour personnaliser l’expression de votre marque**
 
-1. Sur la page d’accueil, cliquez sur **[!UICONTROL Personnaliser l’expression de marque]**.
-2. Ensuite, configurez la voix, le ton et la longueur de réponse préférée de votre marque.
+1. Du concierge, ouvrez **[!UICONTROL Tone &amp; Voice]**.
+2. Régler la formalité, la chaleur, le jeu, l&#39;énergie et la longueur de réponse préférée.
 3. Sélectionnez **[!UICONTROL Enregistrer]** pour vous assurer que les modifications sont répercutées dans les réponses futures.
 
 ### Prévisualiser et tester {#preview-and-test}
@@ -242,7 +243,7 @@ Pour offrir une expérience transparente et digne de confiance, les utilisateurs
 
 Votre divulgation au cours de la conversation doit communiquer clairement trois choses aux utilisateurs finaux.
 
-1. _La conversion utilise l’IA générative_
+1. _La conversation utilise l’IA générative_
 
    Informez les utilisateurs que les réponses sont générées par l’IA, afin qu’ils comprennent qu’ils interagissent avec un système automatisé.
 

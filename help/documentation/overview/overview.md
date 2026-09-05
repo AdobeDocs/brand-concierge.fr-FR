@@ -1,10 +1,10 @@
 ---
 title: Présentation de Brand Concierge
 description: Découvrez Brand Concierge, comment ses principaux composants s’intègrent et le glossaire des termes clés que vous rencontrerez dans l’interface du compositeur.
-source-git-commit: 3da67605a43e949046260651253bbe0f2f0215fc
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 1%
+source-wordcount: '509'
+ht-degree: 2%
 
 ---
 
@@ -21,17 +21,17 @@ Un déploiement Brand Concierge comporte deux éléments principaux :
 | **Expérience visiteur** | Surface face à la marque, telle qu’un site web ou une application mobile, où les visiteurs interagissent avec le concierge et obtiennent des réponses en temps réel. |
 | **Compositeur** | Interface utilisateur utilisée pour concevoir des expériences de concierge et gérer les concierges, les intégrations, les configurations, les évaluations, le déploiement et les analyses. |
 
-## Modules de compositeur abordés dans ce guide
+## Modules du compositeur
 
-Dans Composer, les principaux modules (et leur emplacement dans ce guide) sont les suivants :
+Dans Composer, les modules principaux sont les suivants :
 
-- Gestion des utilisateurs (section 3)
-- Création et gestion des sources de connaissances, partagées entre les concierges (Section 4)
-- Gestion du concierge : intégrations, compétences, instructions du concierge, tonalité et voix, style visuel et composants de chat (section 5)
-- Évaluation (Section 6)
-- Déploiement (Section 7)
-- Liste de contrôle d’activation (section 8)
-- Analytics (Section 9)
+- [Gestion des utilisateurs et des accès](../user-and-access-management/add-a-user-to-the-org.md)
+- [Création et gestion des sources de connaissances](../knowledge-sources/knowledge-sources.md), partagées entre les concierges
+- [Gestion du concierge](../concierge-management/concierge-management.md) : intégrations, compétences, instructions du concierge, tonalité et voix, style visuel et composants de chat
+- [Évaluation](../evaluation/evaluation.md)
+- [Déploiement](../deployment/deployment.md)
+- [Liste de contrôle de mise en production](../go-live-checklist/go-live-checklist.md)
+- [Analytics](../analytics/analytics.md)
 
 ## Comment les pièces se connectent
 
@@ -58,4 +58,4 @@ Ces termes apparaissent dans l’interface du compositeur.
 
 >[!NOTE]
 >
->Les marketeurs peuvent généralement ignorer la section 3, *Gestion des utilisateurs et des accès*, entièrement (un informaticien la termine une fois) et commencer la section 4, *Sources de connaissances*. Revenez à la section 3 uniquement lors de la configuration de nouveaux coéquipiers.
+>Les marketeurs peuvent généralement ignorer complètement [Gestion des utilisateurs et des accès](../user-and-access-management/add-a-user-to-the-org.md) (un informaticien le termine une fois) et commencer par [Sources de connaissances](../knowledge-sources/knowledge-sources.md). Revenez à la gestion des utilisateurs et des accès uniquement lors de la configuration de nouveaux coéquipiers.

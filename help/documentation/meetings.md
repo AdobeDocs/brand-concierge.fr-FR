@@ -1,6 +1,6 @@
 ---
-title: Configuration de réunions
-description: Découvrez comment configurer des réunions dans Adobe Brand Concierge.
+title: Configurer la réservation de réunion
+description: Découvrez comment configurer la réservation de réunion dans Adobe Brand Concierge, notamment les connexions de calendrier, la disponibilité, l’accès des membres et l’analyse des performances.
 level: Beginner
 role: User,Admin
 TQID: https://experienceleague.adobe.com/vfX6M2-ts7d2-AxKGjaP1Ygkk3FGSGRl4CHslcKYSXU
@@ -11,14 +11,14 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1b1598dc2c6308ae38a2aeaf14576c9c55be5ba5
+source-git-commit: fc5e30918271360ea2256b49d1c200fb3eda298b
 workflow-type: tm+mt
-source-wordcount: 329
+source-wordcount: 338
 ht-degree: 4%
 
 ---
 
-# Réunions {#meetings}
+# Réservation de réunion {#meetings}
 
 Découvrez tous vos paramètres _Réunion_ dans Adobe Brand Concierge. Connectez votre calendrier, définissez la disponibilité, affichez les analyses, etc.
 
@@ -34,7 +34,7 @@ Connectez-vous à votre compte Outlook ou Google et définissez différents para
 
 1. Connectez-vous à [&#128279;](https://experience.adobe.com/){target="_blank"}.
 
-1. Sélectionnez **[!UICONTROL Qualificateur de vente]**.
+1. Sélectionnez **&#x200B;**.
 
    ![Page d’accueil de &#x200B;](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 

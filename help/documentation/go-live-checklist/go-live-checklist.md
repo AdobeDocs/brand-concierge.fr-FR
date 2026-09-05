@@ -2,9 +2,9 @@
 title: Liste de contrôle de mise en production pour un concierge
 description: Utilisez cette liste de contrôle pour passer en revue le niveau de préparation du concierge avant de le rendre disponible pour les visiteurs réels et pour établir la cadence de fonctionnement initiale après le lancement.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Liste de contrôle de mise en production pour un concierge
 
 Utilisez cette liste de contrôle pour effectuer une vérification de préparation avant le lancement avant de mettre un concierge à la disposition des visiteurs réels. La liste de contrôle regroupe les critères de préparation décrits dans les sources de connaissances, les workflows de gestion de la conciergerie, d’évaluation et de déploiement.
-
->[!NOTE]
->
->Envisagez de publier cette liste de contrôle en tant que page autonome. Une page autonome peut être liée directement à partir des communications de lancement et référencée indépendamment du jeu de documentation complet.
 
 ## Utilisation de cette liste de contrôle
 
@@ -50,9 +46,3 @@ Terminez chaque élément avant le lancement et notez le propriétaire ou les pr
 
 - [ ] **l’accès à Analytics est confirmé.** Vérifiez que les parties prenantes concernées peuvent accéder aux analyses requises.
 - [ ] **Une cadence de révision est établie.** Établissez un processus récurrent pour examiner les transcriptions des conversations et ajouter de nouvelles questions d’évaluation au fur et à mesure qu’elles apparaissent.
-
-## Avant de publier cette liste de contrôle en tant qu’exigence de version
-
->[!IMPORTANT]
->
->Cette liste de contrôle est dérivée des workflows décrits dans le guide. Il ne s’agit pas d’une porte de sortie officielle définie par le produit. Validez-la par rapport aux critères de mise à jour définis par le produit et l’assurance qualité avant de la publier en tant qu’exigence de mise en production formelle.

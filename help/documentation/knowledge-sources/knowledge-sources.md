@@ -2,9 +2,9 @@
 title: Création et gestion des sources de connaissances pour Brand Concierge
 description: Découvrez comment créer AEM Sites, des liens de site web et des sources de connaissances de catalogue de produits pour Brand Concierge, surveiller l’état du traitement et résoudre les problèmes d’explore.
 hide: true
-source-git-commit: da4b30fa292b911987aebec378af420b293ea594
+source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '856'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,8 @@ Un concierge répond aux questions en utilisant uniquement ses sources de connai
 
 ## Choisir une source de connaissances
 
+Brand Concierge prend en charge les types de sources de connaissances suivants :
+
 | Source de connaissances | Utilisez-le lorsque | Fonctionnalité principale |
 | --- | --- | --- |
 | AEM Sites (index IA dédiée au contenu) | Le client utilise AEM Sites as a Cloud Service avec l’IA dédiée au contenu activée. | Utilise un index IA dédiée au contenu existant et rend le contenu AEM Sites mis à jour disponible sans explore distincte ni étape d’actualisation. |
@@ -30,7 +32,7 @@ Un concierge répond aux questions en utilisant uniquement ses sources de connai
 
 >[!IMPORTANT]
 >
->Le document source indique que les clients qui vendent via Adobe Commerce avec un catalogue volumineux doivent utiliser l’intégration Commerce MCP à la place. Les détails relatifs à cette intégration ne font pas partie de cet article.
+>Les clients qui vendent via Adobe Commerce avec un catalogue volumineux doivent utiliser l’intégration MCP de Commerce à la place.
 
 ## Création d’une source de connaissances AEM Sites
 
@@ -90,7 +92,7 @@ Chaque source de connaissances affiche un statut de traitement.
 | --- | --- |
 | En cours | La source de connaissances est en cours de traitement. |
 | Réussite | La source de connaissances est entièrement traitée et prête à être utilisée. |
-| Planifié | La source de connaissances sera traitée à une heure planifiée ultérieure. |
+| Planifiée | La source de connaissances sera traitée à une heure planifiée ultérieure. |
 | Succès partiel | Certaines pages ont été traitées avec succès et d’autres ont échoué. |
 
 La page Détails de la source de connaissances fournit des informations telles que :
