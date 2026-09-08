@@ -2,9 +2,9 @@
 description: Notes de mise à jour actuelles d’Adobe Brand Concierge.
 title: Notes de mise à jour actuelles
 feature: Release Information
-source-git-commit: 39d49289351c4e9a8b733e91daf8692df472031a
+source-git-commit: 35ce8a7b460e97336246293ad5e53ee83ead5108
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '1046'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,26 @@ ht-degree: 0%
 Adobe Brand Concierge suit un modèle de diffusion continu, ce qui permet à Adobe de diffuser régulièrement de nouvelles fonctionnalités, améliorations et correctifs.
 
 Toutes les fonctionnalités sont généralement disponibles, sauf indication contraire.
+
+## Août 2026 {#august-2026}
+
+* **Composer 2.0** : la création du Concierge est repensée autour d’une seule URL de site web. Le compositeur rédige automatiquement un point de départ aligné sur la marque, y compris l’expression de la marque, le profil de la marque, les instructions, les mécanismes de sécurisation, une source de connaissances et une compétence de base, prêt à être examiné et à être mis en ligne en quelques minutes, sans configuration manuelle nécessaire pour commencer.
+
+* **Framework de compétences et d’intégrations** : les concierges sont construits à partir d’un catalogue en libre-service de compétences et d’intégrations, détectables et configurables via les options Parcourir les compétences et Parcourir les intégrations. Cela inclut les nouvelles fonctionnalités et celles publiées précédemment, telles que les Conseils sur le site, les Conseils sur les produits et la découverte et la comparaison de catalogues Commerce.
+
+* **Personnalisation visuelle du style et des composants de conversation** : personnalisez les couleurs, les polices, le message de bienvenue et les composants de conversation individuels d’un concierge, y compris les bulles de conversation, les suggestions d’invite, les citations, les commandes de commentaires et les cartes de produits, avec des modifications prévisualisées en direct.
+
+* **Concierges multiples par sandbox** : créez et gérez plusieurs concierges au sein d’un seul sandbox, chacun avec une configuration indépendante.
+
+* **Événements côté client et fonctions de rappel** : enregistrez un seul rappel pour observer en temps réel les événements du cycle de vie du client Web, les interactions utilisateur, les réponses, les commentaires et les erreurs, afin de les utiliser pour envoyer des données d’engagement à Adobe Analytics, Google Analytics ou d’autres systèmes tiers.
+
+* **Service de conciergerie multilingue (disponibilité limitée)** : Déployez un concierge dans d’autres langues en plus de l’anglais, avec une prise en charge validée de l’espagnol et du français. Chaque langue cible s’exécute en tant que son propre concierge dans le même sandbox et est automatiquement acheminée par langue de requête.
+
+* **Déploiement : configuration des flux de données et des surfaces** : configurez un flux de données pour suivre l’engagement des visiteurs, puis définissez des règles de surface pour contrôler les pages et domaines sur lesquels le concierge apparaît, à l’aide de la correspondance de domaine et de chemin (toute correspondance, commence par, se termine par ou correspondance exacte).
+
+## Juin 2026 {#june-2026}
+
+* **Intégration de Marketo** : les conversations des visiteurs, y compris la capture de piste dans la conversation, sont automatiquement transmises à Marketo Engage en tant que données d’activité natives, disponibles pour une utilisation dans les campagnes intelligentes de déclenchement et par lots.
 
 ## Avril 2026 {#april-2026}
 
