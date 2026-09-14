@@ -2,7 +2,7 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Explorer Adobe Brand Concierge
-source-git-commit: 26c875494ae9f38fcddbd0a9779f6fa659db3683
+source-git-commit: 27fbac53214bccc78b4010b4017e2255ab466928
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 17%
@@ -14,6 +14,7 @@ ht-degree: 17%
 + Vidéos de prise en main {#getting-started}
   + [Créer votre premier concierge](../getting-started/create-first-concierge.md)
   + [Réserver une réunion](../getting-started/meeting-booking.md)
+  + [Conversation vocale](../getting-started/voice-conversation.md)
   + [En savoir plus sur les identifiants de flux de données](../getting-started/learn-about-datastream-ids.md)
   + [Intégration à Marketo](../getting-started/integration-with-marketo.md)
   + [Personnaliser le style visuel de votre concierge](../getting-started/customize-visual-style.md)
@@ -51,4 +52,3 @@ ht-degree: 17%
 + Notes de mise à jour {#release-notes}
   + [Informations sur la version actuelle](../release-notes/current.md)
 + {hide-from-toc}[Démonstration pour le concierge de la marque - Vidéo de valeur](../demo-videos/demo-for-brand-concierge-value-video.md)
-+ [Conversation vocale](../getting-started/voice-conversation.md)
