@@ -31,6 +31,6 @@ Adobe Brand Concierge prend en charge un mode de conversation vocale mains libre
 * Comment le concierge reste une expérience multimodale complète, renvoyant toujours des images, du texte et des liens lors d&#39;une conversation vocale
 * Comment éteindre la voix si elle n&#39;est plus désirée
 
->[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503488?captions=fre_fr&learn=on)
 
 Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
