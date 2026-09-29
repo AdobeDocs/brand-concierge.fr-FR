@@ -1,5 +1,5 @@
 ---
-title: Mesure de la qualité et définition de mécanismes de sécurisation - Vidéo
+title: Mesurer la qualité et définir des mécanismes de sécurisation
 description: Découvrez comment créer un ensemble de questions et des réponses idéales pour mesurer la qualité de Adobe Brand Concierge et définir des mécanismes de sécurisation pour les questions sensibles des visiteurs.
 topic: Personalization,Integrations
 role: Developer
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 174
 last-substantial-update: 2026-09-29
 jira: KT-22188
-source-git-commit: 4cc80eef685fbfc26adaf0b9c47f61e935d45882
+source-git-commit: cd3fb3664f1eb60cba7cae83b8539871b3dcfb72
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '166'
 ht-degree: 0%
 ---
 
@@ -31,8 +31,7 @@ Avant de lancer Adobe Brand Concierge, vous avez besoin d’un moyen de mesurer 
 * Nombre de paires question-réponse à inclure et catégories à couvrir
 * Pourquoi les exemples hors de portée sont-ils importants et comment le concierge les rejette ?
 * Utiliser un premier brouillon de votre jeu d’or généré par l’IA et l’affiner
-* Définir des règles pour la réunion de la réservation, la remise en direct du représentant, la tarification, les réclamations légales et les mentions des concurrents
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
 
-Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
