@@ -40,4 +40,4 @@ Adobe Brand Concierge peut répondre dans la langue sélectionnée lors de la cr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503888?learn=on)
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).

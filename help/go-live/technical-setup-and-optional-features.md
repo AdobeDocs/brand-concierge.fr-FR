@@ -43,4 +43,4 @@ Préparez votre site web pour Adobe Brand Concierge et choisissez les fonctionna
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).

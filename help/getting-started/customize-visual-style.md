@@ -41,4 +41,4 @@ Votre Adobe Brand Concierge commence par des choix visuels qu’Adobe a déjà f
 
 >[!VIDEO](https://video.tv.adobe.com/v/3502259)
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).

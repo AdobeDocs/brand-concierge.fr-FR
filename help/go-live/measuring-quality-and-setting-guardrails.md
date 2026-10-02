@@ -43,4 +43,4 @@ Avant de lancer Adobe Brand Concierge, vous avez besoin d’un moyen de mesurer 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
