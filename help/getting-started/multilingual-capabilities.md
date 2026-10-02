@@ -38,6 +38,6 @@ Adobe Brand Concierge peut répondre dans la langue sélectionnée lors de la cr
 * Impact de la langue de réponse sélectionnée sur les réponses et les cartes d’invite de démarrage
 * Comment les sources de connaissances importées, telles que les catalogues et les URL de site web, prennent en charge les réponses localisées
 
->[!VIDEO](https://video.tv.adobe.com/v/3503888?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503890?captions=fre_fr&learn=on)
 
 Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
