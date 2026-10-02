@@ -1,13 +1,14 @@
 ---
 title: Ajout d’utilisateurs au rôle Brand Concierge
 description: Découvrez comment affecter des utilisateurs et utilisatrices à un rôle qui inclut l’autorisation Brand Concierge.
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
-
 ---
-
 
 # Ajout d’utilisateurs au rôle Brand Concierge
 
@@ -41,7 +42,7 @@ Une fois l’invitation à l’organisation et l’affectation de rôle terminé
 
 - Connectez-vous à `experienceplatform.adobe.com`.
 - Afficher les organisations auxquelles elles peuvent accéder.
-- Ouvrez **&#x200B;**.
+- Ouvrez ****.
 - Affichez le ou les sandbox accordés par le biais du rôle.
 
 Dans un sandbox, l’utilisateur peut créer plusieurs concierges.

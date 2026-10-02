@@ -1,23 +1,30 @@
 ---
 title: Personnaliser le style visuel de votre concierge - Vidéo
-description: Découvrez comment personnaliser le style visuel de votre Brand Concierge Adobe, y compris le message de bienvenue, les cartes d’invite de démarrage et les couleurs des cartes.
+description: Découvrez comment personnaliser le style visuel de votre Adobe Brand Concierge, y compris le message de bienvenue, les cartes d’invite de démarrage et les couleurs des cartes.
 topic: Personalization
 role: User
 level: Beginner
 doc-type: Technical Video
 duration: 234
-last-substantial-update: 2026-08-25T00:00:00Z
+last-substantial-update: 2026-08-25T00:00:00.000Z
 jira: KT-22408
-source-git-commit: e4579efe202448c0c4dc85b3444abac6ed2834c2
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
-
 ---
-
 # Personnaliser le style visuel de votre concierge
 
-Votre Brand Concierge Adobe commence par les choix visuels qu’Adobe a déjà effectués pour vous : une palette de couleurs, des polices et des images de carte extraites de votre site web. Dans cette vidéo, vous passez en revue ces choix et personnalisez le message de bienvenue et les cartes d’invite de démarrage pour mieux correspondre à votre marque.
+Votre Adobe Brand Concierge commence par des choix visuels qu’Adobe a déjà faits pour vous : une palette de couleurs, des polices et des images de carte extraites de votre site web. Dans cette vidéo, vous passez en revue ces choix et personnalisez le message de bienvenue et les cartes d’invite de démarrage pour mieux correspondre à votre marque.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -32,6 +39,6 @@ Votre Brand Concierge Adobe commence par les choix visuels qu’Adobe a déjà e
 * Comment modifier le titre et le sous-titre du message de bienvenue, y compris la couleur, l’épaisseur et la taille du texte
 * Comment ajouter, supprimer et modifier des cartes d’invite de démarrage, y compris le texte, les images et la couleur d’arrière-plan de la carte
 
->[!VIDEO](https://video.tv.adobe.com/v/3502261?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3502259)
 
-Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).

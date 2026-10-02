@@ -2,13 +2,14 @@
 title: Création et gestion des sources de connaissances pour Brand Concierge
 description: Découvrez comment créer AEM Sites, des liens de site web et des sources de connaissances de catalogue de produits pour Brand Concierge, surveiller l’état du traitement et résoudre les problèmes d’explore.
 hide: true
-source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '856'
 ht-degree: 1%
-
 ---
-
 
 # Création et gestion des sources de connaissances pour Brand Concierge
 
@@ -39,7 +40,7 @@ Brand Concierge prend en charge les types de sources de connaissances suivants :
 Utilisez une source de connaissances AEM Sites lorsque le client utilise déjà AEM Sites as a Cloud Service avec l’IA dédiée au contenu activée.
 
 1. Sélectionnez **Créer une Source de connaissances**.
-1. Choisissez **&#x200B;**&#x200B;puis sélectionnez **Continuer**.
+1. Choisissez **** puis sélectionnez **Continuer**.
 1. Saisissez un nom et une description pour la source de connaissances. Par exemple, utilisez `My main website` comme nom.
 1. Sélectionnez un index IA dédiée au contenu existant dans la liste. La liste est renseignée à partir de l’instance AEM Sites as a Cloud Service.
 1. Sélectionnez **Enregistrer**.
@@ -92,7 +93,7 @@ Chaque source de connaissances affiche un statut de traitement.
 | --- | --- |
 | En cours | La source de connaissances est en cours de traitement. |
 | Réussite | La source de connaissances est entièrement traitée et prête à être utilisée. |
-| Planifiée | La source de connaissances sera traitée à une heure planifiée ultérieure. |
+| Planifié | La source de connaissances sera traitée à une heure planifiée ultérieure. |
 | Succès partiel | Certaines pages ont été traitées avec succès et d’autres ont échoué. |
 
 La page Détails de la source de connaissances fournit des informations telles que :

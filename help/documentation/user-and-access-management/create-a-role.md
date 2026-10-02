@@ -1,13 +1,14 @@
 ---
 title: Création d’un rôle avec l’autorisation Brand Concierge
 description: Découvrez comment créer un rôle et lui accorder l’autorisation requise pour accéder à Brand Concierge.
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 1%
-
 ---
-
 
 # Création d’un rôle avec l’autorisation Brand Concierge
 
@@ -27,7 +28,7 @@ Créez un rôle dans Autorisations Adobe Experience Platform pour accorder aux u
 1. Saisissez un nom pour le rôle, tel que `Brand Concierge Access Users`, ajoutez une description et confirmez la création.
 1. Ouvrez le nouveau rôle et attribuez les autorisations :
 
-   1. Recherchez **&#x200B;**&#x200B;dans la liste des autorisations.
+   1. Recherchez **** dans la liste des autorisations.
    1. Sélectionnez **Gérer Brand Concierge**.
 
    Actuellement, **Gérer Brand Concierge** est la seule autorisation Brand Concierge disponible ; les niveaux d’autorisation granulaires ne sont pas encore disponibles.
@@ -40,4 +41,4 @@ Créez un rôle dans Autorisations Adobe Experience Platform pour accorder aux u
 
 ## Étapes suivantes
 
-Une fois le rôle créé, ajoutez-y des utilisateurs et utilisatrices. Pour plus d’informations, voir [&#x200B; Ajouter des utilisateurs au rôle Brand Concierge &#x200B;](./add-a-user-to-the-role.md).
+Une fois le rôle créé, ajoutez-y des utilisateurs et utilisatrices. Pour plus d’informations, voir [ Ajouter des utilisateurs au rôle Brand Concierge ](./add-a-user-to-the-role.md).

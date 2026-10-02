@@ -2,13 +2,14 @@
 title: Analyse des performances du concierge
 description: Découvrez comment vérifier les analyses du concierge, examiner les transcriptions de conversation, ajouter des questions aux visiteurs des ensembles d’évaluation et ouvrir les rapports Customer Journey Analytics.
 hide: true
-source-git-commit: da4b30fa292b911987aebec378af420b293ea594
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
-
 ---
-
 
 # Analyse des performances du concierge
 
@@ -59,7 +60,7 @@ Si un visiteur pose une question utile pour des tests ultérieurs, ajoutez-la di
 
 1. Sélectionnez **Ajouter à l’évaluation**.
 
-L’ajout de questions réelles aux visiteurs aide à maintenir les jeux d’évaluation basés sur les questions réelles des visiteurs. Pour plus d’informations sur les jeux d’évaluation, voir [&#x200B; Évaluer un concierge &#x200B;](../evaluation/evaluation.md).
+L’ajout de questions réelles aux visiteurs aide à maintenir les jeux d’évaluation basés sur les questions réelles des visiteurs. Pour plus d’informations sur les jeux d’évaluation, voir [ Évaluer un concierge ](../evaluation/evaluation.md).
 
 >[!TIP]
 >

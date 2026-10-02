@@ -2,13 +2,14 @@
 title: Déployer un concierge
 description: Découvrez comment déployer un Brand Concierge en configurant un flux de données, en installant le script de déploiement, en définissant des règles de surface et en vérifiant le déploiement.
 hide: true
-source-git-commit: da4b30fa292b911987aebec378af420b293ea594
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 0%
-
 ---
-
 
 # Déployer un concierge
 

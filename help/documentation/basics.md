@@ -1,13 +1,14 @@
 ---
-title: Principes de base d’Adobe Brand Concierge
-description: Notions de base sur Adobe Brand Concierge.
-source-git-commit: b3307a9879e8b1f0166d7a15e3436cc76729b806
+title: Principes de base de Adobe Brand Concierge
+description: Concepts de base de Adobe Brand Concierge.
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 1%
-
 ---
-
 
 # Principes de base de Brand Concierge
 
@@ -15,7 +16,7 @@ ht-degree: 1%
 
 ## Types de documentation
 
-Bienvenue dans la documentation d’Adobe Brand Concierge. Nous disposons de 2 zones de documentation, [B2B](./b2b/overview.md) et [B2C](./b2c/overview.md) et de plusieurs ressources partagées qui seront utiles quel que soit le cas d’utilisation commerciale.
+Bienvenue dans la documentation de Adobe Brand Concierge. Nous disposons de 2 zones de documentation, [B2B](./b2b/overview.md) et [B2C](./b2c/overview.md) et de plusieurs ressources partagées qui seront utiles quel que soit le cas d’utilisation commerciale.
 
 ## Paramètres
 
