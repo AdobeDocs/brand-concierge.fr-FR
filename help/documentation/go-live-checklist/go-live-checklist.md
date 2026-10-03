@@ -2,13 +2,14 @@
 title: Liste de contrôle de mise en production pour un concierge
 description: Utilisez cette liste de contrôle pour passer en revue le niveau de préparation du concierge avant de le rendre disponible pour les visiteurs réels et pour établir la cadence de fonctionnement initiale après le lancement.
 hide: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
-
 ---
-
 
 # Liste de contrôle de mise en production pour un concierge
 

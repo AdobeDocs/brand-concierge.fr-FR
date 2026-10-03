@@ -6,9 +6,18 @@ role: User
 level: Beginner
 doc-type: Tutorial
 duration: 179
-last-substantial-update: 2026-09-25
+last-substantial-update: 2026-09-25T00:00:00.000Z
 jira: KT-22689
-source-git-commit: 6efa56d0c027383f2a15422f5e49cb10e5ab051f
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -29,6 +38,6 @@ Adobe Brand Concierge peut répondre dans la langue sélectionnée lors de la cr
 * Impact de la langue de réponse sélectionnée sur les réponses et les cartes d’invite de démarrage
 * Comment les sources de connaissances importées, telles que les catalogues et les URL de site web, prennent en charge les réponses localisées
 
->[!VIDEO](https://video.tv.adobe.com/v/3503888?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503890?captions=fre_fr&learn=on)
 
 Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).

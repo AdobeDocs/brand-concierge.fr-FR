@@ -6,16 +6,25 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 215
-last-substantial-update: 2026-09-14
+last-substantial-update: 2026-09-14T00:00:00.000Z
 jira: KT-22594
-source-git-commit: e15924679ac2731ef367416160368459ef88167a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 ---
 # Conversation vocale
 
-Adobe Brand Concierge prend en charge un mode de conversation vocale mains libres qui permet aux clients de parler avec le concierge au lieu de taper. Cette vidéo décrit comment activer le mode vocal, comment la détection vocale automatique supprime la nécessité d&#39;appuyer sur n&#39;importe quel bouton et comment la voix s&#39;intègre dans l&#39;expérience multimodale complète du concierge avec les réponses textuelles et visuelles.
+Adobe Brand Concierge prend en charge un mode de conversation mains libres voix à voix qui permet aux clients de parler avec le concierge au lieu de taper. Cette vidéo décrit comment activer le mode vocal, comment la détection vocale automatique supprime la nécessité d&#39;appuyer sur n&#39;importe quel bouton et comment la voix s&#39;intègre dans l&#39;expérience multimodale complète du concierge avec les réponses textuelles et visuelles.
 
 ## À qui s&#39;adresse cette vidéo ?
 
