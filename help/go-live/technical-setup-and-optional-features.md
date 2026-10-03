@@ -41,6 +41,6 @@ Préparez votre site web pour Adobe Brand Concierge et choisissez les fonctionna
 * Activation du chat en direct avec une disponibilité de représentant, des déclencheurs de visiteur et une solution de secours de réservation de réunion
 * Connexion de Marketo Engage pour recevoir des prospects et des activités, avec un accès administrateur et un indicateur de fonctionnalité
 
->[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504077/?captions=fre_fr&learn=on)
 
 Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
