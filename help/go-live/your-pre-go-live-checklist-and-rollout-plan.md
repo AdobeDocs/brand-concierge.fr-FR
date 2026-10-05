@@ -39,4 +39,4 @@ Avant de lancer Adobe Brand Concierge, validez votre contenu, la configuration d
 
 Commencez par vos coéquipiers internes et testez les flux complets de bout en bout. Envisagez ensuite un petit déploiement initial, par exemple 5 % des pages cible, avant de passer à 25 %, 50 % et finalement 100 %. Il s’agit d’exemples d’étapes, et non d’un planning fixe. Continuez la surveillance via votre tableau de bord Analytics au moins une fois par semaine après le déploiement complet.
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
