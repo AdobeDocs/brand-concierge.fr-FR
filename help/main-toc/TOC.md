@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Explorer Adobe Brand Concierge
-source-git-commit: fb269417444109f339fd1301a6fce7733463c37e
+source-git-commit: 024fc10eacb22a8292e51891458fc57253455afc
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 16%
+source-wordcount: '176'
+ht-degree: 15%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -27,6 +27,7 @@ ht-degree: 16%
   + [Façonner votre voix et votre widget](../go-live/voice-and-visuals.md)
   + [Mesurer la qualité et définir des mécanismes de sécurisation](../go-live/measuring-quality-and-setting-guardrails.md)
   + [Configuration technique et fonctionnalités facultatives](../go-live/technical-setup-and-optional-features.md)
+  + [Votre liste de contrôle avant la mise en production et votre plan de déploiement](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + Documentation {#documentation}
   + [Aide de Brand Concierge](../documentation/overview.md)
   + [Réunions](../documentation/meetings.md)
