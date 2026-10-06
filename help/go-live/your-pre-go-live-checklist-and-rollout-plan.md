@@ -48,4 +48,4 @@ Commencez par vos coéquipiers internes et testez les flux complets de bout en b
 * [Configuration technique et fonctionnalités facultatives](technical-setup-and-optional-features.md)
 * [Liste de contrôle de mise en production de Brand Concierge](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
