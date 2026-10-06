@@ -41,7 +41,7 @@ Avant de lancer Adobe Brand Concierge, vous avez besoin d’un moyen de mesurer 
 * Pourquoi les exemples hors de portée sont-ils importants et comment le concierge les rejette ?
 * Utiliser un premier brouillon de votre jeu d’or généré par l’IA et l’affiner
 
->[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503944/?captions=fre_fr&learn=on)
 
 ## Tutoriels connexes
 
