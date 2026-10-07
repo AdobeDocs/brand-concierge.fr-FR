@@ -19,9 +19,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '218'
 ht-degree: 0%
 ---
 # Configuration technique et fonctionnalités facultatives
@@ -42,5 +42,14 @@ Préparez votre site web pour Adobe Brand Concierge et choisissez les fonctionna
 * Connexion de Marketo Engage pour recevoir des prospects et des activités, avec un accès administrateur et un indicateur de fonctionnalité
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504077/?captions=fre_fr&learn=on)
+
+## Tutoriels connexes
+
+* [Bienvenue dans votre parcours de mise en production](welcome.md)
+* [Façonner votre voix et votre widget](voice-and-visuals.md)
+* [Préparation de votre contenu et du parcours des visiteurs](content-and-journey.md)
+* [Mesurer la qualité et définir des mécanismes de sécurisation](measuring-quality-and-setting-guardrails.md)
+* [Votre liste de contrôle avant la mise en production et votre plan de déploiement](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Liste de contrôle de mise en production de Brand Concierge](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
