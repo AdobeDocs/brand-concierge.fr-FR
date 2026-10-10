@@ -48,6 +48,6 @@ Votre concierge ne devrait pas ressembler à un bot conversationnel générique,
 * [Mesurer la qualité et définir des mécanismes de sécurisation](measuring-quality-and-setting-guardrails.md)
 * [Configuration technique et fonctionnalités facultatives](technical-setup-and-optional-features.md)
 * [Votre liste de contrôle avant la mise en production et votre plan de déploiement](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Liste de contrôle de mise en production de Brand Concierge](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Liste de contrôle de mise en production de Brand Concierge](https://experienceleague.adobe.com/fr/playlists/brand-concierge-go-live-checklist)
 
 Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
