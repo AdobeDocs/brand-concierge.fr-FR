@@ -28,7 +28,7 @@ Découvrez comment enregistrer et exporter des conversations Adobe Brand Concier
 * Découvrez pourquoi la Distiller de données est requise pour le téléchargement du fichier CSV illustré dans la vidéo
 * Appliquez la politique de gestion des données de votre organisation lorsque vous stockez des exportations susceptibles de contenir des informations d’identification personnelle (PII)
 
->[!VIDEO](https://video.tv.adobe.com/v/3504546)
+>[!VIDEO](https://video.tv.adobe.com/v/3504548?captions=fre_fr)
 
 >[!NOTE]
 >
