@@ -5,12 +5,12 @@ topic: Data Distiller
 role: Developer
 level: Intermediate
 doc-type: Tutorial
-duration: 173
+duration: 175
 last-substantial-update: 2026-10-14
 jira: KT-22743
-source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
+source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 0%
 ---
 # Exporter des conversations à l’aide d’Adobe CX Enterprise Coworker
@@ -34,4 +34,8 @@ Découvrez comment enregistrer et exporter des conversations Adobe Brand Concier
 >
 > Si Data Distiller n’est pas disponible dans votre organisation, Coworker ne peut pas créer le téléchargement du fichier CSV affiché dans cette vidéo.
 
-Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+
+## Tutoriels connexes
+
+* [Exporter des conversations à l’aide de Query Service et du terminal](exporting-conversations-using-query-service-and-terminal.md)
