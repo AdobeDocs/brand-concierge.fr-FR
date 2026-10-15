@@ -39,7 +39,7 @@ Découvrez comment enregistrer et exporter des conversations Adobe Brand Concier
 >
 > Les conversations exportées peuvent contenir des informations d’identification personnelle (PII). Respectez la politique de gestion des données de votre entreprise lors du stockage de fichiers CSV.
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
 
 ## Tutoriels connexes
 
