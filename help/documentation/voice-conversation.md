@@ -1,6 +1,6 @@
 ---
-title: Activer les conversations vocales dans Brand Concierge
-description: Description
+title: Activer les conversations vocales
+description: Activez la dictée et le mode vocal dans Brand Concierge afin que les visiteurs puissent parler librement et obtenir toujours du texte, des images et des liens dans les réponses du concierge.
 role: User, Admin
 level: Beginner
 product_v2:
@@ -14,54 +14,55 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d0018106bf63c9c98c90c6e0497ed83439bf3026
+source-git-commit: 26648a7597148a5a463c2ae695598a5558ad8f48
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '320'
 ht-degree: 0%
 ---
-# Activer les conversations vocales dans Brand Concierge
+# Activer les conversations vocales
 
-Configurez des entrées vocales et des réponses vocales pour un Brand Concierge. Vous pouvez activer l’une ou l’autre des fonctionnalités indépendamment ou les deux pour une conversation vocale.
+Les conversations vocales dans Adobe Brand Concierge permettent à vos visiteurs de parler avec un concierge au lieu de taper. La voix prend en charge les interactions mains libres et maintient l’expérience multimodale, de sorte que le concierge peut toujours fournir du texte, des images et des liens.
 
 ## Comment activer la voix
 
-1. Sur l’écran **Accueil**, sous **Vos concierges**, sélectionnez le concierge de votre choix.
+1. Sur l’écran **Accueil**, sous **Vos concierges**, sélectionnez le concierge que vous souhaitez modifier.
 
-   CAPTURE D’ÉCRAN
+   ![Écran d’accueil de Brand Concierge avec la carte du concierge Adobe mise en surbrillance sous Vos concierges](assets/voice-conversations-1.png){width="800" zoomable="yes"}
 
-2. Sélectionnez l’onglet **Conception**.
-3. Dans le menu de gauche, sélectionnez **Voix**.
-4. Dans le panneau Vocal, activez les options dont vous avez besoin :
-   - **Dictation** — Transcrit ce que l&#39;utilisateur dit en texte.
-   - **Mode vocal** — Lit à haute voix les réponses du concierge.
-5. Sélectionnez **Enregistrer** au bas du panneau Voix. L’option **Enregistrer** n’est pas disponible tant que vous n’avez pas modifié un paramètre.
+1. Dans l’onglet **Conception**, sélectionnez **Voix**.
 
-Les deux options sont désactivées par défaut. Activez les deux pour la saisie vocale et les réponses vocales.
+   ![Onglet Conception d’un concierge avec l’option Voix mise en surbrillance dans le panneau de gauche sous Expression de la marque](assets/voice-conversations-2.png){width="800" zoomable="yes"}
 
-AUTRE VERSION
+   >[!NOTE]
+   >
+   >La première fois que vous activez la voix, vous devez consulter l’avis de confidentialité avant de continuer.
 
-## Activer et utiliser des conversations vocales dans Adobe Brand Concierge
+1. Dans le panneau _Voix_, activez les options souhaitées, puis sélectionnez **Enregistrer**.
+   - **Dictation** : transcrit le texte de ce que disent vos visiteurs et visiteuses.
+   - **Mode vocal** : lit à haute voix les réponses du concierge.
 
-Les conversations vocales Adobe Brand Concierge permettent aux visiteurs de parler avec un concierge au lieu de taper. Le mode vocal prend en charge les interactions mains libres tout en conservant une expérience multimodale : le concierge peut toujours fournir du texte, des images et des liens.
+   ![Panneau vocal avec les boutons Dictée et Mode vocal activés et le bouton Enregistrer en bas](assets/voice-conversations-3.png)
 
-## Activer le mode vocal
+   >[!NOTE]
+   >
+   >Les commandes disponibles peuvent varier en fonction de la configuration de votre concierge.
 
-1. Ouvrez la gestion du concierge et sélectionnez le concierge que vous souhaitez configurer.
-2. Activez le **mode vocal**.
-3. La première fois que la voix est utilisée, passez en revue l’avis de confidentialité affiché dans l’expérience avant de continuer.
+## L’expérience du visiteur
 
-Les commandes spécifiques disponibles peuvent dépendre de la configuration de votre concierge.
+### Les visiteurs peuvent parler naturellement
 
-## Démarrer une conversation vocale
+Après avoir activé la voix, les visiteurs peuvent parler naturellement au concierge. La détection automatique de la parole démarre et arrête l&#39;écoute, de sorte que les visiteurs n&#39;ont pas à sélectionner un bouton à chaque tour.
 
-Une fois que le mode vocal est activé, parlez naturellement au concierge. La détection automatique de la parole démarre et arrête l&#39;écoute sans que vous ayez à appuyer sur un bouton à chaque tour.
+Les visiteurs peuvent également interrompre le concierge pendant qu&#39;il parle, afin qu&#39;ils n&#39;aient pas à attendre que la réponse soit terminée.
 
-Vous pouvez poursuivre la conversation avec des questions de suivi. Les conversations vocales prennent également en charge les interruptions naturelles pendant que le concierge parle, afin que vous puissiez parler à nouveau plutôt que d&#39;attendre que la réponse soit terminée.
+### Réponses textuelles et visuelles
 
-## Obtenir des réponses textuelles et visuelles
+La voix ne limite pas le concierge au son. Au cours d’une conversation vocale, le concierge peut toujours renvoyer du texte, des images et des liens dans le cadre de sa réponse.
 
-Le mode vocal ne limite pas le concierge à l&#39;audio. Au cours d’une conversation vocale, le concierge peut toujours renvoyer du texte, des images et des liens dans le cadre de sa réponse.
+## Comment désactiver la voix
 
-## Désactiver le mode vocal
+1. Sur l’écran **Accueil**, sous **Vos concierges**, sélectionnez le concierge que vous souhaitez modifier.
 
-Si la voix n&#39;est plus souhaitée pour l&#39;expérience de concierge, désactivez **Mode voix** dans la gestion du concierge.
+1. Dans l’onglet **Conception**, sélectionnez **Voix**.
+
+1. Dans le panneau _Voix_, désactivez les options que vous souhaitez désactiver, puis sélectionnez **Enregistrer**.
