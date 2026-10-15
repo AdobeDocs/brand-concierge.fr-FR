@@ -35,7 +35,7 @@ ht-degree: 14%
   + [Réunions](../documentation/meetings.md)
   + [Cadre de compétences et d’intégration](../documentation/skills-and-integrations.md)
   + [Guide de développement et de personnalisation](../documentation/developer-customization-guide.md)
-  + {hide-from-toc}[Conversation vocale ](../documentation/voice-conversation.md)
+  + {hide-from-toc}[Conversation vocale &#x200B;](../documentation/voice-conversation.md)
   + [Forum aux questions](../documentation/brand-concierge-faq.md)
   + Vue d’ensemble {#overview}
     + [Présentation de Brand Concierge](../documentation/overview/overview.md)
