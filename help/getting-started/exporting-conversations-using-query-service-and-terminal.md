@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 260
 last-substantial-update: 2026-10-15
 jira: KT-22874
-source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
+source-git-commit: 04c844e16a8fb13e54dfcbb29c776896674532b9
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -31,6 +31,10 @@ Découvrez comment enregistrer et exporter des conversations Adobe Brand Concier
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504643)
 
+```bash
+psql "sslmode=require host=... password=..." --csv -o ~/brand-concierge-conversation-export/oct-1-2026-till-today-responses.csv -c "SELECT * FROM cja_brand_concierge_responses_dataset_b4c15126_bd9b_4d52_8151_26 WHERE timestamp >= TIMESTAMP '2026-10-01 00:00:00' AND timestamp <= NOW() ORDER BY timestamp ASC LIMIT 1000"
+```
+
 >[!IMPORTANT]
 >
 > La commande de connexion PSQL contient un mot de passe actif. Ne le partagez pas et ne le collez pas dans des conversations, des agents d’IA ou des e-mails. Si l’authentification échoue après l’expiration du mot de passe, copiez une nouvelle commande à partir de l’onglet Informations d’identification de Query Service .
@@ -39,7 +43,7 @@ Découvrez comment enregistrer et exporter des conversations Adobe Brand Concier
 >
 > Les conversations exportées peuvent contenir des informations d’identification personnelle (PII). Respectez la politique de gestion des données de votre entreprise lors du stockage de fichiers CSV.
 
-Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
 
 ## Tutoriels connexes
 
