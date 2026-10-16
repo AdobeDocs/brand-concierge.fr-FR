@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 175
 last-substantial-update: 2026-10-14
 jira: KT-22743
-source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
+source-git-commit: de739f5ff45550a953e88a62c42c6beade126a96
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '211'
 ht-degree: 0%
 ---
 # Exporter des conversations à l’aide d’Adobe CX Enterprise Coworker
@@ -28,13 +28,13 @@ Découvrez comment enregistrer et exporter des conversations Adobe Brand Concier
 * Découvrez pourquoi la Distiller de données est requise pour le téléchargement du fichier CSV illustré dans la vidéo
 * Appliquez la politique de gestion des données de votre organisation lorsque vous stockez des exportations susceptibles de contenir des informations d’identification personnelle (PII)
 
->[!VIDEO](https://video.tv.adobe.com/v/3504548?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3504546)
 
 >[!NOTE]
 >
-> Si Data Distiller n’est pas disponible dans votre organisation, Coworker ne peut pas créer le téléchargement du fichier CSV affiché dans cette vidéo.
+> Si Data Distiller n’est pas disponible dans votre organisation, Coworker ne peut pas créer le téléchargement du fichier CSV affiché dans cette vidéo. Sélectionnez [Regarder la vidéo Query Service et Terminal](exporting-conversations-using-query-service-and-terminal.md) pour savoir comment exporter des données de conversation vers un fichier CSV à l’aide de Terminal.
 
-Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
 
 ## Tutoriels connexes
 
