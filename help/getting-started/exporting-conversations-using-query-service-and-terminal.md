@@ -29,7 +29,7 @@ Découvrez comment enregistrer et exporter des conversations Adobe Brand Concier
 * Sélectionnez un jeu de données et une période, puis exportez les résultats de la requête vers un fichier CSV local
 * Vérifiez les résultats exportés et actualisez les informations d’identification expirées si nécessaire.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504643)
+>[!VIDEO](https://video.tv.adobe.com/v/3504645?captions=fre_fr)
 
 ```bash
 psql "sslmode=require host=... password=..." --csv -o ~/brand-concierge-conversation-export/oct-1-2026-till-today-responses.csv -c "SELECT * FROM cja_brand_concierge_responses_dataset_b4c15126_bd9b_4d52_8151_26 WHERE timestamp >= TIMESTAMP '2026-10-01 00:00:00' AND timestamp <= NOW() ORDER BY timestamp ASC LIMIT 1000"
