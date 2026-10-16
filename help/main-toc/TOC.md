@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Explorer Adobe Brand Concierge
-source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
+source-git-commit: 4120fe43e9144b63b2f26eed8798a82a46a2dd77
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '192'
 ht-degree: 14%
 ---
 
@@ -22,6 +22,7 @@ ht-degree: 14%
   + [En savoir plus sur les jeux d’évaluation](../getting-started/learn-about-evaluation-sets.md)
   + [Déployer le concierge](../getting-started/deploy-the-concierge.md)
   + [Exporter des conversations à l’aide d’Adobe CX Enterprise Coworker](../getting-started/exporting-conversations-using-adobe-cx-enterprise-coworker.md)
+  + [Exporter des conversations à l’aide de Query Service et du terminal](../getting-started/exporting-conversations-using-query-service-and-terminal.md)
 + Guide de mise en production {#go-live-guide}
   + [Bienvenue dans votre parcours de mise en production](../go-live/welcome.md)
   + [Préparation de votre contenu et de l’expérience des visiteurs](../go-live/content-and-journey.md)
@@ -34,6 +35,7 @@ ht-degree: 14%
   + [Réunions](../documentation/meetings.md)
   + [Cadre de compétences et d’intégration](../documentation/skills-and-integrations.md)
   + [Guide de développement et de personnalisation](../documentation/developer-customization-guide.md)
+  + {hide-from-toc}[Conversation vocale &#x200B;](../documentation/voice-conversation.md)
   + [Forum aux questions](../documentation/brand-concierge-faq.md)
   + Vue d’ensemble {#overview}
     + [Présentation de Brand Concierge](../documentation/overview/overview.md)
