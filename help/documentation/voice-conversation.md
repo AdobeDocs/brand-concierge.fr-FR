@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 26648a7597148a5a463c2ae695598a5558ad8f48
+source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 ---
 # Activer les conversations vocales
@@ -25,13 +25,13 @@ Les conversations vocales dans Adobe Brand Concierge permettent à vos visiteurs
 
 ## Comment activer la voix
 
-1. Sur l’écran **Accueil**, sous **Vos concierges**, sélectionnez le concierge que vous souhaitez modifier.
+1. Sur l&#39;écran **Accueil**, sous **Vos concierges**, sélectionnez le concierge où vous souhaitez activer la voix.
 
-   ![Écran d’accueil de Brand Concierge avec la carte du concierge Adobe mise en surbrillance sous Vos concierges](assets/voice-conversations-1.png){width="800" zoomable="yes"}
+   ![Écran d’accueil de Brand Concierge avec la carte du concierge Adobe mise en surbrillance sous Vos concierges](assets/voice-conversations-1.png){width="600" zoomable="yes"}
 
 1. Dans l’onglet **Conception**, sélectionnez **Voix**.
 
-   ![Onglet Conception d’un concierge avec l’option Voix mise en surbrillance dans le panneau de gauche sous Expression de la marque](assets/voice-conversations-2.png){width="800" zoomable="yes"}
+   ![Onglet Conception d’un concierge avec l’option Voix mise en surbrillance dans le panneau de gauche sous Expression de la marque](assets/voice-conversations-2.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ La voix ne limite pas le concierge au son. Au cours d’une conversation vocale,
 
 ## Comment désactiver la voix
 
-1. Sur l’écran **Accueil**, sous **Vos concierges**, sélectionnez le concierge que vous souhaitez modifier.
+1. Sur l&#39;écran **Accueil**, sous **Vos concierges**, sélectionnez le concierge où vous souhaitez désactiver la voix.
 
 1. Dans l’onglet **Conception**, sélectionnez **Voix**.
 
