@@ -34,7 +34,7 @@ Découvrez comment enregistrer et exporter des conversations Adobe Brand Concier
 >
 > Si Data Distiller n’est pas disponible dans votre organisation, Coworker ne peut pas créer le téléchargement du fichier CSV affiché dans cette vidéo. Sélectionnez [Regarder la vidéo Query Service et Terminal](exporting-conversations-using-query-service-and-terminal.md) pour savoir comment exporter des données de conversation vers un fichier CSV à l’aide de Terminal.
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
 
 ## Tutoriels connexes
 
