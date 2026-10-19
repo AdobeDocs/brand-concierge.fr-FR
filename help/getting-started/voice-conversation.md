@@ -42,5 +42,5 @@ Adobe Brand Concierge prend en charge un mode de conversation mains libres voix 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
 
-Pour consulter la documentation, voir l’aide de [](../documentation/overview.md).
-Pour obtenir de la documentation sur l’activation de cette fonctionnalité, voir [ Activer la voix ](../documentation/voice-conversation.md)
+Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
+Pour obtenir de la documentation sur l’activation de cette fonctionnalité, voir [&#x200B; Activer la voix &#x200B;](../documentation/voice-conversation.md)
