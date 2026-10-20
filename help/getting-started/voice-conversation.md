@@ -5,8 +5,8 @@ topic: Personalization
 role: User
 level: Beginner
 doc-type: Technical Video
-duration: 215
-last-substantial-update: 2026-09-14T00:00:00.000Z
+duration: 217
+last-substantial-update: 2026-09-14
 jira: KT-22594
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 23b94b6718471b98a00271cde8f95b7c1aa6b876
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '195'
 ht-degree: 0%
 ---
 # Conversation vocale
@@ -43,3 +43,4 @@ Adobe Brand Concierge prend en charge un mode de conversation mains libres voix 
 >[!VIDEO](https://video.tv.adobe.com/v/3503488?captions=fre_fr&learn=on)
 
 Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
+Pour obtenir de la documentation sur l’activation de cette fonctionnalité, voir [&#x200B; Activer la voix &#x200B;](../documentation/voice-conversation.md)
