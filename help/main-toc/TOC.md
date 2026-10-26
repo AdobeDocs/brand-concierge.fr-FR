@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Explorer Adobe Brand Concierge
-source-git-commit: c80a55306cf078d21071332532717760960dbc47
+source-git-commit: bc1ad01947d4c756c13392c1db85ced46e9cca82
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 14%
+source-wordcount: '223'
+ht-degree: 13%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -32,7 +32,6 @@ ht-degree: 14%
   + [Votre liste de contrôle avant la mise en production et votre plan de déploiement](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + Documentation {#documentation}
   + [Aide de Brand Concierge](../documentation/overview.md)
-  + [Réunions](../documentation/meetings.md)
   + [Cadre de compétences et d’intégration](../documentation/skills-and-integrations.md)
   + [Guide de développement et de personnalisation](../documentation/developer-customization-guide.md)
   + [Conversation vocale](../documentation/voice-conversation.md)
@@ -48,6 +47,14 @@ ht-degree: 14%
     + [Création et gestion des sources de connaissances pour Brand Concierge](../documentation/knowledge-sources/knowledge-sources.md)
   + Gestion des services de conciergerie {#concierge-management}
     + [Gérer un concierge](../documentation/concierge-management/concierge-management.md)
+  + Chat en direct et réservation de réunion {#sales-handoff}
+    + [Vue d’ensemble](../documentation/sales-handoff/overview.md)
+    + [Configurer des représentants](../documentation/sales-handoff/representative-setup.md)
+    + [Acheminer les conversations vers les représentants](../documentation/sales-handoff/routing-rules.md)
+    + [Activer le chat en direct et la réservation de réunion](../documentation/sales-handoff/configure-in-composer.md)
+    + [Boîte de réception du chat](../documentation/sales-handoff/chat-inbox.md)
+    + [Données Brand Concierge dans Marketo Engage](../documentation/sales-handoff/marketo-activities.md)
+    + [Surveiller les réunions et les discussions en direct](../documentation/sales-handoff/monitor.md)
   + Évaluation {#evaluation}
     + [Évaluer un concierge](../documentation/evaluation/evaluation.md)
   + Déploiement {#deployment}

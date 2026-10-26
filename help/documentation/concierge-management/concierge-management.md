@@ -5,9 +5,9 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1761'
+source-wordcount: '1702'
 ht-degree: 1%
 ---
 
@@ -77,8 +77,8 @@ Sélectionnez **Parcourir les intégrations** pour afficher le catalogue d’int
 | Recherche optimisée par l&#39;IA de contenu | Recherche du contenu AEM Sites | Pertinent pour les clients d’AEM Sites as a Cloud Service |
 | Liaison d&#39;entité | Résout les produits ou les mentions de marque dans le message d’un visiteur sur des entités de catalogue spécifiques | Prise en charge de l’intégration, généralement utilisée avec une intégration de recherche plutôt que seule |
 | COMMERCE MCP | Se connecte à un catalogue Adobe Commerce actif pour rechercher des produits, obtenir des détails sur les produits et des comparaisons | Non activé par défaut ; nécessite des codes ou des clés de l’équipe commerciale ou informatique |
-| Réservation de réunion | Permet aux visiteurs de réserver une réunion avec un représentant commercial | Nécessite une configuration avec le calendrier d&#39;un commercial |
-| Conversation en direct | Connecte les visiteurs à un représentant commercial en direct | Nécessite une configuration avec la disponibilité d&#39;un représentant commercial |
+| Réservation de réunion | Permet aux visiteurs de réserver une réunion avec un représentant commercial | Nécessite une configuration avec le calendrier d&#39;un commercial. Voir [Chat en direct et réservation de réunions](../sales-handoff/overview.md) |
+| Conversation en direct | Connecte les visiteurs à un représentant commercial en direct | Nécessite une configuration avec la disponibilité d&#39;un représentant commercial. Voir [Chat en direct et réservation de réunions](../sales-handoff/overview.md) |
 
 ### Activer et configurer une intégration
 
@@ -107,8 +107,7 @@ Les compétences déterminent ce qu&#39;un concierge peut faire pour les visiteu
 | Conseil sur le produit | Aide les visiteurs à découvrir et à rechercher des produits au moyen de fiches produits basées sur des noms et de questions sur les produits en prose | Recherche dans la base de connaissances, liaison d&#39;entités |
 | Découverte des catalogues Adobe Commerce | Recherche, parcourt, filtre et récupère des détails sur les produits d’un catalogue dynamique | Intégration de Commerce MCP |
 | Comparaison des produits Adobe Commerce | Fournit une comparaison côte à côte des produits nommés | Intégration de Commerce MCP |
-| Réserver une réunion avec les ventes | Suggère et facilite la réservation d’une réunion | Intégration de la réservation de réunion |
-| Conversation en direct avec les ventes | Suggère et facilite une remise en direct par chat | Intégration de la discussion en direct |
+| Remise aux ventes | Suggère et facilite une discussion en direct avec un représentant commercial ou une réservation de réunion | Intégration de Live Chat, intégration de Meeting Booking |
 
 ### Activer et configurer une compétence
 
@@ -179,34 +178,22 @@ Les composants de conversation contrôlent les éléments individuels que les vi
 
 ## Configuration de la réservation de réunions et du chat en direct
 
-Réservation de réunion et discussion en direct permettent aux visiteurs de réserver des réunions avec des représentants commerciaux ou de commencer une discussion en direct avec un représentant. Ces fonctionnalités sont optimisées par un produit associé appelé Sales Qualifier.
+Réservation de réunion et discussion en direct permettent aux visiteurs de réserver des réunions avec des représentants commerciaux ou de commencer une discussion en direct avec un représentant. Ces fonctionnalités sont optimisées par un produit d’accompagnement appelé [!DNL Adobe Marketo Qualifier] et sont proposées aux visiteurs via la compétence **[!UICONTROL Remise aux ventes]**.
 
 ### Rôles et responsabilités
 
-- **Spécialiste marketing :** configure les compétences et l’intégration dans Brand Concierge.
-- **Représentant commercial :** connecte son propre calendrier et configure la disponibilité.
+- **Spécialiste marketing :** configure les compétences et les intégrations dans Brand Concierge.
+- **Représentant commercial :** connecte son propre calendrier et configure la disponibilité dans [!DNL Adobe Marketo Qualifier].
 
 ### Configurer la réservation de réunion ou le chat en direct
 
-1. Dans **Parcourir les intégrations**, ouvrez **Réservation de réunion** ou **Discussion en direct**. Par défaut, tous les membres de l’organisation sont disponibles en tant que membres potentiels de l’équipe ; aucune étape distincte n’est nécessaire à ce stade pour ajouter des membres de l’équipe.
+Pour la procédure complète, voir [Chat en direct et réservation de réunion](../sales-handoff/overview.md). La configuration se compose de quatre parties :
 
-1. Demandez à chaque représentant de se connecter à `experienceplatform.adobe.com`, ouvrez **Sales Qualifier** et accédez à **Paramètres du profil**.
+1. [Configurer des représentants dans Adobe Marketo Qualifier](../sales-handoff/representative-setup.md) — connectez un calendrier, définissez l&#39;e-mail de confirmation et définissez le calendrier et la disponibilité du chat en direct.
 
-1. Demandez à chaque représentant de connecter un calendrier, tel qu&#39;Outlook. Microsoft Teams peut éventuellement être inclus. Le représentant peut également définir l&#39;objet de l&#39;invitation à la réunion et le texte de l&#39;e-mail.
+1. [Acheminer les conversations vers les représentants](../sales-handoff/routing-rules.md) — choisissez un appel à tour de rôle, un agent direct ou des règles de routage personnalisées.
 
-1. Configurez la disponibilité. La disponibilité est extraite du calendrier par défaut et peut être limitée davantage par :
-   - Durée de la réunion
-   - Durée de la mémoire tampon entre les réunions
-   - Préavis minimum requis
-   - Fenêtres de temps disponibles spécifiques
-
-1. Configurez la disponibilité du Live Chat séparément, en utilisant un processus similaire.
-
-1. Dans Brand Concierge, ouvrez **Membres gérés** et confirmez que les représentants s&#39;affichent comme disponibles.
-
-1. Activez l’intégration **Réservation de réunion** et/ou **Discussion en direct**.
-
-1. Accédez à **Parcourir les compétences** et sélectionnez **Réserver une réunion avec les ventes** et/ou **Chat en direct avec les ventes**. Définissez les déclencheurs, joignez l’intégration correspondante et enregistrez la compétence.
+1. [Activer le chat en direct et la réservation de réunion](../sales-handoff/configure-in-composer.md) — connectez les intégrations **[!UICONTROL Réservation de réunion]** et **[!UICONTROL Chat en direct]**, puis activez la compétence **[!UICONTROL Remise aux ventes]**.
 
 1. Sélectionnez **Simuler** pour tester l’expérience de bout en bout. Saisissez un exemple de question et confirmez qu’elle mène au flux correct de compétences et d’engagement.
 
@@ -214,10 +201,9 @@ Réservation de réunion et discussion en direct permettent aux visiteurs de ré
 
 Lorsque les fonctionnalités sont actives :
 
-- Les discussions en direct entrantes s’affichent pour les représentants disponibles en temps réel.
-- Les réunions réservées s&#39;affichent dans une vue de réunions.
-- Un rapport sur les performances des réunions est disponible dans Analytics.
-- Les réunions et conversations sont envoyées à Marketo sous forme d’activités, avec les données d’activité existantes.
+- Les discussions en direct entrantes s’affichent en temps réel pour les représentants disponibles dans la [boîte de réception de conversation](../sales-handoff/chat-inbox.md).
+- Les réunions réservées apparaissent dans une vue de réunions et un rapport de performances de réunion est disponible dans Analytics. Voir [Surveiller les réunions et les discussions en direct](../sales-handoff/monitor.md).
+- Les réunions et conversations sont envoyées à Marketo sous forme d’activités, avec les données d’activité existantes. Voir [Données Brand Concierge dans Marketo Engage](../sales-handoff/marketo-activities.md).
 
 ## Partage d’un lien d’aperçu
 

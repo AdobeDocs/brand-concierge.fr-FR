@@ -11,22 +11,27 @@ jira: KT-19622
 TQID: https://experienceleague.adobe.com/4wW6FTaGpq-BrAvZzMh0PATAT2WkCuB-YRBCnGyJEYs
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
+    internal-label: Personalization
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 121
-ht-degree: 51%
-
+source-wordcount: '125'
+ht-degree: 49%
 ---
-
 # Réserver une réunion
 
 Découvrez la fonctionnalité de réservation de réunion disponible dans Adobe Brand Concierge. Dans ce tutoriel vidéo, les rubriques abordées sont l’expérience client, la configuration administrative pour connecter un calendrier et un aperçu de certains tableaux de bord et rapports.
@@ -43,6 +48,6 @@ Découvrez la fonctionnalité de réservation de réunion disponible dans Adobe�
 * Découvrez la rapidité et la facilité d’un transfert vers un agent en direct
 * Découvrez comment ces outils sont gérés et configurés
 
->[!VIDEO](https://video.tv.adobe.com/v/3478536?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
-Pour plus de documentation, voir [Réunions](../documentation/meetings.md).
+Pour plus de documentation, voir [Chat en direct et réservation de réunions](../documentation/sales-handoff/overview.md).
