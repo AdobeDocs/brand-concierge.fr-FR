@@ -33,7 +33,7 @@ Une personne créée par l&#39;intermédiaire d&#39;un concierge est identifiée
 
 | Champ | Valeur |
 | --- | --- |
-| Source Personne ]****[!UICONTROL  | `Brand Concierge` |
+| Source Personne **&#x200B;**&#x200B;| `Brand Concierge` |
 | **[!UICONTROL Type Source d’origine]** | `Chat` |
 | **[!UICONTROL Informations Source d’origine]** | `Concierge` |
 | **[!UICONTROL Type de Source d’enregistrement]** | `Chat` |
@@ -102,7 +102,7 @@ Consigné après la fin d’une conversation en direct.
 | --- | --- |
 | Statut de la conversation | `Ended` si la conversation a été fermée délibérément, `Dropped` si le visiteur a quitté le site et que la conversation a expiré |
 | Agents notifiés | Les adresses e-mail de chaque agent qui a été averti de cette conversation |
-| Score de la conversation | La note de 0 à 3 attribuée au représentant a donné la conversation. Voir [ Noter la conversation ](chat-inbox.md#conversation-score) |
+| Score de la conversation | La note de 0 à 3 attribuée au représentant a donné la conversation. Voir [&#x200B; Noter la conversation &#x200B;](chat-inbox.md#conversation-score) |
 | Page URL (URL de la page) | Page sur laquelle le chat en direct a été lancé |
 | ID Concierge | Le concierge avec lequel le visiteur a été engagé |
 | Identifiant de session | Identifiant de session de conversation en direct |

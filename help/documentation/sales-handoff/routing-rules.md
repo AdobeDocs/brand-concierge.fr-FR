@@ -33,7 +33,7 @@ Vous choisissez un type de routage séparément pour l&#39;intégration **[!UICO
 | **[!UICONTROL Agent direct]** | Un représentant que vous nommez | Non |
 | **[!UICONTROL Routage personnalisé]** | Représentants affectés à la règle de routage de priorité la plus élevée pour laquelle le visiteur est éligible | Oui |
 
-La rotation est disponible par défaut et ne nécessite aucune configuration. Vous définissez le type de routage sur l’intégration elle-même. Voir [ Activer le chat en direct et la réservation de réunions](configure-in-composer.md).
+La rotation est disponible par défaut et ne nécessite aucune configuration. Vous définissez le type de routage sur l’intégration elle-même. Voir [&#x200B; Activer le chat en direct et la réservation de réunions](configure-in-composer.md).
 
 ### Round-robin {#round-robin}
 
@@ -71,7 +71,7 @@ Le routage personnalisé évalue les règles que vous créez en [!DNL Adobe Mark
 
    La liste affiche chaque règle de votre organisation avec sa priorité, son nom, son créateur et sa date de création.
 
-   ![Page Règles de transmission répertoriant les règles existantes avec les colonnes Priorité, Nom, Créé par et Créé sur ](../assets/sales-handoff-routing-1.png){width="800" zoomable="yes"}
+   ![Page Règles de transmission répertoriant les règles existantes avec les colonnes Priorité, Nom, Créé par et Créé sur &#x200B;](../assets/sales-handoff-routing-1.png){width="800" zoomable="yes"}
 
 1. Sélectionnez **[!UICONTROL Créer une règle]** et donnez un nom à la règle.
 
@@ -107,4 +107,4 @@ Dans la règle gagnante, les représentants qui lui sont assignés sont le pool 
 
 ## Étape suivante {#next}
 
-Une fois les représentants configurés et le routage décidé, ajoutez les capacités à un concierge. Voir [ Activer le chat en direct et la réservation de réunions](configure-in-composer.md).
+Une fois les représentants configurés et le routage décidé, ajoutez les capacités à un concierge. Voir [&#x200B; Activer le chat en direct et la réservation de réunions](configure-in-composer.md).

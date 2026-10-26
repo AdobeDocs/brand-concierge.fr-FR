@@ -35,7 +35,7 @@ Les représentants effectuent eux-mêmes les étapes restantes.
 
 La connexion au calendrier est ce qui rend la disponibilité réelle visible pour un concierge. Sans cela, le représentant n&#39;est pas éligible pour la réservation de réunion.
 
-1. Connectez-vous à [ Adobe Experience Cloud ](https://experience.adobe.com/){target="_blank"} et sélectionnez **[!UICONTROL Adobe Marketo Qualifier]**.
+1. Connectez-vous à [&#x200B; Adobe Experience Cloud &#x200B;](https://experience.adobe.com/){target="_blank"} et sélectionnez **[!UICONTROL Adobe Marketo Qualifier]**.
 
    ![Page d’accueil d’Adobe Experience Cloud avec la carte Adobe Marketo Qualifier](../assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
