@@ -1,29 +1,36 @@
 ---
-title: Forum aux questions
+title: Questions fréquentes
 description: Obtenez des réponses aux questions fréquentes sur Adobe Brand Concierge.
 role: User,Admin
 level: Beginner
 TQID: https://experienceleague.adobe.com/R-s7wgJ5jtCXnBiLMVdW-6db7cTgSgaJwq4x6IlEJqY
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: d23569d059a42297a92b339ecf92852fb3234033
+    internal-label: Customer profiles
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 1958
+source-wordcount: '1980'
 ht-degree: 1%
-
 ---
-
 # Questions fréquentes
 
 Lisez cette section pour obtenir des réponses aux questions fréquentes sur Brand Concierge.
@@ -141,7 +148,7 @@ Tous les tests sont effectués avant le déploiement sur les clients.
 
 ### Les clients peuvent-ils planifier des réunions avec notre équipe ?
 
-Oui, les clients peuvent planifier des réunions avec votre équipe à l&#39;aide de la compétence Réservation de réunion. Pour activer cette fonctionnalité, activez la compétence dans la configuration des compétences, définissez les intentions d’activation (telles que « parler avec les ventes »), connectez votre calendrier ou votre système de planification, et définissez vos types de disponibilité et de réunion. Une fois la configuration effectuée, les clients peuvent demander des réunions pendant les conversations et Brand Concierge facilite le processus de planification sans qu&#39;ils aient à quitter la conversation.
+Oui. Les clients peuvent planifier des réunions avec votre équipe ou commencer une conversation en direct avec un représentant à l’aide de la compétence **Remise aux ventes** avec les intégrations **Réservation de réunion** et **Discussion en direct**. Les représentants connectent leur calendrier et définissent leur disponibilité dans Adobe Marketo Qualifier, vous choisissez comment les visiteurs sont acheminés vers eux, puis vous activez la compétence dans le compositeur et définissez les intentions qui la déclenchent. Une fois la configuration effectuée, les clients peuvent demander une réunion ou une conversation en direct au cours d’une conversation sans quitter la conversation. Voir [Chat en direct et réservation de réunions](sales-handoff/overview.md).
 
 ### Comment sont générées les paires questions/réponses initiales dans ma base de connaissances ?
 

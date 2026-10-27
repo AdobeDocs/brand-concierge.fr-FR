@@ -5,9 +5,9 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1327'
 ht-degree: 0%
 ---
 # Informations sur la version actuelle {#current-release-notes}
@@ -15,6 +15,22 @@ ht-degree: 0%
 Adobe Brand Concierge suit un modèle de diffusion continue, ce qui permet à Adobe de diffuser régulièrement de nouvelles fonctionnalités, de nouvelles améliorations et de nouveaux correctifs.
 
 Toutes les fonctionnalités sont généralement disponibles, sauf indication contraire.
+
+## Octobre 2026 {#october-2026}
+
+* **Notation des conversations pour le chat en direct** : les représentants commerciaux évaluent chaque chat en direct avant de le fermer, sur une échelle de 0 à 3, du moins qualifié au plus qualifié. La note est stockée dans l’enregistrement de prospect et est disponible en tant que contrainte sur les filtres et triggers Marketo Engage, afin d’orienter la note du prospect, le reciblage, la personnalisation et la remise du CRM. Voir [&#x200B; Noter la conversation &#x200B;](../documentation/sales-handoff/chat-inbox.md#conversation-score).
+
+* **Activités Brand Concierge dans le profil Marketo Engage** : l’engagement du concierge est écrit dans l’enregistrement de personne Marketo sous la forme de trois types d’activités natifs : Engagement avec le concierge, Planification de la réunion avec le concierge et Engagement du chat en direct dans le concierge. Tous trois sont disponibles en tant que déclencheurs et filtres dans les listes dynamiques, avec des contraintes telles que le score de conversation, le statut de la réunion, le type de routage et le commercial. Voir [Données Brand Concierge dans Marketo Engage](../documentation/sales-handoff/marketo-activities.md).
+
+* **Profil Marketo complet dans le panneau des visiteurs** : la boîte de réception de conversation affiche le profil du visiteur à côté de la conversation, y compris les détails qu’il a partagés dans le formulaire de pré-conversation, afin que les représentants aient un contexte complet avant de répondre.
+
+* **Notifications de routage multicanal** : les représentants sont avertis des conversations en direct entrantes sur plusieurs canaux. Les conversations sont donc récupérées plus rapidement.
+
+## Septembre 2026 {#september-2026}
+
+* **Messagerie instantanée et Réservation de réunion dans le compositeur 2.0** : la messagerie instantanée et la réservation de réunion sont disponibles en tant qu’intégrations intégrées dans le panneau Parcourir les intégrations du compositeur. La nouvelle compétence Transfert vers les ventes décide alors quand les proposer en fonction de l’intention du visiteur. Voir [&#x200B; Activer le chat en direct et la réservation de réunions](../documentation/sales-handoff/configure-in-composer.md).
+
+* **Règles de routage personnalisées** : créez des règles de routage sur les attributs de prospect et d’entreprise Marketo pour envoyer les visiteurs au bon représentant, à l’aide de plusieurs groupes de conditions combinés avec ET et OU, des règles hiérarchisées et plusieurs représentants affectés. Le routage personnalisé s&#39;applique à la fois à la réservation de réunions et au chat en direct. Voir [Acheminer les conversations vers les représentants](../documentation/sales-handoff/routing-rules.md).
 
 ## Août 2026 {#august-2026}
 
