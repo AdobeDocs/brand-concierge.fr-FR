@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 # Acheminer les conversations vers les représentants {#routing}
@@ -33,13 +33,13 @@ Vous choisissez un type de routage séparément pour l&#39;intégration **[!UICO
 | **[!UICONTROL Agent direct]** | Un représentant que vous nommez | Non |
 | **[!UICONTROL Routage personnalisé]** | Représentants affectés à la règle de routage de priorité la plus élevée pour laquelle le visiteur est éligible | Oui |
 
-La rotation est disponible par défaut et ne nécessite aucune configuration. Vous définissez le type de routage sur l’intégration elle-même. Voir [&#x200B; Activer le chat en direct et la réservation de réunions](configure-in-composer.md).
+La rotation est disponible par défaut et ne nécessite aucune configuration. Vous définissez le type de routage sur l’intégration elle-même. Voir [ Activer le chat en direct et la réservation de réunion](configure-in-composer.md).
 
 ### Round-robin {#round-robin}
 
 Le round robin se comporte différemment pour les réunions et pour les chats, car les deux ont des objectifs différents.
 
-**Pour la réservation de réunions**, la rotation répartit les réunions de manière égale. Le premier représentant éligible qui a connecté un calendrier est proposé en premier. Une fois qu&#39;une réunion est réservée avec eux, ils sont retirés de la piscine et le représentant suivant est offert. Avec cinq représentants, les cinq premières réunions sont réservées à cinq personnes différentes. Une fois que tout le monde en a reçu un, le pool se réinitialise et le cycle recommence.
+Pour la réservation de réunions, la rotation répartit les réunions de manière égale. Le premier représentant éligible qui a connecté un calendrier est proposé en premier. Une fois qu&#39;une réunion est réservée avec eux, ils sont retirés de la piscine et le représentant suivant est offert. Avec cinq représentants, les cinq premières réunions sont réservées à cinq personnes différentes. Une fois que tout le monde en a reçu un, le pool se réinitialise et le cycle recommence.
 
 La piscine se réinitialise également toutes les 24 heures, de sorte que les réunions de chaque jour soient réparties équitablement.
 
@@ -47,7 +47,7 @@ La piscine se réinitialise également toutes les 24 heures, de sorte que les r�
 >
 >La réinitialisation circulaire de 24 heures s’exécute sur UTC, et non sur le fuseau horaire local du représentant.
 
-**Pour le chat en direct**, il n’y a pas de rotation séquentielle. Chaque représentant éligible est averti de la conversation entrante en même temps, et le premier à accepter prend la conversation.
+Pour le chat en direct, il n’y a pas de rotation séquentielle. Chaque représentant éligible est averti de la conversation entrante en même temps, et le premier à accepter prend la conversation.
 
 ### Agent direct {#direct-agent}
 
@@ -57,9 +57,9 @@ Chaque réunion ou conversation de ce concierge va au représentant unique que v
 
 Le routage personnalisé évalue les règles que vous créez en [!DNL Adobe Marketo Qualifier] par rapport aux attributs de prospect [!DNL Marketo] et d’entreprise du visiteur. Utilisez-le lorsque le bon représentant dépend d’une information que vous connaissez sur le visiteur, par exemple :
 
-* **Géographie** — des visiteurs d&#39;un ensemble de pays font partie de l&#39;équipe régionale.
-* **Intérêt du produit** — Les visiteurs intéressés par un produit spécifique s&#39;adressent aux spécialistes de ce produit.
-* **Unité opérationnelle, taille de l&#39;entreprise ou secteur d&#39;activité** — toute combinaison d&#39;attributs de prospect et d&#39;entreprise.
+* Géographie : les visiteurs d&#39;un ensemble de pays vont à l&#39;équipe régionale.
+* Intérêt du produit : les visiteurs intéressés par un produit spécifique s’adressent aux spécialistes de ce produit.
+* Unité opérationnelle, taille de société ou secteur d’activité : toute combinaison d’attributs de prospect et de société.
 
 >[!IMPORTANT]
 >
@@ -71,7 +71,7 @@ Le routage personnalisé évalue les règles que vous créez en [!DNL Adobe Mark
 
    La liste affiche chaque règle de votre organisation avec sa priorité, son nom, son créateur et sa date de création.
 
-   ![Page Règles de transmission répertoriant les règles existantes avec les colonnes Priorité, Nom, Créé par et Créé sur &#x200B;](../assets/sales-handoff-routing-1.png){width="800" zoomable="yes"}
+   ![Page Règles de transmission répertoriant les règles existantes avec les colonnes Priorité, Nom, Créé par et Créé sur ](../assets/sales-handoff-routing-1.png){width="800" zoomable="yes"}
 
 1. Sélectionnez **[!UICONTROL Créer une règle]** et donnez un nom à la règle.
 
@@ -103,8 +103,8 @@ Dans ce cas, seule la règle de correspondance de priorité la plus élevée est
 >
 >Un nombre inférieur signifie une priorité supérieure. Une règle de priorité 1 l’emporte sur une règle de priorité 2. La personne qui crée une règle définit sa priorité.
 
-Dans la règle gagnante, les représentants qui lui sont assignés sont le pool éligible, et le tour de table et le comportement de tous les agents décrits ci-dessus s&#39;appliquent à ce pool.
+Dans la règle gagnante, les représentants qui lui sont assignés sont le pool éligible, et le comportement circulaire pour les réunions et le comportement de notification à tout le monde pour les conversations, tous deux décrits ci-dessus, s&#39;appliquent à ce pool.
 
 ## Étape suivante {#next}
 
-Une fois les représentants configurés et le routage décidé, ajoutez les capacités à un concierge. Voir [&#x200B; Activer le chat en direct et la réservation de réunions](configure-in-composer.md).
+Une fois les représentants configurés et le routage décidé, ajoutez les capacités à un concierge. Voir [ Activer le chat en direct et la réservation de réunion](configure-in-composer.md).

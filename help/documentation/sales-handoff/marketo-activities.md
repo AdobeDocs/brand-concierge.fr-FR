@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '785'
 ht-degree: 4%
 ---
 # Données Brand Concierge dans Marketo Engage {#marketo-activities}
@@ -33,7 +33,7 @@ Une personne créée par l&#39;intermédiaire d&#39;un concierge est identifiée
 
 | Champ | Valeur |
 | --- | --- |
-| Source Personne **&#x200B;**&#x200B;| `Brand Concierge` |
+| Source Personne ]****[!UICONTROL  | `Brand Concierge` |
 | **[!UICONTROL Type Source d’origine]** | `Chat` |
 | **[!UICONTROL Informations Source d’origine]** | `Concierge` |
 | **[!UICONTROL Type de Source d’enregistrement]** | `Chat` |
@@ -61,13 +61,13 @@ Consigné lorsqu’un visiteur interagit avec le concierge.
 
 >[!NOTE]
 >
->Certains attributs de ce type d’activité, notamment les rubriques abordées, le résumé et la langue, ne sont pas encore renseignés. Leur publication est prévue pour une prochaine version.
+>Certains attributs de ce type d’activité, notamment les rubriques abordées, le résumé et la langue, sont prévus pour une version ultérieure.
 
 ### Planifier une réunion au Concierge {#schedule-meeting}
 
-Connecté **deux fois** pour une seule réservation, ce qui permet de séparer l’intention du résultat.
+Connecté deux fois pour une seule réservation, ce qui permet de séparer l’intention du résultat.
 
-**D&#39;abord, à l&#39;initiation.** Le visiteur a sélectionné l’option de planification d’une réunion et le formulaire de réservation s’est affiché. Le statut de la réunion est `Started`.
+Tout d&#39;abord, à l&#39;initiation : le visiteur a sélectionné l&#39;option de planifier une réunion et le formulaire de réservation s&#39;est affiché. Le statut de la réunion est `Started`.
 
 | Attribut | Description |
 | --- | --- |
@@ -76,7 +76,7 @@ Connecté **deux fois** pour une seule réservation, ce qui permet de séparer l
 | ID Concierge | Le concierge avec lequel le visiteur a été engagé |
 | ID de personne | Enregistrement de personne [!DNL Marketo] |
 
-**Ensuite, lors de la réservation.** Le visiteur a confirmé un créneau horaire. Le statut de la réunion est `Scheduled`.
+Ensuite, lors de la réservation : le visiteur a confirmé un créneau horaire. Le statut de la réunion est `Scheduled`.
 
 | Attribut | Description |
 | --- | --- |
@@ -85,14 +85,14 @@ Connecté **deux fois** pour une seule réservation, ce qui permet de séparer l
 | E-mail du représentant commercial | Adresse e-mail du représentant |
 | Planifié pour | Date et heure de la réunion |
 | Durée de la réunion | Durée de la réunion réservée |
-| Type de transmission | Routage qui a résolu le calendrier de ce représentant |
+| Type de transmission | Type de routage qui a sélectionné ce représentant |
 | Page URL (URL de la page) | Page sur laquelle le visiteur a réservé |
 | ID Concierge | Le concierge avec lequel le visiteur a été engagé |
 | ID de personne | Enregistrement de personne [!DNL Marketo] |
 
 >[!TIP]
 >
->Créer une liste dynamique sur `Meeting Status` est `Started`, mais pas `Scheduled` de trouver toutes les personnes qui ont commencé à réserver une réunion et l’ont abandonnée. Il s’agit d’une audience prête à l’emploi ou de reciblage.
+>Créez une liste dynamique des personnes dont le `Meeting Status` est `Started`, mais pas `Scheduled` de trouver toutes les personnes qui ont commencé à réserver une réunion et l’ont abandonnée. Il s’agit d’une audience prête à l’emploi ou de reciblage.
 
 ### Communiquer avec le service de conversation en direct de Concierge {#engage-with-live-chat}
 
@@ -101,8 +101,8 @@ Consigné après la fin d’une conversation en direct.
 | Attribut | Description |
 | --- | --- |
 | Statut de la conversation | `Ended` si la conversation a été fermée délibérément, `Dropped` si le visiteur a quitté le site et que la conversation a expiré |
-| Agents notifiés | Les adresses e-mail de chaque agent qui a été averti de cette conversation |
-| Score de la conversation | La note de 0 à 3 attribuée au représentant a donné la conversation. Voir [&#x200B; Noter la conversation &#x200B;](chat-inbox.md#conversation-score) |
+| Agents notifiés | Les adresses e-mail de chaque représentant qui a été averti de cette conversation |
+| Score de la conversation | La note de 0 à 3 attribuée au représentant a donné la conversation. Voir [ Noter la conversation ](chat-inbox.md#conversation-score) |
 | Page URL (URL de la page) | Page sur laquelle le chat en direct a été lancé |
 | ID Concierge | Le concierge avec lequel le visiteur a été engagé |
 | Identifiant de session | Identifiant de session de conversation en direct |
@@ -121,8 +121,8 @@ Dans la **[!UICONTROL liste dynamique]** d’une campagne dynamique, recherchez 
 | Catégorie | Éléments disponibles |
 | --- | --- |
 | **[!UICONTROL Triggers]** | Dialoguer avec Concierge, Dialoguer avec Concierge en direct, Organiser une réunion avec Concierge |
-| **[!UICONTROL Filtres]** > Historique des activités | Engagé avec Concierge, Engagé avec le chat en direct dans Concierge, Réunion programmée dans Concierge |
-| **[!UICONTROL Filtres]** > Filtres d’inactivité | Pas d’engagement avec le concierge, Pas d’engagement avec le chat en direct avec le concierge, Pas de réunion programmée avec le concierge |
+| **[!UICONTROL Filtres]** > **[!UICONTROL Historique des activités]** | Engagé avec Concierge, Engagé avec le chat en direct dans Concierge, Réunion programmée dans Concierge |
+| **[!UICONTROL Filtres]** > **[!UICONTROL Filtres d’inactivité]** | Pas d’engagement avec le concierge, Pas d’engagement avec le chat en direct avec le concierge, Pas de réunion programmée avec le concierge |
 
 Faites glisser un déclencheur ou un filtre sur la zone de travail, puis sélectionnez **[!UICONTROL Ajouter une contrainte]** pour le réduire.
 

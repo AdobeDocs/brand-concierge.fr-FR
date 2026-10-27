@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '786'
 ht-degree: 1%
 ---
 # Configurer des représentants dans Adobe Marketo Qualifier {#representative-setup}
@@ -35,7 +35,7 @@ Les représentants effectuent eux-mêmes les étapes restantes.
 
 La connexion au calendrier est ce qui rend la disponibilité réelle visible pour un concierge. Sans cela, le représentant n&#39;est pas éligible pour la réservation de réunion.
 
-1. Connectez-vous à [&#x200B; Adobe Experience Cloud &#x200B;](https://experience.adobe.com/){target="_blank"} et sélectionnez **[!UICONTROL Adobe Marketo Qualifier]**.
+1. Connectez-vous à [ Adobe Experience Cloud ](https://experience.adobe.com/){target="_blank"} et sélectionnez **[!UICONTROL Adobe Marketo Qualifier]**.
 
    ![Page d’accueil d’Adobe Experience Cloud avec la carte Adobe Marketo Qualifier](../assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
@@ -49,7 +49,7 @@ La connexion au calendrier est ce qui rend la disponibilité réelle visible pou
 
    ![Le sélecteur de compte Microsoft s’affiche pendant la connexion au calendrier](../assets/meetings-connect-3.png){width="600" zoomable="yes"}
 
-1. Examinez l’e-mail de confirmation envoyé à un visiteur lorsqu’il réserve une réunion avec vous.
+1. Examinez l’e-mail de confirmation qu’un visiteur reçoit lorsqu’il réserve une réunion avec vous.
 
    Une ligne d’objet et un corps par défaut sont définis pour vous. Modifiez l&#39;un ou l&#39;autre et choisissez d&#39;inclure un lien de réunion [!DNL Microsoft Teams] dans l&#39;invitation.
 
@@ -112,7 +112,7 @@ La disponibilité du chat en direct est distincte de la disponibilité du calend
 
 ## Vérifier qui est configuré {#manage-members}
 
-**Administrateurs uniquement.** Sous **[!UICONTROL Administration]**, sélectionnez **[!UICONTROL Gérer les membres]** pour afficher l’état de chaque représentant au même endroit : qui a connecté un calendrier, qui a défini la disponibilité du chat en direct et qui a déconnecté un calendrier.
+Cette section est réservée aux administrateurs. Sous **[!UICONTROL Administration]**, sélectionnez **[!UICONTROL Gérer les membres]** pour afficher l’état de chaque représentant au même endroit : qui a connecté un calendrier, qui a défini la disponibilité du chat en direct et qui a déconnecté un calendrier.
 
 Utilisez cette option avant d’activer les intégrations dans le compositeur. Un représentant qui apparaît ici sans calendrier connecté n&#39;est pas éligible pour la réservation de réunion, et un représentant sans disponibilité de chat en direct n&#39;est pas éligible au chat en direct.
 

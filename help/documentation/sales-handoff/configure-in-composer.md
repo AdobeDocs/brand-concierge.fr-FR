@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '828'
 ht-degree: 1%
 ---
 # Activer le chat en direct et la réservation de réunion {#configure-in-composer}
@@ -27,7 +27,7 @@ Deux éléments doivent être en place dans le compositeur. Les intégrations **
 >
 >Terminez [d’abord configurer des représentants dans Adobe Marketo Qualifier](representative-setup.md). Les intégrations vérifient les calendriers connectés et la disponibilité du chat en direct, et ne s’activeront pas sans eux.
 
-## Connecter l&#39;intégration Réservation de réunion {#connect-meeting-booking}
+## Connecter l&#39;intégration de réservation de réunion {#connect-meeting-booking}
 
 1. Dans le compositeur, ouvrez votre concierge et sélectionnez **[!UICONTROL Intégrations]** > **[!UICONTROL Parcourir les intégrations]**.
 
@@ -54,7 +54,7 @@ Deux éléments doivent être en place dans le compositeur. Les intégrations **
 
 1. Sélectionnez **[!UICONTROL Connexion]**.
 
-## Connecter l’intégration de la discussion en direct {#connect-live-chat}
+## Connecter l’intégration du chat en direct {#connect-live-chat}
 
 1. Dans **[!UICONTROL Parcourir les intégrations]**, sélectionnez **[!UICONTROL Discussion en direct]**, puis sélectionnez **[!UICONTROL Configurer]**.
 
@@ -100,7 +100,7 @@ Les intégrations sont maintenant connectées, mais le concierge doit encore sav
    | Comparaison avec la concurrence | Comparaison de vos solutions avec celles d&#39;autres concurrents, différenciation ou migration depuis une plateforme concurrente |
    | Accès à la version d’évaluation et à la preuve de concept | Configurations d’essai, accès au terrain de jeu, preuves de concept ou pilotes |
    | Modifications de contrat et de licence | Renouvellements de contrat, prolongations de contrat ou mises à niveau de plan |
-   | Appel d&#39;offres ou demande d&#39;information d&#39;approvisionnement | Envois, réponses, questionnaires fournisseur, formulaires d&#39;approvisionnement ou documentation sur la conformité |
+   | Appel d&#39;offres ou demande d&#39;information d&#39;approvisionnement | Soumissions et réponses aux demandes de renseignements ou aux demandes de renseignements, questionnaires des fournisseurs, formulaires d&#39;approvisionnement ou documentation sur la conformité |
    | Démonstrations | Démonstrations ou explications de produit |
 
    Sélectionnez **[!UICONTROL Ajouter une condition]** pour ajouter votre propre intention, ou supprimez toute condition qui ne s’applique pas à votre entreprise.
@@ -123,6 +123,6 @@ Ouvrez l’aperçu et demandez au concierge quelque chose qui correspond à l’
 
 Lorsque le comportement est correct, publiez votre concierge pour que la remise soit activée sur votre site.
 
-## Étape suivante {#next}
+## Étapes suivantes {#next-steps}
 
-Vos représentants peuvent maintenant recevoir des chats. Voir [Boîte de réception de conversation](chat-inbox.md).
+Vos représentants peuvent désormais recevoir des chats et des réservations de réunion. Pour savoir comment les représentants gèrent une conversation, consultez [Boîte de réception de conversation](chat-inbox.md).
