@@ -18,7 +18,7 @@ Toutes les fonctionnalités sont généralement disponibles, sauf indication con
 
 ## Octobre 2026 {#october-2026}
 
-* **Notation des conversations pour le chat en direct** : les représentants commerciaux évaluent chaque chat en direct avant de le fermer, sur une échelle de 0 à 3, du moins qualifié au plus qualifié. La note est stockée dans l’enregistrement de prospect et est disponible en tant que contrainte sur les filtres et triggers Marketo Engage, afin d’orienter la note du prospect, le reciblage, la personnalisation et la remise du CRM. Voir [ Noter la conversation ](../documentation/sales-handoff/chat-inbox.md#conversation-score).
+* **Notation des conversations pour le chat en direct** : les représentants commerciaux évaluent chaque chat en direct avant de le fermer, sur une échelle de 0 à 3, du moins qualifié au plus qualifié. La note est stockée dans l’enregistrement de prospect et est disponible en tant que contrainte sur les filtres et triggers Marketo Engage, afin d’orienter la note du prospect, le reciblage, la personnalisation et la remise du CRM. Voir [&#x200B; Noter la conversation &#x200B;](../documentation/sales-handoff/chat-inbox.md#conversation-score).
 
 * **Activités Brand Concierge dans le profil Marketo Engage** : l’engagement du concierge est écrit dans l’enregistrement de personne Marketo sous la forme de trois types d’activités natifs : Engagement avec le concierge, Planification de la réunion avec le concierge et Engagement du chat en direct dans le concierge. Tous trois sont disponibles en tant que déclencheurs et filtres dans les listes dynamiques, avec des contraintes telles que le score de conversation, le statut de la réunion, le type de routage et le commercial. Voir [Données Brand Concierge dans Marketo Engage](../documentation/sales-handoff/marketo-activities.md).
 
@@ -28,7 +28,7 @@ Toutes les fonctionnalités sont généralement disponibles, sauf indication con
 
 ## Septembre 2026 {#september-2026}
 
-* **Messagerie instantanée et Réservation de réunion dans le compositeur 2.0** : la messagerie instantanée et la réservation de réunion sont disponibles en tant qu’intégrations intégrées dans le panneau Parcourir les intégrations de Composer. La nouvelle compétence Transfert vers les ventes détermine quand les proposer en fonction de l’intention du visiteur. Voir [ Activer le chat en direct et la réservation de réunion](../documentation/sales-handoff/configure-in-composer.md).
+* **Messagerie instantanée et Réservation de réunion dans le compositeur 2.0** : la messagerie instantanée et la réservation de réunion sont disponibles en tant qu’intégrations intégrées dans le panneau Parcourir les intégrations de Composer. La nouvelle compétence Transfert vers les ventes détermine quand les proposer en fonction de l’intention du visiteur. Voir [&#x200B; Activer le chat en direct et la réservation de réunion](../documentation/sales-handoff/configure-in-composer.md).
 
 * **Règles de routage personnalisées** : créez des règles de routage sur les attributs de prospect et d’entreprise Marketo pour envoyer les visiteurs au bon représentant, à l’aide de plusieurs groupes de conditions combinés avec ET et OU, des règles hiérarchisées et plusieurs représentants affectés. Le routage personnalisé s&#39;applique à la fois à la réservation de réunions et au chat en direct. Voir [Acheminer les conversations vers les représentants](../documentation/sales-handoff/routing-rules.md).
 

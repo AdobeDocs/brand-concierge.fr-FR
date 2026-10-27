@@ -91,7 +91,7 @@ Examinez-les dans l’ordre.
 1. [Acheminer les conversations vers les représentants](routing-rules.md) — choisissez un appel à tour de rôle, un agent direct ou des règles personnalisées basées sur des attributs [!DNL Marketo].
 1. [Activer le chat en direct et la réservation de réunion](configure-in-composer.md) — connectez les deux intégrations et activez la compétence **[!UICONTROL Transfert vers les ventes]**.
 1. [Boîte de réception de conversation](chat-inbox.md) — Ce que les représentants font une fois une conversation arrivée, y compris noter la conversation.
-1. [Données Brand Concierge dans Marketo Engage ](marketo-activities.md) — les champs de prospect et les types d&#39;activité réécrits dans [!DNL Marketo], et comment les utiliser dans les campagnes intelligentes.
+1. [Données Brand Concierge dans Marketo Engage &#x200B;](marketo-activities.md) — les champs de prospect et les types d&#39;activité réécrits dans [!DNL Marketo], et comment les utiliser dans les campagnes intelligentes.
 1. [Surveiller les réunions et les discussions en direct](monitor.md) — la liste des réservations et le tableau de bord des performances.
 
 ## Conservation des données {#retention}
