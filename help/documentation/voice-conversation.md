@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '337'
 ht-degree: 0%
 ---
 # Activer les conversations vocales
@@ -66,3 +66,7 @@ La voix ne limite pas le concierge au son. Au cours d’une conversation vocale,
 1. Dans l’onglet **Conception**, sélectionnez **Voix**.
 
 1. Dans le panneau _Voix_, désactivez les options que vous souhaitez désactiver, puis sélectionnez **Enregistrer**.
+
+## Démonstration vidéo
+
+Pour voir les conversations vocales en action, consultez la [vidéo de démonstration](/help/getting-started/voice-conversation.md).

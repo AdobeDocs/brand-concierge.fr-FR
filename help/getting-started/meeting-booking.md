@@ -27,14 +27,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 49%
+source-wordcount: '124'
+ht-degree: 16%
 ---
 # Réserver une réunion
 
-Découvrez la fonctionnalité de réservation de réunion disponible dans Adobe Brand Concierge. Dans ce tutoriel vidéo, les rubriques abordées sont l’expérience client, la configuration administrative pour connecter un calendrier et un aperçu de certains tableaux de bord et rapports.
+Découvrez la fonctionnalité de réservation de réunion dans Adobe Brand Concierge. Dans ce tutoriel vidéo, les sujets abordés sont ce à quoi peut ressembler l’expérience face aux clients, la configuration de l’administration pour connecter un calendrier et un aperçu de certains tableaux de bord et rapports.
 
 ## À qui s&#39;adresse cette vidéo ?
 

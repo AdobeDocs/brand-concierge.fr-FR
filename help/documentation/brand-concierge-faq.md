@@ -26,9 +26,9 @@ topic_v2:
     internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1981'
 ht-degree: 1%
 ---
 # Questions fréquentes
@@ -148,7 +148,7 @@ Tous les tests sont effectués avant le déploiement sur les clients.
 
 ### Les clients peuvent-ils planifier des réunions avec notre équipe ?
 
-Oui. Les clients peuvent planifier des réunions avec votre équipe ou commencer une conversation en direct avec un représentant à l’aide de la compétence **Remise aux ventes** avec les intégrations **Réservation de réunion** et **Discussion en direct**. Les représentants connectent leur calendrier et définissent leur disponibilité dans Adobe Marketo Qualifier, vous choisissez comment les visiteurs sont acheminés vers eux, puis vous activez la compétence dans le compositeur et définissez les intentions qui la déclenchent. Une fois la configuration effectuée, les clients peuvent demander une réunion ou une conversation en direct au cours d’une conversation sans quitter la conversation. Voir [Chat en direct et réservation de réunions](sales-handoff/overview.md).
+Oui. Les clients peuvent planifier des réunions avec votre équipe ou commencer une discussion en direct avec un représentant en utilisant les intégrations **Remise aux ventes** avec les intégrations **Réservation de réunion** et **Discussion en direct**. Les représentants connectent leur calendrier et définissent leur disponibilité dans Adobe Marketo Qualifier. Vous choisissez comment les visiteurs sont acheminés vers eux, puis vous activez la compétence dans le compositeur et définissez les intentions qui la déclenchent. Une fois la configuration effectuée, les clients peuvent demander une réunion ou une conversation en direct au cours d’une conversation sans quitter la conversation. Voir [Chat en direct et réservation de réunions](sales-handoff/overview.md).
 
 ### Comment sont générées les paires questions/réponses initiales dans ma base de connaissances ?
 

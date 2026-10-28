@@ -17,7 +17,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Découvrez comment Brand Concierge ferme la boucle entre votre site web et Marke
 ## Contenu vidéo
 
 * Comment les conversations des visiteurs passent de Brand Concierge à Marketo : de la capture de piste dans la conversation, à la réservation de réunion et à la création automatique de piste
-* Le type d’activité natif « Réunion planifiée en concierge » consigné dans le journal d’activité du prospect, avec un contexte complet : durée de la réunion, étape de vente, type de routage et statut de réservation
+* Le type d’activité natif « Planifier une réunion dans Concierge » consigné dans le journal d’activité du prospect, avec un contexte complet : durée de la réunion, étape de vente, type de routage et statut de réservation
 * Utilisation des types d’activité Brand Concierge dans les campagnes intelligentes Marketo en tant que déclencheurs, filtres ou données de campagnes par lots
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492252?captions=fre_fr&learn=on)

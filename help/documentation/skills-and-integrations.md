@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '1705'
+source-wordcount: '1703'
 ht-degree: 1%
 ---
 # Cadre de compétences et d’intégration {#skills-and-integrations}
@@ -81,8 +81,8 @@ Vous trouverez ci-dessous les intégrations affichées dans le panneau **Parcour
 | Recherche optimisée par l&#39;IA de contenu | Recherche le contenu de la marque via l’IA dédiée au contenu | Autre source de contenu. En règle générale, une seule source parmi la recherche dans la base de connaissances ou la Recherche optimisée par l&#39;IA de contenu est nécessaire à la fois |
 | Liaison d&#39;entité | Résout les produits ou les mentions de marque dans le message d’un utilisateur sur des entités de catalogue spécifiques | Prise en charge de l’intégration, utilisée avec une intégration de recherche plutôt que seule |
 | COMMERCE MCP | Serveur MCP Commerce géré par Adobe : recherche de produits, détails, variantes et découverte de facettes/attributs, soutenue par la recherche Adobe Live | Pas dans la ligne de base ; ajouté manuellement pour les cas d’utilisation de Commerce |
-| Réservation de réunion | Permet aux visiteurs de réserver une réunion avec un représentant commercial | Nécessite une configuration avec le calendrier d&#39;un représentant commercial, via le produit [!DNL Adobe Marketo Qualifier] associé. Voir [Chat en direct et réservation de réunions](sales-handoff/overview.md) |
-| Conversation en direct | Connecte les visiteurs à un représentant commercial en direct | Nécessite une configuration avec la disponibilité d&#39;un représentant commercial via le produit [!DNL Adobe Marketo Qualifier] associé. Voir [Chat en direct et réservation de réunions](sales-handoff/overview.md) |
+| Réservation de réunion | Permet aux visiteurs de réserver une réunion avec un représentant commercial | Nécessite une configuration avec le calendrier d&#39;un représentant commercial, via le produit [!DNL Adobe Marketo Qualifier] associé. Voir [Chat en direct et réservation de réunions](sales-handoff/overview.md). |
+| Conversation en direct | Connecte les visiteurs à un représentant commercial en direct | Nécessite une configuration avec la disponibilité d&#39;un représentant commercial via le produit [!DNL Adobe Marketo Qualifier] associé. Voir [Chat en direct et réservation de réunions](sales-handoff/overview.md). |
 
 ![Parcourir le panneau des intégrations présentant quatre cartes d’intégration : Recherche optimisée par l&#39;IA de contenu, liaison d’entité, recherche dans la base de connaissances et MCP Commerce](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
@@ -96,7 +96,7 @@ Vous trouverez ci-dessous les compétences affichées dans le panneau **Parcouri
 | Conseil sur le produit | Découvrir et rechercher des produits : fiches produits nommées et questions sur les produits en prose | Recherche dans la base de connaissances, liaison d&#39;entités |
 | Découverte des catalogues Adobe Commerce | Rechercher, parcourir, filtrer et obtenir des détails complets sur les produits d’un catalogue dynamique | Outils de MCP Commerce : recherche dans les produits Commerce, détails du produit, variantes de produit, facettes de produit et attributs consultables |
 | Comparaison des produits Adobe Commerce | Comparaison côte à côte de plusieurs produits nommés dans un tableau pour Commerce | Outils de MCP Commerce : recherche dans les produits Commerce, détails du produit |
-| Remise aux ventes | Met en relation les visiteurs avec un conseiller d&#39;entreprise via les outils disponibles : suggère et facilite un chat en direct ou une réservation de réunion. Voir [&#x200B; Activer le chat en direct et la réservation de réunions](sales-handoff/configure-in-composer.md) | Conversation en direct, réservation de réunion |
+| Remise aux ventes | Relie les visiteurs à un représentant commercial par le biais d’un chat en direct ou d’une réservation de réunion, selon l’intention du visiteur. Voir [&#x200B; Activer le chat en direct et la réservation de réunion](sales-handoff/configure-in-composer.md). | Conversation en direct, réservation de réunion |
 
 Les deux compétences commerciales sont des fonctionnalités de catalogue uniquement et dépendent de l’intégration de Commerce MCP, qui ne fait pas partie de la base. Dans un service de conciergerie hors commerce, les services de conseil sur le site et de conseil sur les produits s’exécutent sur la recherche dans la base de connaissances créée automatiquement à la place.
 

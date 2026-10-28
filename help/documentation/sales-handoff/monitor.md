@@ -14,14 +14,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '225'
 ht-degree: 0%
 ---
 # Surveiller les réunions et les discussions en direct {#monitor}
 
-[!DNL Adobe Marketo Qualifier] tient le registre opérationnel de chaque remise : les réunions qui ont été réservées, les conversations qui ont eu lieu et la performance de l’équipe par rapport à elles.
+[!DNL Adobe Marketo Qualifier] conserve l’enregistrement opérationnel de chaque remise : les réunions qui ont été réservées, les conversations qui ont eu lieu et la performance des réservations de réunion.
 
 ## Consulter les réunions réservées {#bookings}
 
@@ -39,9 +39,9 @@ Sous **[!UICONTROL Activités]**, sélectionnez **[!UICONTROL Boîte de récepti
 
 ## Analyse des performances des réunions {#performance}
 
-Sous **[!UICONTROL Analytics]**, sélectionnez **[!UICONTROL Performances des réunions]** pour passer en revue plusieurs catégories d’analyse, y compris le nombre de visiteurs qui ont demandé des réunions et le nombre de celles qui ont été manquantes. Vous pouvez également voir la tendance des réunions au fil du temps et les représentants qui les ont suivies.
+Sous **[!UICONTROL Analytics]**, sélectionnez **[!UICONTROL Performances des réunions]** pour afficher le nombre de réunions demandées par les visiteurs, le nombre de réunions réservées et le nombre de réunions manquantes. Vous pouvez également voir les tendances quotidiennes, hebdomadaires et mensuelles, le pourcentage de réunions demandées qui ont été réservées et les représentants qui ont pris le plus de réunions.
 
-![Tableau de bord des performances des réunions](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![Tableau de bord des performances des réunions indiquant le nombre total de réunions demandées, réservées et manquées, suivi de graphiques quotidiens des réunions manquées et du pourcentage de demandes réservées](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
 
 ## Analyse de l’engagement du concierge dans Marketo Engage {#marketo}
 

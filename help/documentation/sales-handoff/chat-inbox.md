@@ -12,16 +12,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '638'
 ht-degree: 1%
 ---
 # Boîte de réception du chat {#chat-inbox}
 
 Lorsqu’un visiteur demande à parler à quelqu’un, le chat arrive dans la boîte de réception **[!UICONTROL Chat]** en [!DNL Adobe Marketo Qualifier]. Cette page présente le point de vue du représentant d’un chat en direct : ce que vous voyez lorsqu’il arrive, le contexte que vous obtenez et ce que vous devez faire avant de pouvoir le fermer.
 
-Pour l’ouvrir, dans le panneau de gauche sous **[!UICONTROL Activités]**, sélectionnez **[!UICONTROL Boîte de réception de conversation]**.
+Pour ouvrir la boîte de réception de conversation, dans le panneau de gauche sous **[!UICONTROL Activités]**, sélectionnez **[!UICONTROL Boîte de réception de conversation]**.
 
 ## Recevoir une conversation {#receive}
 

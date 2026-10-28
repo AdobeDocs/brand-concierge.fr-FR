@@ -15,17 +15,17 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '768'
 ht-degree: 1%
 ---
 # Chat en direct et aperçu des réservations de réunion {#overview}
 
 Un concierge répond à la plupart des questions tout seul. Certaines conversations ont besoin d’une personne : une négociation de prix, un questionnaire d’approvisionnement, une demande de démonstration. Le chat en direct et la réservation de réunions sont les deux façons dont Brand Concierge donne cette conversation à un humain sans perdre le contexte que le visiteur a déjà fourni.
 
-* Le **chat en direct** connecte immédiatement le visiteur à un représentant disponible, dans la même fenêtre de chat.
-* **Réservation de réunion** offre au visiteur de véritables créneaux horaires ouverts à partir du calendrier d&#39;un représentant et réserve la réunion.
+* Le chat en direct connecte immédiatement le visiteur à un représentant disponible, dans la même fenêtre de chat.
+* La réservation de réunion offre au visiteur de véritables créneaux horaires ouverts à partir du calendrier d&#39;un représentant et réserve la réunion.
 
 Les deux sont proposés par la même compétence, **[!UICONTROL remise aux ventes]**, et les deux passent par [!DNL Adobe Marketo Qualifier] (anciennement [!DNL Sales Qualifier]), où vos représentants connectent leurs calendriers, définissent leur disponibilité et prennent part à des discussions.
 
@@ -40,7 +40,7 @@ Quatre pièces doivent s&#39;aligner avant qu&#39;un visiteur puisse atteindre u
 | Intégrations | **[!UICONTROL Réservation de réunion]** et **[!UICONTROL Chat en direct]** permettent au concierge de vérifier la disponibilité, de lancer une conversation et de réserver une place | Compositeur > **[!UICONTROL Parcourir les intégrations]** |
 | Compétence | **[!UICONTROL Remise à l’équipe des ventes]** décide *quand* de proposer une remise, en fonction de l’intention du visiteur | Compositeur > **[!UICONTROL Parcourir les compétences]** |
 
-Au moment de l’exécution : le visiteur dit quelque chose qui correspond à l’une des conditions de la compétence **[!UICONTROL à utiliser quand]**, la compétence se déclenche, il appelle les intégrations qui lui sont associées, le routage résout un représentant et le visiteur se voit proposer une conversation, une réunion ou les deux.
+Au moment de l’exécution, le visiteur dit quelque chose qui correspond à l’une des conditions **[!UICONTROL Utiliser quand]** de la compétence. La compétence se déclenche et appelle les intégrations qui y sont associées. Le routage résout ensuite un représentant et le visiteur se voit proposer une conversation, une réunion ou les deux.
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ Si le visiteur choisit de réserver une réunion, le concierge affiche un calend
 
 ![Réservez une carte de réunion dans la conversation avec un calendrier mensuel et la liste des créneaux horaires disponibles](../assets/sales-handoff-visitor-3.png){width="800" zoomable="yes"}
 
-Une fois que le visiteur a confirmé un créneau horaire, l’e-mail de confirmation du représentant est envoyé, comprenant éventuellement un lien [!DNL Microsoft Teams]. Le contexte de la conversation est envoyé au représentant qui a envoyé l’invitation.
+Une fois qu’il a confirmé l’emplacement, il reçoit l’e-mail de confirmation du représentant, qui comprend éventuellement un lien [!DNL Microsoft Teams]. Le contexte de la conversation est envoyé au représentant qui a envoyé l’invitation.
 
 ## Ce dont vous avez besoin avant de commencer {#prerequisites}
 

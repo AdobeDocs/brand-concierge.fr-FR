@@ -5,7 +5,7 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1702'
 ht-degree: 1%
@@ -77,8 +77,8 @@ Sélectionnez **Parcourir les intégrations** pour afficher le catalogue d’int
 | Recherche optimisée par l&#39;IA de contenu | Recherche du contenu AEM Sites | Pertinent pour les clients d’AEM Sites as a Cloud Service |
 | Liaison d&#39;entité | Résout les produits ou les mentions de marque dans le message d’un visiteur sur des entités de catalogue spécifiques | Prise en charge de l’intégration, généralement utilisée avec une intégration de recherche plutôt que seule |
 | COMMERCE MCP | Se connecte à un catalogue Adobe Commerce actif pour rechercher des produits, obtenir des détails sur les produits et des comparaisons | Non activé par défaut ; nécessite des codes ou des clés de l’équipe commerciale ou informatique |
-| Réservation de réunion | Permet aux visiteurs de réserver une réunion avec un représentant commercial | Nécessite une configuration avec le calendrier d&#39;un commercial. Voir [Chat en direct et réservation de réunions](../sales-handoff/overview.md) |
-| Conversation en direct | Connecte les visiteurs à un représentant commercial en direct | Nécessite une configuration avec la disponibilité d&#39;un représentant commercial. Voir [Chat en direct et réservation de réunions](../sales-handoff/overview.md) |
+| Réservation de réunion | Permet aux visiteurs de réserver une réunion avec un représentant commercial | Nécessite une configuration avec le calendrier d&#39;un commercial. Voir [Chat en direct et réservation de réunions](../sales-handoff/overview.md). |
+| Conversation en direct | Connecte les visiteurs à un représentant commercial en direct | Nécessite une configuration avec la disponibilité d&#39;un représentant commercial. Voir [Chat en direct et réservation de réunions](../sales-handoff/overview.md). |
 
 ### Activer et configurer une intégration
 

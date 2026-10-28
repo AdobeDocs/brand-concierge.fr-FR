@@ -5,7 +5,7 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1327'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Toutes les fonctionnalités sont généralement disponibles, sauf indication con
 
 ## Septembre 2026 {#september-2026}
 
-* **Messagerie instantanée et Réservation de réunion dans le compositeur 2.0** : la messagerie instantanée et la réservation de réunion sont disponibles en tant qu’intégrations intégrées dans le panneau Parcourir les intégrations du compositeur. La nouvelle compétence Transfert vers les ventes décide alors quand les proposer en fonction de l’intention du visiteur. Voir [&#x200B; Activer le chat en direct et la réservation de réunions](../documentation/sales-handoff/configure-in-composer.md).
+* **Messagerie instantanée et Réservation de réunion dans le compositeur 2.0** : la messagerie instantanée et la réservation de réunion sont disponibles en tant qu’intégrations intégrées dans le panneau Parcourir les intégrations de Composer. La nouvelle compétence Transfert vers les ventes détermine quand les proposer en fonction de l’intention du visiteur. Voir [&#x200B; Activer le chat en direct et la réservation de réunion](../documentation/sales-handoff/configure-in-composer.md).
 
 * **Règles de routage personnalisées** : créez des règles de routage sur les attributs de prospect et d’entreprise Marketo pour envoyer les visiteurs au bon représentant, à l’aide de plusieurs groupes de conditions combinés avec ET et OU, des règles hiérarchisées et plusieurs représentants affectés. Le routage personnalisé s&#39;applique à la fois à la réservation de réunions et au chat en direct. Voir [Acheminer les conversations vers les représentants](../documentation/sales-handoff/routing-rules.md).
 
