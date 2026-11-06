@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Explorer Adobe Brand Concierge
-source-git-commit: 636dfd59c05251b6e07523877d9f7ab2df302f04
+source-git-commit: e0d8937790c9ecec27214488801fa155a3ad4e81
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 12%
+source-wordcount: '253'
+ht-degree: 11%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -33,6 +33,7 @@ ht-degree: 12%
 + Réservation de réunions et de discussions en direct {#live-chat-and-meeting-booking}
   + [Réservation de réunions et chat en direct : l&#39;expérience de bout en bout](../live-chat-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience.md)
   + [Définir la disponibilité et le routage pour le chat en direct et les réunions](../live-chat-meeting-booking/configure-availability-and-routing-for-live-chat-and-meetings.md)
+  + [Utilisation des activités Brand Concierge dans Marketo](../live-chat-meeting-booking/use-brand-concierge-activities-in-marketo.md)
 + Documentation {#documentation}
   + [Aide de Brand Concierge](../documentation/overview.md)
   + [Cadre de compétences et d’intégration](../documentation/skills-and-integrations.md)
