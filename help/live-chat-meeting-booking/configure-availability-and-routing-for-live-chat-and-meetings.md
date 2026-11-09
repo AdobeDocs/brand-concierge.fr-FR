@@ -5,12 +5,12 @@ topic: Administration
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 201
+duration: 206
 last-substantial-update: 2026-11-03
 jira: KT-23034
-source-git-commit: 636dfd59c05251b6e07523877d9f7ab2df302f04
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '168'
 ht-degree: 0%
 ---
 # Définir la disponibilité et le routage pour le chat en direct et les réunions
@@ -29,6 +29,12 @@ Découvrez comment Adobe Brand Concierge utilise les règles de disponibilité e
 * Définir des heures de chat en direct distinctes et vérifier le niveau de préparation des représentants dans Gérer les membres
 * Créez des règles de routage avec des attributs de visiteur, des conditions, des affectations représentatives et des priorités
 
->[!VIDEO](https://video.tv.adobe.com/v/3506787?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
 
 Pour consulter la documentation, voir [Configurer des représentants](../documentation/sales-handoff/representative-setup.md) et [Acheminer les conversations vers les représentants](../documentation/sales-handoff/routing-rules.md).
+
+## Tutoriels connexes
+
+* [Réservation de réunions et chat en direct : l&#39;expérience de bout en bout](live-chat-and-meeting-booking-end-to-end-experience.md)
+* [Configuration du chat en direct et de la réservation de réunions](configure-live-chat-and-meeting-booking.md)
+* [Utilisation des activités Brand Concierge dans Marketo](use-brand-concierge-activities-in-marketo.md)

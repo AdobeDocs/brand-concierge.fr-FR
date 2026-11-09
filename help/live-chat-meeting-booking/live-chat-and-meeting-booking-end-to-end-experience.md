@@ -5,12 +5,12 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 178
+duration: 184
 last-substantial-update: 2026-10-29
 jira: KT-23033
-source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 # Réservation de réunions et chat en direct : l&#39;expérience de bout en bout
@@ -30,6 +30,12 @@ Découvrez comment Adobe Brand Concierge connecte les visiteurs du site web aux 
 * Comment les visiteurs sélectionnent une heure de réunion disponible à l’aide des règles de routage, sans envoyer à nouveau les détails déjà fournis pendant la session
 * Comment votre équipe examine les conversations actives et passées et les réunions réservées dans Marketo, recherche et filtre les enregistrements et exporte les informations de réunion au format CSV
 
->[!VIDEO](https://video.tv.adobe.com/v/3506000?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
 
 Pour consulter la documentation, voir [Chat en direct et réservation de réunions](../documentation/sales-handoff/overview.md).
+
+## Tutoriels connexes
+
+* [Définir la disponibilité et le routage pour le chat en direct et les réunions](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [Configuration du chat en direct et de la réservation de réunions](configure-live-chat-and-meeting-booking.md)
+* [Utilisation des activités Brand Concierge dans Marketo](use-brand-concierge-activities-in-marketo.md)
