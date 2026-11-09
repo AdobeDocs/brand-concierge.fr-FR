@@ -1,16 +1,16 @@
 ---
 title: Utilisation des activités Brand Concierge dans Marketo
-description: Découvrez comment Brand Concierge envoie des données d’engagement à Marketo et utilise des filtres d’activité et des déclencheurs dans les campagnes intelligentes.
+description: Découvrez comment Adobe Brand Concierge envoie des données d’engagement à Marketo Engage et utilise des filtres d’activité, des déclencheurs et des scores de conversation dans les campagnes intelligentes.
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 276
+duration: 282
 last-substantial-update: 2026-11-06
 jira: KT-23062
-source-git-commit: 5d5b641a252c21e1c490cc77f169ac651d9654d1
+source-git-commit: 07679bbe94abeeebcd160cff4cb41f0f561ac63e
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '179'
 ht-degree: 0%
 ---
 # Utilisation des activités Brand Concierge dans Marketo
@@ -30,6 +30,12 @@ Découvrez comment Adobe Brand Concierge envoie des détails de personne et des 
 * Distinguer les réservations de réunion commencées des réunions planifiées
 * Vérifier le statut des conversations en direct et les scores de conversation attribués au représentant
 * Ajouter des filtres d’activité et des déclencheurs Concierge au `Smart List` d’une campagne intelligente
-* Audiences étroites avec contraintes d’activité disponibles, telles que le statut, les dates, le type de routage, l’URL de la page, le commercial et le score de conversation
+* Audiences étroites avec des contraintes d’activité, telles que le statut, les dates, le type de routage, l’URL de la page, le commercial et le score de conversation
 
->[!VIDEO](https://video.tv.adobe.com/v/3508043?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+
+## Tutoriels connexes
+
+* [Réservation de réunions et chat en direct : l&#39;expérience de bout en bout](live-chat-and-meeting-booking-end-to-end-experience.md)
+* [Définir la disponibilité et le routage pour le chat en direct et les réunions](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [Configuration du chat en direct et de la réservation de réunions](configure-live-chat-and-meeting-booking.md)
