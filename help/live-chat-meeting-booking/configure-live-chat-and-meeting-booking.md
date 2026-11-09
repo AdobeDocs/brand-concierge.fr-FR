@@ -30,7 +30,7 @@ Découvrez comment configurer le chat en direct et la réservation de réunion d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3508052?learn=on)
 
-Pour consulter la documentation, voir [ Activer le chat en direct et la réservation de réunion](../documentation/sales-handoff/configure-in-composer.md).
+Pour consulter la documentation, voir [&#x200B; Activer le chat en direct et la réservation de réunion](../documentation/sales-handoff/configure-in-composer.md).
 
 ## Tutoriels connexes
 
