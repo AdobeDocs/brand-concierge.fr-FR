@@ -29,7 +29,7 @@ Découvrez comment Adobe Brand Concierge utilise les règles de disponibilité e
 * Définir des heures de chat en direct distinctes et vérifier le niveau de préparation des représentants dans Gérer les membres
 * Créez des règles de routage avec des attributs de visiteur, des conditions, des affectations représentatives et des priorités
 
->[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506787?captions=fre_fr&learn=on)
 
 Pour consulter la documentation, voir [Configurer des représentants](../documentation/sales-handoff/representative-setup.md) et [Acheminer les conversations vers les représentants](../documentation/sales-handoff/routing-rules.md).
 

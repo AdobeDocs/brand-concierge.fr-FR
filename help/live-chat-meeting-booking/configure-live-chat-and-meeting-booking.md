@@ -28,7 +28,7 @@ Découvrez comment configurer le chat en direct et la réservation de réunion d
 * Ajoutez les intégrations à la compétence Transfert vers les ventes et définissez les intentions qui la déclenchent
 * Consultez les instructions générées automatiquement, affinez les intentions qui déclenchent chaque intégration et testez les compétences dans l’aperçu
 
->[!VIDEO](https://video.tv.adobe.com/v/3508052?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508054?captions=fre_fr&learn=on)
 
 Pour consulter la documentation, voir [&#x200B; Activer le chat en direct et la réservation de réunion](../documentation/sales-handoff/configure-in-composer.md).
 
