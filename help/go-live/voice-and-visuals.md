@@ -39,7 +39,7 @@ Votre concierge ne devrait pas ressembler à un bot conversationnel générique,
 * Choix visuels du widget : emplacement, mode d’affichage, couleur et police
 * Nommer l’assistant, écrire ses salutations et choisir des invites de démarrage
 
->[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496944/?captions=fre_fr&learn=on)
 
 ## Tutoriels connexes
 
