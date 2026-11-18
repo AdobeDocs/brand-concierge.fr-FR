@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '202'
 ht-degree: 0%
 ---
 
@@ -39,7 +39,7 @@ Préparez-vous à publier Adobe Brand Concierge, un assistant optimisé par l’
 * Ce que vous fournissez par rapport à ce que votre équipe Adobe configure
 * Le délai type de six à neuf semaines et ce qui l’affecte
 
->[!VIDEO](https://video.tv.adobe.com/v/3495871/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
 
 ## Tutoriels connexes
 
@@ -48,6 +48,6 @@ Préparez-vous à publier Adobe Brand Concierge, un assistant optimisé par l’
 * [Mesurer la qualité et définir des mécanismes de sécurisation](measuring-quality-and-setting-guardrails.md)
 * [Configuration technique et fonctionnalités facultatives](technical-setup-and-optional-features.md)
 * [Votre liste de contrôle avant la mise en production et votre plan de déploiement](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Liste de contrôle de mise en production de Brand Concierge](https://experienceleague.adobe.com/fr/playlists/brand-concierge-go-live-checklist)
+* [Liste de contrôle de mise en production de Brand Concierge](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
-Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
+Pour consulter la documentation, voir la [liste de contrôle d’activation](../documentation/go-live-checklist/go-live-checklist.md) et l’[aide de Brand Concierge](../documentation/overview.md).

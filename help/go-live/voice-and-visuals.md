@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '185'
 ht-degree: 0%
 ---
 
@@ -39,7 +39,7 @@ Votre concierge ne devrait pas ressembler à un bot conversationnel générique,
 * Choix visuels du widget : emplacement, mode d’affichage, couleur et police
 * Nommer l’assistant, écrire ses salutations et choisir des invites de démarrage
 
->[!VIDEO](https://video.tv.adobe.com/v/3496944/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
 
 ## Tutoriels connexes
 
@@ -48,6 +48,6 @@ Votre concierge ne devrait pas ressembler à un bot conversationnel générique,
 * [Mesurer la qualité et définir des mécanismes de sécurisation](measuring-quality-and-setting-guardrails.md)
 * [Configuration technique et fonctionnalités facultatives](technical-setup-and-optional-features.md)
 * [Votre liste de contrôle avant la mise en production et votre plan de déploiement](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Liste de contrôle de mise en production de Brand Concierge](https://experienceleague.adobe.com/fr/playlists/brand-concierge-go-live-checklist)
+* [Liste de contrôle de mise en production de Brand Concierge](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
-Pour consulter la documentation, voir l’aide de [&#128279;](../documentation/overview.md).
+Pour consulter la documentation, voir la [liste de contrôle d’activation](../documentation/go-live-checklist/go-live-checklist.md) et l’[aide de Brand Concierge](../documentation/overview.md).
